@@ -144,73 +144,121 @@ export const courseData = {
           lessons: [
             {
               id: "vocab-2-1",
-              title: "Greek and Latin Roots",
+              title: "Word Building Blocks: Greek and Latin Roots & Affixes",
               type: "lesson",
               content: {
-                introduction: "Many English words come from Greek and Latin roots. Understanding these word parts helps you 'unlock' the meaning of thousands of unfamiliar words. This is a crucial skill for Grade 6 academic success!",
-                explanation: "**Greek Roots:**\n- **bio** (life): biology, biography, biosphere\n- **graph** (write): autograph, paragraph, graphic\n- **tele** (far): telescope, telephone, television\n- **phon** (sound): microphone, symphony, telephone\n- **micro** (small): microscope, microbiome, microwave\n- **scope** (see/look): telescope, microscope, periscope\n\n**Latin Roots:**\n- **port** (carry): transport, portable, export\n- **dict** (say/speak): dictate, predict, dictionary\n- **scrib/script** (write): describe, manuscript, inscription\n- **vid/vis** (see): video, visible, vision\n- **aud** (hear): audio, auditorium, audible\n- **struct** (build): construct, structure, instruct\n\n**Common Prefixes:**\n- **pre-** (before): prefix, predict, prepare, preview\n- **anti-** (against): antidote, antisocial, antiseptic, antibacterial\n- **post-** (after): postpone, postscript, postwar\n- **trans-** (across): transport, transfer, translate\n- **re-** (again): replay, rewrite, return\n\n**The 'Context, Clue, Connect' Method:**\n1. **Context**: Read the word in a full sentence\n2. **Clue**: Look for prefixes, suffixes, or roots you recognize\n3. **Connect**: Try to use the word in a sentence about your own life",
+                introduction: "Many English words come from Greek and Latin 'building blocks' called roots and affixes. Understanding these parts helps you 'unlock' the meaning of thousands of unfamiliar words—like having a superpower for vocabulary! This is one of the most important skills for Grade 6 academic success because academic vocabulary is built from these roots.",
+                explanation: "**🏛️ WHY LEARN ROOTS AND AFFIXES?**\n\n**The Power of Word Parts**:\n- English has over 1 million words, but knowing just 20 Greek and Latin roots helps you understand over 100,000 words!\n- When you see an unfamiliar word on a test or in a book, you can use word parts to figure out its meaning.\n- Academic vocabulary (words used in science, history, and literature) is mostly based on Greek and Latin.\n\n**THE THREE PARTS OF A WORD**:\n\n1. **PREFIX** = Beginning (changes or adds to the meaning)\n2. **ROOT** = Middle (core meaning)\n3. **SUFFIX** = End (changes the word type or meaning)\n\n**Example**: **un**-**break**-**able**\n- **un-** (prefix) = not\n- **break** (root) = to separate into pieces\n- **-able** (suffix) = capable of\n- **Meaning**: not capable of being broken\n\n---\n\n**📚 COMMON PREFIXES (BEGINNING)**\n\n**Prefixes Meaning 'NOT' or 'OPPOSITE'**:\n\n| Prefix | Meaning | Examples |\n|--------|---------|----------|\n| **un-** | not, opposite | unhappy, unlock, unfair |\n| **in-/im-/il-/ir-** | not | inactive, impossible, illegal, irregular |\n| **dis-** | not, opposite | disagree, disappear, dislike |\n| **non-** | not | nonfiction, nonstop, nonsense |\n| **anti-** | against | antibacterial, antisocial, antidote |\n\n**Prefixes About TIME**:\n\n| Prefix | Meaning | Examples |\n|--------|---------|----------|\n| **pre-** | before | preview, predict, prefix, prehistoric |\n| **post-** | after | postpone, postscript, postwar, postgame |\n| **re-** | again, back | rewrite, return, replay, rebuild |\n\n**Prefixes About PLACE or DIRECTION**:\n\n| Prefix | Meaning | Examples |\n|--------|---------|----------|\n| **trans-** | across, beyond | transport, transfer, translate, transcontinental |\n| **sub-** | under, below | submarine, subway, subzero, subtitle |\n| **super-** | above, beyond | superhero, supernatural, superior |\n| **inter-** | between | international, interact, interrupt |\n| **ex-** | out, from | exit, export, exclude, exhale |\n\n---\n\n**🌱 COMMON ROOTS (MIDDLE) - THE CORE MEANING**\n\n**GREEK ROOTS**:\n\n| Root | Meaning | Examples |\n|------|---------|----------|\n| **bio** | life | biology (study of life), biography (life story), biosphere (area of life) |\n| **graph** | write | autograph (self-written), paragraph (written section), graphic (written/drawn) |\n| **tele** | far, distance | telescope (see far), telephone (sound from far), television (see from far) |\n| **phon** | sound | microphone (small sound amplifier), symphony (sounds together), telephone |\n| **micro** | small | microscope (see small), microwave (small wave), microbiome (small life) |\n| **scope** | see, look | telescope (see far), microscope (see small), periscope (see around) |\n| **therm** | heat, temperature | thermometer (measure heat), thermal (relating to heat), thermostat |\n| **geo** | earth | geography (earth writing/study), geology (earth study), geothermal |\n| **photo** | light | photograph (light writing), photosynthesis (light putting together) |\n| **auto** | self | automatic (self-acting), autobiography (self-life story), automobile |\n\n**LATIN ROOTS**:\n\n| Root | Meaning | Examples |\n|------|---------|----------|\n| **port** | carry | transport (carry across), portable (able to be carried), export (carry out) |\n| **dict** | say, speak | dictate (say orders), predict (say before), dictionary (book of sayings) |\n| **scrib/script** | write | describe (write about), manuscript (hand-written), inscription (written in) |\n| **vid/vis** | see | video (I see), visible (able to be seen), vision (sight), evidence |\n| **aud** | hear | audio (sound), auditorium (place to hear), audible (able to be heard) |\n| **struct** | build | construct (build together), structure (something built), instruct (build in/teach) |\n| **rupt** | break | interrupt (break between), erupt (break out), disrupt (break apart) |\n| **tract** | pull, drag | attract (pull toward), tractor (vehicle that pulls), extract (pull out) |\n| **spect** | look, see | inspect (look into), spectator (one who looks), respect (look back at) |\n| **duc/duct** | lead | conduct (lead together), educate (lead out), reduce (lead back) |\n\n---\n\n**🎯 COMMON SUFFIXES (ENDING)**\n\n**Suffixes That Make NOUNS** (person, place, thing, idea):\n\n| Suffix | Meaning | Examples |\n|--------|---------|----------|\n| **-er, -or** | person who | teacher, actor, conductor, editor |\n| **-ist** | person who practices | scientist, artist, biologist, pianist |\n| **-ology** | study of | biology, geology, psychology, zoology |\n| **-tion, -sion** | act or process | education, creation, decision, confusion |\n| **-ment** | state of being | movement, enjoyment, government |\n| **-ness** | quality of | happiness, darkness, kindness, sadness |\n\n**Suffixes That Make ADJECTIVES** (describing words):\n\n| Suffix | Meaning | Examples |\n|--------|---------|----------|\n| **-able, -ible** | capable of, able to | readable, visible, breakable, edible |\n| **-ful** | full of | beautiful, helpful, cheerful, powerful |\n| **-less** | without | careless, homeless, hopeless, fearless |\n| **-ous, -ious** | full of, having | dangerous, nervous, curious, famous |\n\n**Suffixes That Make VERBS** (action words):\n\n| Suffix | Meaning | Examples |\n|--------|---------|----------|\n| **-ify** | to make | clarify (make clear), simplify (make simple) |\n| **-ize** | to become | modernize (make modern), realize |\n| **-ate** | to make, to do | activate (make active), celebrate |\n\n---\n\n**🔬 PUTTING IT ALL TOGETHER: WORD ANALYSIS**\n\n**Example 1**: **autobiography**\n- **auto-** (self) + **bio** (life) + **-graph** (write) + **-y** (makes it a noun)\n- **Meaning**: A written account of one's own life\n\n**Example 2**: **microscope**\n- **micro-** (small) + **-scope** (see)\n- **Meaning**: An instrument for seeing very small things\n\n**Example 3**: **predict**\n- **pre-** (before) + **-dict** (say)\n- **Meaning**: To say what will happen before it occurs\n\n**Example 4**: **transportation**\n- **trans-** (across) + **-port** (carry) + **-tion** (act of)\n- **Meaning**: The act of carrying something or someone across a distance\n\n**Example 5**: **geology**\n- **geo-** (earth) + **-ology** (study of)\n- **Meaning**: The scientific study of Earth's physical structure and substances\n\n---\n\n**💡 STRATEGY: THE 'BREAK IT DOWN' METHOD**\n\nWhen you encounter an unfamiliar word:\n\n**Step 1**: Break the word into parts (prefix | root | suffix)\n**Step 2**: Define each part\n**Step 3**: Combine the meanings\n**Step 4**: Check if it makes sense in context\n\n**Practice Example**: **interstate**\n- **Step 1**: inter- | state\n- **Step 2**: inter = between, state = a region/state\n- **Step 3**: between states\n- **Step 4**: 'We drove on the interstate highway.' ✓ Makes sense!\n\n---\n\n**🎓 WHY THIS MATTERS FOR GRADE 6**\n\nIn 6th grade, you'll encounter complex academic vocabulary in:\n- **Science**: photosynthesis, ecosystem, hypothesis\n- **Social Studies**: geography, democracy, civilization\n- **Math**: calculate, equation, geometry\n- **Language Arts**: autobiography, metaphor, analyze\n\nUnderstanding roots and affixes lets you decode these words independently!",
                 examples: [
                   {
-                    text: "autobiography",
-                    explanation: "auto (self) + bio (life) + graph (write) = a written account of one's own life"
+                    text: "**autobiography** (auto + bio + graph + y)",
+                    explanation: "**auto** (self) + **bio** (life) + **graph** (write) + **-y** (noun) = A written account of one's own life. Example: Benjamin Franklin's *Autobiography* tells his life story in his own words."
                   },
                   {
-                    text: "microscope",
-                    explanation: "micro (small) + scope (see) = an instrument for seeing very small things"
+                    text: "**microscope** (micro + scope)",
+                    explanation: "**micro** (small) + **scope** (see) = An instrument for seeing very small things. Example: We used a microscope in science class to examine cells that are invisible to the naked eye."
                   },
                   {
-                    text: "predict",
-                    explanation: "pre (before) + dict (say) = to say what will happen before it occurs"
+                    text: "**predict** (pre + dict)",
+                    explanation: "**pre** (before) + **dict** (say) = To say what will happen before it occurs. Example: Meteorologists predict the weather by analyzing atmospheric data."
+                  },
+                  {
+                    text: "**transportation** (trans + port + tion)",
+                    explanation: "**trans** (across) + **port** (carry) + **-tion** (act of) = The act of carrying people or goods from one place to another. Example: Public transportation in the city includes buses, trains, and subways."
+                  },
+                  {
+                    text: "**geothermal** (geo + therm + al)",
+                    explanation: "**geo** (earth) + **therm** (heat) + **-al** (relating to) = Relating to heat from within the Earth. Example: Iceland uses geothermal energy from underground hot springs to heat homes."
                   }
                 ]
               }
             },
             {
               id: "vocab-2-2",
-              title: "Practice: Roots and Affixes",
+              title: "Practice: Decoding Words with Roots and Affixes",
               type: "exercise",
               content: {
-                instructions: "Use your knowledge of roots, prefixes, and suffixes to determine the meaning of each word. Remember: Context, Clue, Connect!",
+                instructions: "Use your knowledge of Greek and Latin roots, prefixes, and suffixes to determine the meaning of each word. Apply the 'Break It Down' method: identify each word part, define it, then combine the meanings!",
                 questions: [
                   {
                     id: "q1",
-                    question: "What does 'telescope' mean based on its roots? (tele = far, scope = see)",
+                    question: "What does **telescope** mean based on its roots? (tele = far, scope = see)",
                     word: "telescope",
                     options: ["to see far away", "to write far away", "to hear far away", "to speak far away"],
                     correctAnswer: 0,
-                    explanation: "tele (far) + scope (see) = an instrument for seeing things that are far away"
+                    explanation: "**tele** (far) + **scope** (see) = An instrument for seeing things that are far away, like stars and planets."
                   },
                   {
                     id: "q2",
-                    question: "What does 'contradict' mean? (contra = against, dict = say)",
+                    question: "What does **contradict** mean? (contra = against, dict = say)",
                     word: "contradict",
-                    options: ["to say loudly", "to say something against or opposite", "to predict", "to speak clearly"],
+                    options: ["to say loudly", "to say something against or opposite", "to predict the future", "to speak clearly"],
                     correctAnswer: 1,
-                    explanation: "contra (against) + dict (say) = to say something that goes against or opposes what someone else said"
+                    explanation: "**contra** (against) + **dict** (say) = To say something that goes against or opposes what someone else said."
                   },
                   {
                     id: "q3",
-                    question: "What does 'biosphere' mean? (bio = life, sphere = ball/globe)",
+                    question: "What does **biosphere** mean? (bio = life, sphere = ball/globe)",
                     word: "biosphere",
                     options: ["a round ball", "the regions of Earth where life exists", "a type of microscope", "living in space"],
                     correctAnswer: 1,
-                    explanation: "bio (life) + sphere (globe) = the regions of Earth's surface and atmosphere where living organisms exist"
+                    explanation: "**bio** (life) + **sphere** (globe) = The regions of Earth's surface and atmosphere where living organisms exist."
                   },
                   {
                     id: "q4",
-                    question: "What does 'antiseptic' mean? (anti = against, septic = infection/decay)",
+                    question: "What does **antiseptic** mean? (anti = against, septic = infection/decay)",
                     word: "antiseptic",
-                    options: ["causing infection", "before infection", "preventing infection", "very clean"],
+                    options: ["causing infection", "before infection", "preventing infection", "very clean water"],
                     correctAnswer: 2,
-                    explanation: "anti (against) + septic (infection) = preventing infection or decay by destroying harmful microorganisms"
+                    explanation: "**anti** (against) + **septic** (infection) = Preventing infection or decay by destroying harmful microorganisms. Think of antiseptic wipes!"
                   },
                   {
                     id: "q5",
-                    question: "What does 'microbiome' mean? (micro = small, bio = life)",
+                    question: "What does **microbiome** mean? (micro = small, bio = life)",
                     word: "microbiome",
-                    options: ["small animals", "tiny living organisms in an environment", "a small book", "microscopic viewing"],
+                    options: ["small animals", "tiny living organisms in an environment", "a small book about life", "microscopic viewing"],
                     correctAnswer: 1,
-                    explanation: "micro (small) + bio (life) = the community of tiny living organisms (bacteria, fungi) in a particular environment"
+                    explanation: "**micro** (small) + **bio** (life) = The community of tiny living organisms (bacteria, fungi) in a particular environment, like your gut."
+                  },
+                  {
+                    id: "q6",
+                    question: "What does **audible** mean? (aud = hear, -ible = able to be)",
+                    word: "audible",
+                    options: ["able to be heard", "able to be seen", "very loud", "relating to audio equipment"],
+                    correctAnswer: 0,
+                    explanation: "**aud** (hear) + **-ible** (able to be) = Able to be heard. 'The teacher's voice was barely audible over the noise.'"
+                  },
+                  {
+                    id: "q7",
+                    question: "What does **geothermal** mean? (geo = earth, therm = heat, -al = relating to)",
+                    word: "geothermal",
+                    options: ["relating to cold earth", "relating to heat from within Earth", "measuring temperature", "earth science"],
+                    correctAnswer: 1,
+                    explanation: "**geo** (earth) + **therm** (heat) + **-al** (relating to) = Relating to heat from within the Earth, like hot springs or volcanic activity."
+                  },
+                  {
+                    id: "q8",
+                    question: "What does **construct** mean? (con = together, struct = build)",
+                    word: "construct",
+                    options: ["to tear down", "to build together", "to plan ahead", "to measure"],
+                    correctAnswer: 1,
+                    explanation: "**con** (together) + **struct** (build) = To build or put together. 'The students will construct a model bridge in science class.'"
+                  },
+                  {
+                    id: "q9",
+                    question: "What does **interrupt** mean? (inter = between, rupt = break)",
+                    word: "interrupt",
+                    options: ["to break apart", "to break between or stop temporarily", "to continue", "to repair something broken"],
+                    correctAnswer: 1,
+                    explanation: "**inter** (between) + **rupt** (break) = To break between or stop something temporarily. 'Please don't interrupt while I'm speaking.'"
+                  },
+                  {
+                    id: "q10",
+                    question: "What does **photosynthesis** mean? (photo = light, syn = together, thesis = putting/placing)",
+                    word: "photosynthesis",
+                    options: ["taking pictures", "the process plants use to make food with light", "light therapy", "studying photography"],
+                    correctAnswer: 1,
+                    explanation: "**photo** (light) + **syn** (together) + **thesis** (putting) = The process by which plants put together (create) food using light energy, water, and carbon dioxide."
                   }
                 ]
               }
@@ -223,23 +271,35 @@ export const courseData = {
           lessons: [
             {
               id: "vocab-3-1",
-              title: "Figurative Language: Similes, Metaphors, and More",
+              title: "Figurative Language: Beyond Literal Meanings",
               type: "lesson",
               content: {
-                introduction: "Figurative language helps writers create vivid images and express ideas in creative ways. California standards require Grade 6 students to identify and understand nuances in word meanings through various types of figurative language.",
-                explanation: "**Simile**: A comparison between two unlike things using 'like' or 'as'\n- Example: She was as brave as a lion.\n- Example: Quiet as a mouse.\n- Example: The snow fell like a soft blanket.\n\n**Metaphor**: A direct comparison that says one thing IS another thing (without using 'like' or 'as')\n- Example: Time is money.\n- Example: The snow is a white blanket.\n- Example: Her smile was sunshine on a cloudy day.\n\n**Personification**: Giving human qualities to non-human things\n- Example: The wind whistled through the trees.\n- Example: The sun smiled down on us.\n- Example: Time flies when you're having fun.\n\n**Hyperbole**: An extreme exaggeration for emphasis or effect\n- Example: I've told you a million times!\n- Example: This backpack weighs a ton.\n- Example: I'm so hungry I could eat a horse.\n\n**Key Differences:**\n- Similes use 'like' or 'as' to make comparisons\n- Metaphors make direct comparisons\n- Personification gives human traits to objects/ideas\n- Hyperbole uses extreme exaggeration\n\n**Why Use Them?**\n- Make writing more interesting and descriptive\n- Help readers visualize and understand ideas\n- Create emotional connections\n- Add emphasis or humor",
+                introduction: "Figurative language is when words mean MORE than their literal (dictionary) definition. Writers use figurative language to create vivid images, express emotions, and make writing more engaging. In Grade 6, you'll encounter figurative language in literature, poetry, and even informational texts.",
+                explanation: "**Understanding Figurative vs. Literal Language:**\n\n**Literal**: Words mean exactly what they say\n- 'The cat sat on the mat.' (The cat actually sat there)\n\n**Figurative**: Words have a deeper or different meaning\n- 'The classroom was a zoo.' (The classroom was chaotic, not actually a zoo!)\n\n---\n\n**THE FIVE MAIN TYPES:**\n\n**1. SIMILE** 📊\n\n**Definition**: A comparison between two unlike things using 'like' or 'as'\n\n**Signal Words**: like, as, resembles, similar to\n\n**Purpose**: Help readers visualize by comparing to something familiar\n\n**Examples**:\n- 'She was **as brave as a lion**.' (comparing bravery to a lion's courage)\n- '**Quiet as a mouse**.' (comparing quietness to a mouse)\n- 'The snow fell **like a soft blanket**.' (comparing snow to a blanket)\n- 'His words were **sharp as knives**.' (comparing hurtful words to knives)\n- 'The runner was **as fast as lightning**.' (comparing speed to lightning)\n\n**Why Writers Use Similes**: They make descriptions more vivid and relatable\n\n---\n\n**2. METAPHOR** 🎭\n\n**Definition**: A direct comparison that says one thing IS another thing (NO 'like' or 'as')\n\n**Key Difference from Simile**: More direct - doesn't use comparison words\n\n**Purpose**: Create powerful, memorable images\n\n**Examples**:\n- '**Time is money**.' (suggesting time is valuable like money)\n- '**The snow is a white blanket** covering the earth.' (direct comparison)\n- 'Her **smile was sunshine** on a cloudy day.' (smile = sunshine)\n- 'The **classroom was a zoo** during the substitute.' (classroom = zoo)\n- 'His **brain is a computer**.' (comparing thinking to a computer)\n- 'Life is a **rollercoaster**.'\n\n**Extended Metaphors**: Sometimes writers extend a metaphor across multiple sentences or even an entire poem!\n\n---\n\n**3. PERSONIFICATION** 👤\n\n**Definition**: Giving human qualities, emotions, or actions to non-human things (objects, animals, ideas)\n\n**What Can Be Personified**: Nature, objects, animals, abstract concepts\n\n**Purpose**: Make non-human things relatable and vivid\n\n**Examples**:\n- '**The wind whistled** through the trees.' (wind can't actually whistle)\n- '**The sun smiled** down on us.' (sun can't smile)\n- '**Time flies** when you're having fun.' (time can't fly)\n- '**The flowers danced** in the breeze.' (flowers can't dance)\n- '**The car coughed and sputtered**.' (cars don't cough)\n- '**Opportunity knocked** at his door.' (opportunity can't knock)\n- '**The storm raged** all night long.' (showing anger, a human emotion)\n\n**Why Writers Use Personification**: Makes descriptions come alive and creates emotional connections\n\n---\n\n**4. HYPERBOLE** 📈\n\n**Definition**: Extreme exaggeration for emphasis or effect (NOT meant to be taken literally)\n\n**Purpose**: Add humor, emphasize a point, create dramatic effect\n\n**How to Recognize**: The statement is clearly impossible or ridiculous\n\n**Examples**:\n- 'I've told you **a million times**!' (you haven't said it a million times)\n- 'This backpack **weighs a ton**.' (it doesn't actually weigh 2,000 pounds)\n- 'I'm **so hungry I could eat a horse**.' (you wouldn't actually eat a horse)\n- 'I've been waiting for **ages**!' (not literally ages/years)\n- 'That test was **so hard it killed me**.' (you're not actually dead)\n- 'I'm **dying** of boredom.' (not literally dying)\n\n**Why Writers Use Hyperbole**: Makes points memorable and adds dramatic flair\n\n---\n\n**5. ONOMATOPOEIA** 💥\n\n**Definition**: Words that sound like what they mean (sound words)\n\n**Purpose**: Add sensory details; help readers 'hear' the story\n\n**How to Recognize**: Say the word out loud - it sounds like the actual sound!\n\n**Examples by Category**:\n\n**Animal Sounds**:\n- buzz (bees), hiss (snakes), meow (cats), woof (dogs), chirp (birds)\n\n**Nature Sounds**:\n- splash (water), crackle (fire), rustle (leaves), pitter-patter (rain)\n\n**Action Sounds**:\n- bang, crash, thud, boom, pop, crack, snap\n\n**Human Sounds**:\n- whisper, giggle, gulp, munch, slurp\n\n**Technology/Object Sounds**:\n- beep, click, whoosh, zoom, vroom\n\n**Example in Context**:\n'The bacon **sizzled** in the pan while the coffee pot **gurgled** on the counter. Suddenly, a loud **crash** came from upstairs, followed by a **thud**.'\n\n**Why Writers Use Onomatopoeia**: Makes writing more vivid and engaging; appeals to sense of hearing\n\n---\n\n**🎯 QUICK COMPARISON CHART**\n\n| Type | Key Feature | Example |\n|------|------------|----------|\n| **Simile** | Uses 'like' or 'as' | Brave **as** a lion |\n| **Metaphor** | Direct comparison (IS) | Life **is** a journey |\n| **Personification** | Human traits to non-human | Wind **whispered** |\n| **Hyperbole** | Extreme exaggeration | Waited **forever** |\n| **Onomatopoeia** | Sound words | **Splash**, **buzz** |\n\n---\n\n**🔍 HOW TO IDENTIFY FIGURATIVE LANGUAGE**\n\n**Step 1**: Ask yourself: 'Is this literally true?'\n- If NO → It's probably figurative!\n\n**Step 2**: Look for signal words\n- 'Like' or 'as' → Simile\n- 'Is' or 'was' (comparing) → Metaphor\n- Human actions for non-human things → Personification\n- Impossible exaggeration → Hyperbole\n- Sound word → Onomatopoeia\n\n**Step 3**: Determine the effect\n- What is the writer trying to make you feel or visualize?\n\n---\n\n**💡 WHY FIGURATIVE LANGUAGE MATTERS**\n\n1. **Makes Writing More Interesting**: Plain sentences become vivid images\n2. **Helps You Visualize**: Creates pictures in your mind\n3. **Adds Emotion**: Makes you feel what the writer wants you to feel\n4. **Improves Your Writing**: Using figurative language makes YOUR writing better\n5. **Common in Literature**: You'll see it in every story, poem, and novel\n\n**Remember**: When reading stories, don't take figurative language literally! The character doesn't ACTUALLY have butterflies in their stomach! 🦋",
                 examples: [
                   {
-                    text: "The classroom was a zoo during the substitute teacher's lesson.",
-                    explanation: "This is a metaphor comparing the classroom to a zoo, suggesting it was chaotic and noisy."
+                    text: "SIMILE: 'The test was as easy as pie, so I finished quickly and confidently.'",
+                    explanation: "Uses 'as...as' to compare the test's easiness to pie (which is considered easy). This is NOT a metaphor because it uses 'as.'"
                   },
                   {
-                    text: "The alarm clock screamed at me to wake up.",
-                    explanation: "This is personification. Alarm clocks can't actually scream; this gives the clock human-like qualities."
+                    text: "METAPHOR: 'The library is a treasure trove of knowledge waiting to be discovered.'",
+                    explanation: "Directly compares the library to a treasure trove (no 'like' or 'as'). Suggests the library is full of valuable information."
                   },
                   {
-                    text: "I'm so tired I could sleep for a year!",
-                    explanation: "This is hyperbole - an obvious exaggeration. The person is very tired but won't actually sleep for a year."
+                    text: "PERSONIFICATION: 'The old house groaned and creaked as the wind battered its walls.'",
+                    explanation: "Houses can't actually groan (a human sound). This gives the house human-like qualities to show it's old and struggling."
+                  },
+                  {
+                    text: "HYPERBOLE: 'I'm so tired I could sleep for a year!'",
+                    explanation: "Obviously impossible - no one sleeps for a year! This exaggeration emphasizes extreme tiredness."
+                  },
+                  {
+                    text: "ONOMATOPOEIA: 'The bacon sizzled and popped in the hot pan.'",
+                    explanation: "'Sizzled' and 'popped' are sound words that help you hear the bacon cooking. Say them out loud!"
+                  },
+                  {
+                    text: "MIXED: 'The thunder roared like an angry giant, making the windows rattle.'",
+                    explanation: "Contains BOTH simile ('like an angry giant') and onomatopoeia ('roared' - a sound word). Writers often combine types!"
                   }
                 ]
               }
@@ -249,49 +309,77 @@ export const courseData = {
               title: "Practice: Figurative Language",
               type: "exercise",
               content: {
-                instructions: "Identify the type of figurative language used in each sentence.",
+                instructions: "Read each sentence carefully and identify the type of figurative language being used. Remember to look for signal words and ask yourself if the statement is literally true.",
                 questions: [
                   {
                     id: "q1",
-                    question: "The moon was a glowing pearl in the night sky.",
-                    options: ["Simile", "Metaphor", "Personification", "Hyperbole"],
+                    question: "The moon was a glowing pearl in the night sky, casting its gentle light across the valley.",
+                    options: ["Simile", "Metaphor", "Personification", "Hyperbole", "Onomatopoeia"],
                     correctAnswer: 1,
-                    explanation: "This is a metaphor. The moon is directly compared to a pearl without using 'like' or 'as'."
+                    explanation: "This is a **metaphor**. The moon is directly compared to a pearl without using 'like' or 'as'. The comparison suggests the moon is round, white, and luminous."
                   },
                   {
                     id: "q2",
-                    question: "After running the marathon, her legs felt like jelly.",
-                    options: ["Simile", "Metaphor", "Personification", "Hyperbole"],
+                    question: "After running the marathon in the scorching heat, her legs felt like jelly, barely able to support her weight.",
+                    options: ["Simile", "Metaphor", "Personification", "Hyperbole", "Onomatopoeia"],
                     correctAnswer: 0,
-                    explanation: "This is a simile using 'like' to compare her legs to jelly, suggesting they were weak and wobbly."
+                    explanation: "This is a **simile** using 'like' to compare her tired legs to jelly, suggesting they were weak, wobbly, and unstable."
                   },
                   {
                     id: "q3",
-                    question: "The flowers danced in the gentle breeze.",
-                    options: ["Simile", "Metaphor", "Personification", "Hyperbole"],
-                    correctAnswer: 2,
-                    explanation: "This is personification. Flowers can't actually dance; this gives them human-like movement and qualities."
+                    question: "The flowers danced gracefully in the gentle breeze, swaying back and forth like ballerinas on a stage.",
+                    options: ["Simile only", "Metaphor only", "Personification only", "Both simile and personification", "Onomatopoeia"],
+                    correctAnswer: 3,
+                    explanation: "This contains **both personification** (flowers 'danced' - a human action) **and simile** ('like ballerinas' - uses 'like' for comparison)."
                   },
                   {
                     id: "q4",
-                    question: "I have a million things to do before tomorrow!",
-                    options: ["Simile", "Metaphor", "Personification", "Hyperbole"],
+                    question: "I have a million things to do before tomorrow, and I haven't even started the first one!",
+                    options: ["Simile", "Metaphor", "Personification", "Hyperbole", "Onomatopoeia"],
                     correctAnswer: 3,
-                    explanation: "This is hyperbole - an exaggeration for emphasis. The person doesn't actually have a million things to do."
+                    explanation: "This is **hyperbole** - an extreme exaggeration for emphasis. The person doesn't literally have a million tasks; they're emphasizing feeling overwhelmed."
                   },
                   {
                     id: "q5",
-                    question: "The old computer groaned as it tried to start up.",
-                    options: ["Simile", "Metaphor", "Personification", "Hyperbole"],
+                    question: "The old computer groaned and wheezed as it struggled to start up, protesting against being turned on.",
+                    options: ["Simile", "Metaphor", "Personification", "Hyperbole", "Onomatopoeia"],
                     correctAnswer: 2,
-                    explanation: "This is personification. Computers don't actually groan; this gives the computer human-like qualities to show it's struggling."
+                    explanation: "This is **personification**. Computers don't actually groan, wheeze, or protest - these are human sounds and actions, giving the computer human-like qualities."
                   },
                   {
                     id: "q6",
-                    question: "Her smile was like sunshine breaking through the clouds.",
-                    options: ["Simile", "Metaphor", "Personification", "Hyperbole"],
+                    question: "Her smile was like sunshine breaking through dark storm clouds, warming everyone around her.",
+                    options: ["Simile", "Metaphor", "Personification", "Hyperbole", "Onomatopoeia"],
                     correctAnswer: 0,
-                    explanation: "This is a simile using 'like' to compare her smile to sunshine, suggesting it was bright and uplifting."
+                    explanation: "This is a **simile** using 'like' to compare her smile to sunshine, suggesting it was bright, uplifting, and brought joy to others."
+                  },
+                  {
+                    id: "q7",
+                    question: "The thunder boomed and rumbled across the sky, while the rain pitter-pattered on the roof.",
+                    options: ["Simile", "Metaphor", "Personification", "Hyperbole", "Onomatopoeia"],
+                    correctAnswer: 4,
+                    explanation: "This uses **onomatopoeia**. 'Boomed,' 'rumbled,' and 'pitter-pattered' are all sound words that imitate the actual sounds they describe."
+                  },
+                  {
+                    id: "q8",
+                    question: "Time is a thief that steals our most precious moments when we're not paying attention.",
+                    options: ["Simile", "Metaphor with personification", "Personification only", "Hyperbole", "Onomatopoeia"],
+                    correctAnswer: 1,
+                    explanation: "This is a **metaphor** (time IS a thief - direct comparison) combined with **personification** (time 'steals' - a human action)."
+                  },
+                  {
+                    id: "q9",
+                    question: "I'm so hungry I could eat an entire elephant right now!",
+                    options: ["Simile", "Metaphor", "Personification", "Hyperbole", "Onomatopoeia"],
+                    correctAnswer: 3,
+                    explanation: "This is **hyperbole** - obvious exaggeration for effect. The person is very hungry but wouldn't actually eat an elephant!"
+                  },
+                  {
+                    id: "q10",
+                    question: "The snake slithered silently through the grass, its scales making a soft hiss as it moved.",
+                    options: ["Simile", "Metaphor", "Personification", "Hyperbole", "Onomatopoeia"],
+                    correctAnswer: 4,
+                    explanation: "This uses **onomatopoeia**. 'Slithered' and 'hiss' are sound words that help you hear the snake's movement."
                   }
                 ]
               }
@@ -304,61 +392,122 @@ export const courseData = {
           lessons: [
             {
               id: "vocab-4-1",
-              title: "Understanding Idioms",
+              title: "Mastering Idioms: When Words Don't Mean What They Say",
               type: "lesson",
               content: {
-                introduction: "An idiom is a phrase or expression whose meaning cannot be understood from the individual words. Idioms are common in everyday English.",
-                explanation: "**What is an Idiom?**\nAn idiom is a group of words with a meaning that is different from the literal meaning of each word.\n\n**Common English Idioms:**\n- **Break a leg**: Good luck (often said to performers)\n- **It's raining cats and dogs**: It's raining very heavily\n- **Piece of cake**: Something very easy\n- **Cost an arm and a leg**: Very expensive\n- **Hit the books**: To study hard\n- **Under the weather**: Feeling sick\n- **Spill the beans**: Reveal a secret\n- **Bite off more than you can chew**: Take on more than you can handle\n\n**Why Learn Idioms?**\n- They're used frequently in everyday conversation\n- Understanding them helps with reading comprehension\n- They make your speaking and writing more natural",
+                introduction: "An idiom is a cultural phrase or expression whose meaning CANNOT be understood from the individual words alone. If you translate idioms word-by-word, they often sound silly or confusing! Idioms are extremely common in everyday English conversation, literature, and even formal writing.",
+                explanation: "**🔍 WHAT IS AN IDIOM?**\n\nAn idiom is a group of words with a **figurative meaning** that is completely different from the **literal meaning** of each word.\n\n**Example**:\n- **Literal**: 'Break a leg' → Injure your leg\n- **Idiomatic**: 'Break a leg' → Good luck! (especially to performers)\n\n**Why Can't You Guess the Meaning?**\n\nIdioms developed over time within a culture. Their meanings come from history, tradition, or common usage - NOT from the individual words. This is why idioms are hard for language learners and why you must memorize them!\n\n---\n\n**📚 COMMON GRADE 6 IDIOMS BY CATEGORY**\n\n**SCHOOL & LEARNING**\n\n1. **Hit the books** = Study hard\n   - *'I need to hit the books tonight for my science test.'*\n\n2. **Teacher's pet** = Student the teacher favors\n   - *'Everyone thinks Maria is the teacher's pet because she always gets special treatment.'*\n\n3. **Pass with flying colors** = Succeed easily and with high marks\n   - *'She studied every night and passed the exam with flying colors.'*\n\n4. **Learn the ropes** = Learn how to do something (often a new job or activity)\n   - *'The first week of middle school was tough, but I'm starting to learn the ropes.'*\n\n5. **A piece of cake** = Something very easy\n   - *'The math homework was a piece of cake after the teacher explained it.'*\n\n**FEELINGS & EMOTIONS**\n\n6. **Under the weather** = Feeling sick or ill\n   - *'I'm feeling under the weather today, so I might stay home from school.'*\n\n7. **On cloud nine** = Extremely happy\n   - *'When I found out I made the basketball team, I was on cloud nine!'*\n\n8. **Down in the dumps** = Feeling sad or depressed\n   - *'My best friend moved away, and I've been down in the dumps ever since.'*\n\n9. **Butterflies in my stomach** = Feeling nervous or anxious\n   - *'I had butterflies in my stomach before giving my presentation.'*\n\n10. **Walking on air** = Feeling very happy and excited\n    - *'After winning the spelling bee, I felt like I was walking on air.'*\n\n**DIFFICULTY & CHALLENGES**\n\n11. **Bite off more than you can chew** = Take on more than you can handle\n    - *'I joined three clubs and now realize I bit off more than I could chew.'*\n\n12. **An uphill battle** = A very difficult task\n    - *'Convincing my parents to let me get a dog is going to be an uphill battle.'*\n\n13. **Back to the drawing board** = Start over because the first attempt failed\n    - *'Our science experiment didn't work, so it's back to the drawing board.'*\n\n14. **Jump through hoops** = Do many difficult things to achieve something\n    - *'I had to jump through hoops to get permission for the field trip.'*\n\n**COMMUNICATION & SECRETS**\n\n15. **Spill the beans** = Reveal a secret\n    - *'Don't spill the beans about the surprise party!'*\n\n16. **Let the cat out of the bag** = Accidentally reveal a secret\n    - *'I let the cat out of the bag when I mentioned Mom's birthday present.'*\n\n17. **Beat around the bush** = Avoid saying what you mean directly\n    - *'Stop beating around the bush and just tell me what happened!'*\n\n18. **Get it off your chest** = Share something that's been bothering you\n    - *'I needed to get it off my chest, so I told my teacher I didn't understand the assignment.'*\n\n**MONEY & VALUE**\n\n19. **Cost an arm and a leg** = Very expensive\n    - *'The new gaming system costs an arm and a leg!'*\n\n20. **Break the bank** = Use up all your money\n    - *'We can go to the movies; it won't break the bank.'*\n\n21. **Worth its weight in gold** = Very valuable\n    - *'My graphing calculator is worth its weight in gold for math class.'*\n\n**WEATHER & NATURE IDIOMS**\n\n22. **It's raining cats and dogs** = Raining very heavily\n    - *'We can't go outside - it's raining cats and dogs!'*\n\n23. **Every cloud has a silver lining** = There's something good in every bad situation\n    - *'I didn't make the soccer team, but every cloud has a silver lining - now I have more time for art class.'*\n\n24. **Snowed under** = Overwhelmed with work\n    - *'I'm snowed under with homework this week.'*\n\n---\n\n**🎯 HOW TO UNDERSTAND IDIOMS IN STORIES**\n\n**Step 1: Recognize It's an Idiom**\n- Does the sentence sound strange if taken literally?\n- Would the meaning be silly or impossible?\n\n**Step 2: Use Context Clues**\n- What is happening in the story?\n- What would make sense given the situation?\n\n**Step 3: Check for Cultural Knowledge**\n- Have you heard this phrase before?\n- Does it sound like a common expression?\n\n**Example**:\n*'When Mom saw my report card, she hit the roof!'*\n\n❌ Literal: Mom physically hit the ceiling (makes no sense)\n✅ Idiomatic: Mom became very angry (makes sense in context)\n\n---\n\n**💡 WHY LEARN IDIOMS?**\n\n1. **Reading Comprehension**: You'll encounter idioms in books, articles, and tests\n2. **Natural Speech**: Native speakers use idioms constantly in conversation\n3. **Cultural Understanding**: Idioms reveal how a culture thinks and communicates\n4. **Better Writing**: Using idioms (when appropriate) makes your writing more engaging\n5. **Test Success**: Standardized tests often ask about figurative language, including idioms\n\n**⚠️ IMPORTANT TIPS**\n\n**When to Use Idioms**:\n- In creative writing or dialogue\n- In informal speech\n- To add color and personality to writing\n\n**When NOT to Use Idioms**:\n- In formal essays or research papers\n- When writing for non-native English speakers\n- When clarity is more important than style\n\n**Remember**: Idioms are figurative language, so don't take them literally when reading stories!",
                 examples: [
                   {
-                    text: "I need to hit the books tonight because I have a big test tomorrow.",
-                    explanation: "This doesn't mean physically hitting books! It means to study intensely."
+                    text: "'I need to hit the books tonight because I have a huge science test tomorrow on photosynthesis.'",
+                    explanation: "**Hit the books** doesn't mean physically hitting books! It's an idiom meaning 'to study hard.' The context (science test tomorrow) helps us understand the student needs to study intensely."
                   },
                   {
-                    text: "The math homework was a piece of cake.",
-                    explanation: "The homework wasn't actually cake. This means it was very easy to complete."
+                    text: "'The math homework was a piece of cake after the teacher explained long division step by step.'",
+                    explanation: "**A piece of cake** means 'very easy' - the homework wasn't actually cake! The idiom suggests the work was simple and effortless once explained properly."
+                  },
+                  {
+                    text: "'Sarah let the cat out of the bag when she accidentally mentioned the surprise party in front of Mom.'",
+                    explanation: "**Let the cat out of the bag** means 'to accidentally reveal a secret.' There's no actual cat! This idiom suggests Sarah ruined the surprise by speaking without thinking."
+                  },
+                  {
+                    text: "'The new skateboard costs an arm and a leg, but I've been saving my allowance for six months.'",
+                    explanation: "**Cost an arm and a leg** means 'very expensive' - you don't actually pay with body parts! The idiom emphasizes how much money the skateboard costs."
                   }
-                ]
+                ],
+                quickPractice: {
+                  question: "Read this sentence and determine the idiomatic meaning:\n\n'When my brother saw the mess in his room, he hit the roof!'\n\nWhat does 'hit the roof' mean in this context?",
+                  hint: "(Think about what would happen if someone is angry about a messy room...)",
+                  answer: "'Hit the roof' means to become very angry or furious. The brother didn't literally hit the ceiling - he got extremely mad about the mess!"
+                }
               }
             },
             {
               id: "vocab-4-2",
-              title: "Practice: Idioms",
+              title: "Practice: Idioms and Cultural Expressions",
               type: "exercise",
               content: {
-                instructions: "Choose the correct meaning of each idiom as used in the sentence.",
+                instructions: "Choose the correct idiomatic meaning of each underlined phrase as used in the sentence. Remember: don't think literally - think about what makes sense in the context!",
                 questions: [
                   {
                     id: "q1",
-                    question: "When Sarah heard the good news, she was on cloud nine.",
+                    question: "When Sarah heard the good news about winning the essay contest, she was **on cloud nine**.",
                     word: "on cloud nine",
-                    options: ["very sad", "extremely happy", "confused", "tired"],
+                    options: ["very sad", "extremely happy", "confused", "very tired"],
                     correctAnswer: 1,
-                    explanation: "'On cloud nine' means extremely happy or delighted."
+                    explanation: "'**On cloud nine**' is an idiom meaning extremely happy or delighted. Sarah's winning the contest would make her very happy!"
                   },
                   {
                     id: "q2",
-                    question: "My mom said we should take the news with a grain of salt.",
+                    question: "My mom said we should take the politician's campaign promises **with a grain of salt**.",
                     word: "with a grain of salt",
-                    options: ["believe completely", "not believe at all", "view with skepticism", "add salt"],
+                    options: ["believe completely", "not believe at all", "view with skepticism", "add salt to it"],
                     correctAnswer: 2,
-                    explanation: "'Take with a grain of salt' means to view something with skepticism or not fully believe it."
+                    explanation: "'**Take with a grain of salt**' means to view something with skepticism or not fully trust it. Mom is suggesting not to completely believe the promises."
                   },
                   {
                     id: "q3",
-                    question: "The team really dropped the ball on this project.",
+                    question: "The team really **dropped the ball** when they forgot to submit their science project on time.",
                     word: "dropped the ball",
-                    options: ["played sports", "made a mistake", "succeeded", "threw something"],
+                    options: ["played sports well", "made a serious mistake", "succeeded perfectly", "threw something"],
                     correctAnswer: 1,
-                    explanation: "'Dropped the ball' means to make a mistake or fail to do what was expected."
+                    explanation: "'**Dropped the ball**' means to make a mistake or fail to do what was expected. Forgetting to submit the project was a significant error."
                   },
                   {
                     id: "q4",
-                    question: "Let's not beat around the bush - just tell me what happened.",
+                    question: "Let's not **beat around the bush** - just tell me directly why you're upset with me.",
                     word: "beat around the bush",
-                    options: ["avoid the main topic", "speak directly", "garden", "fight"],
+                    options: ["avoid the main topic", "speak very directly", "work in the garden", "fight physically"],
                     correctAnswer: 0,
-                    explanation: "'Beat around the bush' means to avoid talking about what's important or to speak indirectly."
+                    explanation: "'**Beat around the bush**' means to avoid talking about what's important or to speak indirectly. The speaker wants direct, honest communication."
+                  },
+                  {
+                    id: "q5",
+                    question: "I'm feeling **under the weather** today, so I think I'll stay home and rest instead of going to the party.",
+                    word: "under the weather",
+                    options: ["extremely happy", "feeling sick or ill", "caught in the rain", "angry"],
+                    correctAnswer: 1,
+                    explanation: "'**Under the weather**' is an idiom meaning feeling sick, ill, or unwell. The person is too sick to attend the party."
+                  },
+                  {
+                    id: "q6",
+                    question: "When Tommy **spilled the beans** about the surprise party, everyone got mad at him.",
+                    word: "spilled the beans",
+                    options: ["made a mess with food", "revealed a secret", "cooked dinner", "told a joke"],
+                    correctAnswer: 1,
+                    explanation: "'**Spilled the beans**' means to reveal a secret or disclose information that was supposed to be kept private. Tommy ruined the surprise!"
+                  },
+                  {
+                    id: "q7",
+                    question: "The new gaming system **costs an arm and a leg**, so I'll need to save my allowance for months.",
+                    word: "costs an arm and a leg",
+                    options: ["is dangerous", "is very cheap", "is extremely expensive", "requires surgery"],
+                    correctAnswer: 2,
+                    explanation: "'**Costs an arm and a leg**' means something is very expensive. The gaming system costs a lot of money (not actual body parts!)."
+                  },
+                  {
+                    id: "q8",
+                    question: "After failing the first experiment, the science team went **back to the drawing board** to design a better approach.",
+                    word: "back to the drawing board",
+                    options: ["went to art class", "started over from the beginning", "gave up completely", "moved forward"],
+                    correctAnswer: 1,
+                    explanation: "'**Back to the drawing board**' means to start over because the first attempt failed or didn't work properly. The team is redesigning their experiment."
+                  },
+                  {
+                    id: "q9",
+                    question: "I **bit off more than I could chew** when I signed up for soccer, chess club, and band all in the same semester.",
+                    word: "bit off more than I could chew",
+                    options: ["ate too much food", "took on too many responsibilities", "succeeded at everything", "hurt my mouth"],
+                    correctAnswer: 1,
+                    explanation: "'**Bit off more than you can chew**' means to take on more tasks or responsibilities than you can handle. The person is overwhelmed by too many activities."
+                  },
+                  {
+                    id: "q10",
+                    question: "Our coach's advice before the championship game was simple: 'Just **give it your all** and have fun out there!'",
+                    word: "give it your all",
+                    options: ["give away everything", "try your absolute hardest", "share with teammates", "quit trying"],
+                    correctAnswer: 1,
+                    explanation: "'**Give it your all**' means to try your absolute hardest and put in maximum effort. The coach wants the team to do their best."
                   }
                 ]
               }
@@ -371,69 +520,122 @@ export const courseData = {
           lessons: [
             {
               id: "vocab-5-1",
-              title: "Expanding Your Vocabulary",
+              title: "Synonyms and Antonyms: Choosing the Perfect Word",
               type: "lesson",
               content: {
-                introduction: "Understanding synonyms and antonyms helps you choose precise words and understand shades of meaning in reading.",
-                explanation: "**Synonyms**: Words that have similar meanings\n- Happy, joyful, cheerful, delighted\n- Big, large, huge, enormous, gigantic\n- Smart, intelligent, clever, bright\n\n**Important Note**: Synonyms rarely have EXACTLY the same meaning. There are often subtle differences:\n- 'Happy' is general; 'ecstatic' is extremely happy\n- 'Big' is basic; 'colossal' suggests something impressively large\n\n**Antonyms**: Words with opposite meanings\n- Hot ↔ Cold\n- Fast ↔ Slow\n- Beginning ↔ End\n- Ancient ↔ Modern\n\n**Why They Matter:**\n- Avoid repetition in writing\n- Choose the most precise word for your meaning\n- Better understand what you read\n- Make your writing more interesting",
+                introduction: "Understanding synonyms and antonyms is crucial for Grade 6 students! Synonyms help you choose the most precise word and avoid boring repetition in writing. Antonyms help you understand contrasts and comparisons in reading. Both are essential for improving your vocabulary and writing variety.",
+                explanation: "**📖 WHAT ARE SYNONYMS?**\n\n**Synonyms**: Words that have similar (but rarely identical) meanings\n\n**Important**: Synonyms are NOT interchangeable in all situations! Each has subtle differences (nuances) in:\n- **Intensity** (how strong the feeling is)\n- **Formality** (casual vs. formal)\n- **Connotation** (positive, negative, or neutral feeling)\n\n**Example Synonym Sets**:\n\n**1. Words for 'HAPPY'** (intensity increases):\n- **Content** → **Pleased** → **Happy** → **Delighted** → **Ecstatic** → **Overjoyed**\n- 'I'm content' (mildly satisfied) vs. 'I'm ecstatic!' (extremely excited)\n\n**2. Words for 'BIG'** (intensity and formality):\n- **Large** (neutral, formal) → **Big** (casual) → **Huge** → **Enormous** → **Gigantic** → **Colossal** (impressively large)\n\n**3. Words for 'SMART'**:\n- **Intelligent** (formal, academic) → **Smart** (casual) → **Clever** (quick-thinking) → **Bright** (naturally gifted) → **Brilliant** (exceptionally smart)\n\n**4. Words for 'SAD'**:\n- **Unhappy** → **Sad** → **Sorrowful** → **Melancholy** (poetically sad) → **Devastated** (extremely sad)\n\n**5. Words for 'SAID'** (adds meaning to dialogue):\n- **Whispered** (quietly) → **Muttered** (complained) → **Said** (neutral) → **Announced** (formally) → **Shouted** (loudly) → **Exclaimed** (with excitement)\n\n---\n\n**🔄 WHAT ARE ANTONYMS?**\n\n**Antonyms**: Words with opposite meanings\n\n**Three Types of Antonyms**:\n\n**1. Gradable Antonyms** (can exist on a scale with degrees between):\n- **Hot** ↔ **Cold** (with warm, cool in between)\n- **Fast** ↔ **Slow** (with moderate speed in between)\n- **Tall** ↔ **Short** (with average height in between)\n\n**2. Complementary Antonyms** (no middle ground - it's one or the other):\n- **Alive** ↔ **Dead** (nothing in between)\n- **True** ↔ **False**\n- **Present** ↔ **Absent**\n\n**3. Relational Antonyms** (opposite roles or relationships):\n- **Teacher** ↔ **Student**\n- **Parent** ↔ **Child**\n- **Buy** ↔ **Sell**\n- **Above** ↔ **Below**\n\n**Common Academic Antonym Pairs** (important for Grade 6):\n| Word | Antonym |\n|------|----------|\n| Ancient | Modern |\n| Expand | Contract |\n| Include | Exclude |\n| Accept | Reject |\n| Increase | Decrease |\n| Simple | Complex |\n| Abundant | Scarce |\n| Praise | Criticize |\n| Unite | Divide |\n| Transparent | Opaque |\n\n---\n\n**🎯 WHY SYNONYMS AND ANTONYMS MATTER**\n\n**For Writing**:\n1. **Avoid Repetition**: Don't use the same word over and over\n2. **Add Variety**: Make your writing more interesting and sophisticated\n3. **Show Precision**: Choose the EXACT word you mean\n4. **Demonstrate Vocabulary**: Show teachers you know more than just basic words\n\n**For Reading Comprehension**:\n1. **Context Clues**: Authors often use synonyms to clarify meaning\n2. **Contrasts**: Antonyms help authors show differences and make comparisons\n3. **Understanding Tone**: The synonym chosen affects the mood and tone\n\n**For Tests**:\n- Many standardized tests ask you to identify synonyms and antonyms\n- Essay prompts often use academic synonyms you need to understand\n\n---\n\n**💡 USING A THESAURUS WISELY**\n\n**DO**:\n✅ Use a thesaurus to find words when you're stuck\n✅ Check the definition before using a new synonym\n✅ Consider the context and tone of your writing\n\n**DON'T**:\n❌ Use big words just to sound smart (if you don't know them well)\n❌ Replace every simple word with a fancy one\n❌ Ignore connotation differences\n\n**Bad Example**: 'I masticated a delectable repast.' (Too fancy!)\n**Better**: 'I ate a delicious meal.'\n**Even Better**: 'I devoured a delicious meal.' (adds meaning: ate hungrily)\n\n---\n\n**🎓 THE SYNONYM SCALE: CHOOSING THE RIGHT INTENSITY**\n\n**Anger Scale** (low to high intensity):\nAnnoyed → Irritated → Angry → Furious → Enraged\n\n**Laughter Scale**:\nSmile → Grin → Chuckle → Laugh → Giggle → Cackle → Roar with laughter\n\n**Cold Scale**:\nCool → Chilly → Cold → Freezing → Frigid → Arctic\n\n**Size Scale**:\nTiny → Small → Little → Medium → Large → Huge → Enormous → Gigantic → Colossal\n\n**Choosing the Right Word**: Always ask yourself:\n1. How strong is the feeling or description?\n2. Is this formal or casual writing?\n3. What is the connotation (feeling) of this word?",
                 examples: [
                   {
-                    text: "Instead of: 'The movie was good. The acting was good. The story was good.'\nBetter: 'The movie was excellent. The acting was superb. The story was compelling.'",
-                    explanation: "Using synonyms (excellent, superb, compelling) makes writing more interesting and shows different levels of quality."
+                    text: "**BEFORE** (repetitive): 'The movie was good. The acting was good. The story was good.'",
+                    explanation: "**AFTER** (using synonyms): 'The movie was excellent. The acting was superb. The story was compelling.' → Using synonyms (excellent, superb, compelling) makes writing more interesting and shows different levels of praise."
                   },
                   {
-                    text: "The ancient ruins contrasted sharply with the modern city.",
-                    explanation: "Ancient and modern are antonyms that highlight the difference between old and new."
+                    text: "**Antonym Contrast**: 'The ancient ruins stood in stark contrast to the modern glass skyscrapers of the city.'",
+                    explanation: "**Ancient** and **modern** are antonyms that emphasize the dramatic difference between old historical structures and contemporary buildings. This contrast makes the description more vivid."
+                  },
+                  {
+                    text: "**Synonym Precision**: 'She wasn't just happy about winning—she was **ecstatic**!'",
+                    explanation: "Replacing 'very happy' with the more precise synonym 'ecstatic' conveys a stronger emotion and makes the writing more impactful. This shows the intensity of her joy."
+                  },
+                  {
+                    text: "**Antonym in Argument**: 'Unlike the arid desert climate, the humid rainforest receives abundant rainfall year-round.'",
+                    explanation: "**Arid** and **humid** are antonyms (dry vs. moist), and **desert** and **rainforest** are also antonyms. Using these opposites helps clarify the extreme differences between the two ecosystems."
                   }
-                ]
+                ],
+                quickPractice: {
+                  question: "Choose the best synonym to replace 'said' in this sentence:\n\n'Stop right there!' the police officer **said** loudly.\n\nOptions: whispered, muttered, announced, shouted, murmured",
+                  hint: "Think about how the police officer would speak when trying to stop someone...",
+                  answer: "**Shouted** is the best choice because the officer spoke 'loudly,' which matches the intensity and volume of shouting. 'Announced' could work but doesn't capture the urgency and loudness as well."
+                }
               }
             },
             {
               id: "vocab-5-2",
-              title: "Practice: Synonyms and Antonyms",
+              title: "Practice: Synonyms and Antonyms in Context",
               type: "exercise",
               content: {
-                instructions: "Choose the best synonym or antonym for the underlined word.",
+                instructions: "Choose the best synonym or antonym for the underlined word. Pay attention to the intensity, formality, and connotation of each choice!",
                 questions: [
                   {
                     id: "q1",
-                    question: "Which word is a SYNONYM for 'courageous'?",
+                    question: "Which word is the best SYNONYM for **courageous** in this sentence: 'The firefighter's courageous actions saved three lives'?",
                     word: "courageous",
                     options: ["fearful", "brave", "weak", "careful"],
                     correctAnswer: 1,
-                    explanation: "Brave is a synonym for courageous, both meaning showing courage or bravery."
+                    explanation: "**Brave** is the best synonym for **courageous**, both meaning showing courage or bravery in the face of danger."
                   },
                   {
                     id: "q2",
-                    question: "Which word is an ANTONYM for 'generous'?",
+                    question: "Which word is an ANTONYM for **generous** in this sentence: 'Unlike his generous sister, he was quite _____ with his money'?",
                     word: "generous",
                     options: ["kind", "giving", "selfish", "wealthy"],
                     correctAnswer: 2,
-                    explanation: "Selfish is the opposite of generous. A generous person gives freely; a selfish person keeps things for themselves."
+                    explanation: "**Selfish** is the opposite of **generous**. A generous person gives freely; a selfish person keeps things for themselves."
                   },
                   {
                     id: "q3",
-                    question: "Which word is a SYNONYM for 'ancient'?",
+                    question: "Which word is the best SYNONYM for **ancient** in this context: 'The archaeologists discovered ancient pottery dating back 3,000 years'?",
                     word: "ancient",
                     options: ["modern", "old", "new", "future"],
                     correctAnswer: 1,
-                    explanation: "Old is a synonym for ancient, both referring to something from long ago."
+                    explanation: "**Old** is a synonym for **ancient**, both referring to something from long ago. In this context, 'ancient' emphasizes the historical significance."
                   },
                   {
                     id: "q4",
-                    question: "Which word is an ANTONYM for 'triumph'?",
+                    question: "Which word is an ANTONYM for **triumph** in this sentence: 'The team's triumph turned into _____ when they lost the championship'?",
                     word: "triumph",
                     options: ["victory", "success", "defeat", "celebration"],
                     correctAnswer: 2,
-                    explanation: "Defeat is the opposite of triumph. Triumph means victory or success; defeat means loss."
+                    explanation: "**Defeat** is the opposite of **triumph**. Triumph means victory or success; defeat means loss."
                   },
                   {
                     id: "q5",
-                    question: "Which word is a SYNONYM for 'vital' in the sentence: 'Water is vital for all living things'?",
+                    question: "Which word is the best SYNONYM for **vital** in this sentence: 'Water is vital for all living things'?",
                     word: "vital",
                     options: ["unnecessary", "essential", "optional", "rare"],
                     correctAnswer: 1,
-                    explanation: "Essential is a synonym for vital, both meaning absolutely necessary or critically important."
+                    explanation: "**Essential** is the best synonym for **vital**, both meaning absolutely necessary or critically important."
+                  },
+                  {
+                    id: "q6",
+                    question: "Choose the SYNONYM with the STRONGEST intensity for **sad**: 'When her best friend moved away, she felt _____'.",
+                    word: "sad",
+                    options: ["unhappy", "sorrowful", "devastated", "gloomy"],
+                    correctAnswer: 2,
+                    explanation: "**Devastated** shows the strongest intensity of sadness, meaning extremely upset or emotionally destroyed. It best conveys the depth of emotion when losing a best friend."
+                  },
+                  {
+                    id: "q7",
+                    question: "Which word is an ANTONYM for **expand** in this sentence: 'The company decided to _____ its operations instead of expanding'?",
+                    word: "expand",
+                    options: ["grow", "increase", "contract", "enlarge"],
+                    correctAnswer: 2,
+                    explanation: "**Contract** is the antonym of **expand**. Expand means to grow larger; contract means to become smaller or reduce in size."
+                  },
+                  {
+                    id: "q8",
+                    question: "Which is the most FORMAL synonym for **said** in this sentence: 'The principal _____ that school would be closed tomorrow'?",
+                    word: "said",
+                    options: ["whispered", "muttered", "announced", "yelled"],
+                    correctAnswer: 2,
+                    explanation: "**Announced** is the most formal synonym for 'said' in this official context. Principals make formal announcements, not whispers or mutters."
+                  },
+                  {
+                    id: "q9",
+                    question: "Which word is an ANTONYM for **transparent** in this sentence: 'The glass was transparent, but the wall was _____'?",
+                    word: "transparent",
+                    options: ["clear", "see-through", "opaque", "invisible"],
+                    correctAnswer: 2,
+                    explanation: "**Opaque** is the antonym of **transparent**. Transparent means you can see through it; opaque means you cannot see through it at all."
+                  },
+                  {
+                    id: "q10",
+                    question: "Choose the SYNONYM that best fits a NEGATIVE connotation: 'The _____ actor refused to share the spotlight with anyone'.",
+                    word: "confident (need negative)",
+                    options: ["confident", "self-assured", "arrogant", "proud"],
+                    correctAnswer: 2,
+                    explanation: "**Arrogant** has a negative connotation, suggesting someone thinks they're better than others. Confident and self-assured are positive, while 'arrogant' fits the negative context of refusing to share."
                   }
                 ]
               }
@@ -542,69 +744,122 @@ export const courseData = {
           lessons: [
             {
               id: "vocab-7-1",
-              title: "Words with Many Meanings",
+              title: "Multiple Meaning Words (Homographs): Context is Key",
               type: "lesson",
               content: {
-                introduction: "Many English words have multiple meanings depending on how they are used. Context helps you determine which meaning is intended.",
-                explanation: "**Multiple Meaning Words** (also called homonyms or polysemous words) are words that have more than one definition.\n\n**Common Examples:**\n\n**Bank**\n- A place to keep money (noun)\n- The edge of a river (noun)\n- To tilt to one side (verb)\n\n**Bat**\n- A flying mammal (noun)\n- Equipment for hitting a ball (noun)\n- To hit something (verb)\n\n**Fair**\n- Treating people equally (adjective)\n- Light-colored (adjective)\n- A carnival or festival (noun)\n- Average, not bad (adjective)\n\n**Key**\n- Opens a lock (noun)\n- Important or essential (adjective)\n- A musical scale (noun)\n- A button on a keyboard (noun)\n\n**How to Determine Meaning:**\n1. Look at the context of the sentence\n2. Consider the part of speech (noun, verb, adjective)\n3. Think about what makes sense",
+                introduction: "Many English words have multiple meanings depending on how they are used! These are called **homographs** (homo = same, graph = writing) or **polysemous** words. Understanding how context determines meaning is crucial for Grade 6 reading comprehension in California.",
+                explanation: "**📚 WHAT ARE MULTIPLE MEANING WORDS?**\n\n**Multiple Meaning Words** are words that are spelled the same but have different meanings. Context (the words around it) helps you determine which meaning is intended.\n\n**Two Main Types**:\n\n**1. Same Pronunciation, Different Meanings**\n- **Bark**: The sound a dog makes (noun/verb) | The outer covering of a tree (noun)\n- **Bat**: A flying mammal (noun) | Equipment for hitting a ball (noun) | To hit (verb)\n- **Ring**: A circular band (noun) | The sound a bell makes (verb/noun) | A boxing arena (noun)\n\n**2. Different Pronunciation AND Different Meanings**\n- **Tear**: [teer] liquid from your eye | [tair] to rip something\n- **Bow**: [boh] to bend forward | [bau] weapon that shoots arrows, or front of a ship\n- **Lead**: [leed] to guide or be in front | [led] a heavy metal\n- **Wind**: [wind] moving air | [wined] to turn or twist\n- **Read**: [reed] present tense (I read every day) | [red] past tense (I read that book yesterday)\n\n---\n\n**🎯 COMMON GRADE 6 MULTIPLE MEANING WORDS**\n\n**1. BANK**\n- **Meaning 1** (noun): A financial institution where you keep money\n  - 'I deposited my allowance at the bank.'\n- **Meaning 2** (noun): The edge of a river or stream\n  - 'We sat on the bank of the river and fished.'\n- **Meaning 3** (verb): To tilt to one side (in aviation)\n  - 'The airplane banked sharply to the left.'\n\n**2. BAT**\n- **Meaning 1** (noun): A nocturnal flying mammal\n  - 'The bat hung upside down in the cave.'\n- **Meaning 2** (noun): Sports equipment for hitting a ball\n  - 'She swung the baseball bat with confidence.'\n- **Meaning 3** (verb): To hit something\n  - 'The cat will bat at the toy mouse.'\n\n**3. FAIR**\n- **Meaning 1** (adjective): Just and impartial; treating people equally\n  - 'The referee made a fair decision.'\n- **Meaning 2** (adjective): Light-colored (skin or hair)\n  - 'She has fair skin that sunburns easily.'\n- **Meaning 3** (noun): A carnival, festival, or exhibition\n  - 'We went to the county fair and rode the Ferris wheel.'\n- **Meaning 4** (adjective): Average; moderately good\n  - 'His performance was fair, but not outstanding.'\n\n**4. KEY**\n- **Meaning 1** (noun): A metal instrument that opens a lock\n  - 'I lost my house key!'\n- **Meaning 2** (adjective): Important or essential\n  - 'Education is key to success.'\n- **Meaning 3** (noun): A musical scale (Music term)\n  - 'The song is written in the key of C major.'\n- **Meaning 4** (noun): A button on a keyboard or piano\n  - 'Press the Enter key to submit.'\n- **Meaning 5** (noun): An answer guide (like an answer key)\n  - 'The teacher used the answer key to grade the tests.'\n\n**5. WATCH**\n- **Meaning 1** (noun): A timepiece worn on the wrist\n  - 'My grandmother gave me her old watch.'\n- **Meaning 2** (verb): To look at something attentively\n  - 'Let's watch a movie tonight.'\n- **Meaning 3** (verb): To supervise or guard\n  - 'Please watch the baby while I'm gone.'\n- **Meaning 4** (verb): To be careful or cautious\n  - 'Watch out for that car!'\n\n**6. ADDRESS**\n- **Meaning 1** (noun): [AD-dress] A location or mailing address\n  - 'What is your home address?'\n- **Meaning 2** (verb): [uh-DRESS] To deal with or speak to\n  - 'We need to address this problem immediately.'\n- **Meaning 3** (verb): [uh-DRESS] To formally speak to a group\n  - 'The principal will address the student body.'\n\n**7. PLOT**\n- **Meaning 1** (noun): A small piece of land\n  - 'They own a plot of land in the countryside.'\n- **Meaning 2** (noun): The storyline of a book, movie, or play\n  - 'The novel had an interesting and complex plot.'\n- **Meaning 3** (noun): A secret plan (usually negative)\n  - 'The villains hatched a plot to rob the bank.'\n- **Meaning 4** (verb): To mark points on a graph\n  - 'Plot these coordinates on the graph.'\n\n**8. PRESENT**\n- **Meaning 1** (noun): [PREZ-ent] A gift\n  - 'I wrapped the birthday present carefully.'\n- **Meaning 2** (adjective): [PREZ-ent] Existing now; current\n  - 'All students present should raise their hands.'\n- **Meaning 3** (verb): [prih-ZENT] To give or show something formally\n  - 'I will present my project to the class tomorrow.'\n- **Meaning 4** (noun): [PREZ-ent] The current time (not past or future)\n  - 'Live in the present, not the past.'\n\n---\n\n**🔍 HOW TO DETERMINE THE CORRECT MEANING**\n\n**Strategy: The 3 C's**\n\n**1. CONTEXT** - What is happening in the sentence or paragraph?\n**2. CLUES** - What other words give hints about the meaning?\n**3. CHECK** - Does your chosen meaning make sense?\n\n**Example**:\n'The judge **ruled** in favor of the defendant.'\n\n- **Context**: This is in a courtroom setting\n- **Clues**: 'judge' and 'favor of defendant' suggest a legal decision\n- **Check**: 'Made a decision' makes sense; 'used a ruler' does not!\n- **Answer**: 'Ruled' means 'made an official decision'\n\n---\n\n**💡 WHY THIS MATTERS**\n\n**In Reading**:\n- Misunderstanding a multiple meaning word can change the entire meaning of a sentence!\n- Authors sometimes use these words for **wordplay** or **puns** (jokes)\n\n**In Writing**:\n- Be clear about which meaning you intend\n- Use context clues to help your reader understand\n\n**On Tests**:\n- Many reading comprehension questions test your ability to determine word meanings from context\n- You might be asked: 'What does the word ____ mean as used in line 12?'\n\n---\n\n**🎓 PART OF SPEECH MATTERS**\n\nThe word's part of speech (noun, verb, adjective, adverb) is a huge clue!\n\n**Example: LIGHT**\n- **Noun**: 'Turn on the light.' (illumination)\n- **Verb**: 'Please light the candles.' (to ignite)\n- **Adjective (weight)**: 'The box is light.' (not heavy)\n- **Adjective (color)**: 'She wore a light blue dress.' (pale color)\n\n**Ask yourself**: Is this word acting as a person/place/thing (noun), an action (verb), or a describing word (adjective)?",
                 examples: [
                   {
-                    text: "We need to address this problem immediately. / Please write your address on the envelope.",
-                    explanation: "First sentence: 'address' (verb) means to deal with. Second sentence: 'address' (noun) means location."
+                    text: "'We need to **address** this problem immediately.' vs. 'Please write your **address** on the envelope.'",
+                    explanation: "**First sentence**: '**address**' [uh-DRESS] is a **verb** meaning to deal with or tackle. **Second sentence**: '**address**' [AD-dress] is a **noun** meaning location. Part of speech AND pronunciation change!"
                   },
                   {
-                    text: "The play was entertaining. / The children play in the park.",
-                    explanation: "First sentence: 'play' (noun) means a theatrical performance. Second sentence: 'play' (verb) means to engage in activity for fun."
+                    text: "'The **play** was entertaining.' vs. 'The children **play** in the park every afternoon.'",
+                    explanation: "**First sentence**: '**play**' is a **noun** meaning a theatrical performance. **Second sentence**: '**play**' is a **verb** meaning to engage in activity for fun. Context and part of speech help us understand the difference."
+                  },
+                  {
+                    text: "'The scientist wanted to **conduct** an experiment.' vs. 'Copper is a good **conduct**or of electricity.'",
+                    explanation: "**First sentence**: '**conduct**' [kun-DUKT] is a **verb** meaning to carry out or perform. **Second sentence**: '**conduct**or' [KON-duk-tor] is a **noun** meaning something that allows electricity or heat to pass through. (Note: This shows a related word form!)"
+                  },
+                  {
+                    text: "'My heart felt **light** after hearing the good news.' vs. 'The room was filled with bright **light**.'",
+                    explanation: "**First sentence**: '**light**' is an **adjective** describing an emotional feeling (happy, unburdened). **Second sentence**: '**light**' is a **noun** meaning illumination. Same spelling, different meanings and parts of speech!"
                   }
-                ]
+                ],
+                quickPractice: {
+                  question: "What does the word '**watch**' mean in this sentence?\n\n'Please watch the baby while I run to the store.'\n\nA) A timepiece worn on the wrist\nB) To look at attentively\nC) To supervise or take care of\nD) To be careful",
+                  hint: "Think about what action is being requested... Is someone asking you to look at the baby, or do something more?",
+                  answer: "**C) To supervise or take care of** is correct! The context shows someone is leaving and needs another person to be responsible for the baby's safety, not just look at them. 'Watch' here means to supervise or guard."
+                }
               }
             },
             {
               id: "vocab-7-2",
-              title: "Practice: Multiple Meanings",
+              title: "Practice: Multiple Meanings in Context",
               type: "exercise",
               content: {
-                instructions: "Choose the correct meaning of the underlined word based on how it is used in the sentence.",
+                instructions: "Choose the correct meaning of the underlined word based on how it is used in the sentence. Use the 3 C's strategy: Context, Clues, and Check!",
                 questions: [
                   {
                     id: "q1",
-                    question: "The judge ruled in favor of the defendant.",
+                    question: "The judge **ruled** in favor of the defendant after reviewing all the evidence presented in court.",
                     word: "ruled",
-                    options: ["measured with a ruler", "made an official decision", "governed a country", "drew a line"],
+                    options: ["measured with a ruler", "made an official decision", "governed a country", "drew a straight line"],
                     correctAnswer: 1,
-                    explanation: "In this context, 'ruled' means made an official legal decision."
+                    explanation: "In this legal context, '**ruled**' means made an official decision. The judge made a determination based on evidence."
                   },
                   {
                     id: "q2",
-                    question: "She had a bright idea for the science project.",
+                    question: "She had a **bright** idea for solving the complex science problem that had stumped everyone.",
                     word: "bright",
-                    options: ["shining with light", "intelligent or clever", "cheerful", "colorful"],
+                    options: ["shining with light", "intelligent or clever", "cheerful and happy", "colorful"],
                     correctAnswer: 1,
-                    explanation: "In this context, 'bright' means intelligent or clever, describing the quality of the idea."
+                    explanation: "In this context, '**bright**' means intelligent or clever, describing the quality of the idea, not a physical light."
                   },
                   {
                     id: "q3",
-                    question: "The bear climbed the tree to escape danger.",
+                    question: "The **bear** climbed the tree quickly to escape from the approaching danger below.",
                     word: "bear",
-                    options: ["to carry something", "to tolerate", "a large mammal", "to give birth to"],
+                    options: ["to carry something heavy", "to tolerate a difficulty", "a large wild mammal", "to give birth to offspring"],
                     correctAnswer: 2,
-                    explanation: "In this context, 'bear' is a noun meaning the animal."
+                    explanation: "In this context, '**bear**' is a noun meaning the animal. The context of climbing a tree confirms this meaning."
                   },
                   {
                     id: "q4",
-                    question: "Please watch the baby while I'm gone.",
+                    question: "Please **watch** the baby carefully while I run to the store for some milk.",
                     word: "watch",
-                    options: ["a timepiece worn on the wrist", "to look at attentively", "to supervise or guard", "to observe an event"],
+                    options: ["a timepiece worn on the wrist", "to look at attentively", "to supervise or guard", "to observe an event for entertainment"],
                     correctAnswer: 2,
-                    explanation: "In this context, 'watch' means to supervise or take care of someone."
+                    explanation: "In this context, '**watch**' means to supervise or take care of someone. It implies responsibility for the baby's safety, not just looking."
                   },
                   {
                     id: "q5",
-                    question: "The novel had an interesting plot.",
+                    question: "The novel had an interesting **plot** with unexpected twists that kept readers engaged until the last page.",
                     word: "plot",
-                    options: ["a small piece of land", "a secret plan", "the story line of a book", "to mark on a graph"],
+                    options: ["a small piece of land", "a secret plan or scheme", "the storyline of a book", "to mark points on a graph"],
                     correctAnswer: 2,
-                    explanation: "In this context, 'plot' refers to the storyline or sequence of events in the novel."
+                    explanation: "In this literary context, '**plot**' refers to the storyline or sequence of events in the novel."
+                  },
+                  {
+                    id: "q6",
+                    question: "We need to **address** this serious issue immediately before it gets worse.",
+                    word: "address",
+                    options: ["a mailing location", "to deal with or tackle", "to speak formally to a group", "to write a location on an envelope"],
+                    correctAnswer: 1,
+                    explanation: "As a verb, '**address**' [uh-DRESS] means to deal with or tackle a problem. The context of 'need to' and 'immediately' confirms this meaning."
+                  },
+                  {
+                    id: "q7",
+                    question: "The hikers sat on the **bank** of the river to rest and enjoy the peaceful scenery.",
+                    word: "bank",
+                    options: ["a financial institution", "the edge or side of a river", "to tilt to one side", "a place to store valuables"],
+                    correctAnswer: 1,
+                    explanation: "'**Bank**' here means the edge of the river. The context of 'of the river' and 'sat on' makes this clear."
+                  },
+                  {
+                    id: "q8",
+                    question: "The principal will **present** the awards to the honor roll students at tomorrow's assembly.",
+                    word: "present",
+                    options: ["existing now or current", "a gift given to someone", "to formally give or show", "the current time period"],
+                    correctAnswer: 2,
+                    explanation: "As a verb [prih-ZENT], '**present**' means to formally give or show something. The principal is giving out awards."
+                  },
+                  {
+                    id: "q9",
+                    question: "The astronomer used a telescope to **track** the movement of the comet across the night sky.",
+                    word: "track",
+                    options: ["a path or trail", "a song on an album", "to follow or monitor", "a circular racing course"],
+                    correctAnswer: 2,
+                    explanation: "As a verb, '**track**' means to follow or monitor something's movement. The astronomer is following the comet's path."
+                  },
+                  {
+                    id: "q10",
+                    question: "The students had to **conduct** a science experiment to test their hypothesis about plant growth.",
+                    word: "conduct",
+                    options: ["behavior or manner", "to carry out or perform", "to lead an orchestra", "a substance that transmits heat or electricity"],
+                    correctAnswer: 1,
+                    explanation: "As a verb [kun-DUKT], '**conduct**' means to carry out or perform. The students are performing an experiment."
                   }
                 ]
               }
@@ -636,52 +891,80 @@ export const courseData = {
             },
             {
               id: "vocab-8-2",
-              title: "Practice: Academic Vocabulary",
+              title: "Practice: Mastering Academic Vocabulary",
               type: "exercise",
               content: {
-                instructions: "Choose the academic vocabulary word that best completes each sentence or answers each question.",
+                instructions: "Choose the academic vocabulary word that best completes each sentence or answers each question. These Tier 2 words are essential for test success!",
                 questions: [
                   {
                     id: "q1",
-                    question: "When you _____ a text, you provide a brief overview of the main ideas.",
+                    question: "When you _____ a text, you provide a brief overview of the main ideas without including minor details.",
                     options: ["analyze", "summarize", "evaluate", "interpret"],
                     correctAnswer: 1,
-                    explanation: "Summarize means to give a brief statement of the main points, creating a short overview."
+                    explanation: "**Summarize** means to give a brief statement of the main points, creating a short overview. Think: the 'highlight reel.'"
                   },
                   {
                     id: "q2",
-                    question: "To _____ means to examine something carefully to understand its parts and how they work together.",
+                    question: "To _____ means to examine something carefully by breaking it into parts to understand how they work together.",
                     options: ["describe", "analyze", "summarize", "compare"],
                     correctAnswer: 1,
-                    explanation: "Analyze means to examine something in detail, breaking it down to understand it better."
+                    explanation: "**Analyze** means to examine something in detail, breaking it down to understand it better. Like being a detective!"
                   },
                   {
                     id: "q3",
-                    question: "Which word means 'to judge the value or importance of something'?",
+                    question: "Which word means 'to judge the value, quality, or importance of something'?",
                     options: ["context", "evaluate", "significant", "interpret"],
                     correctAnswer: 1,
-                    explanation: "Evaluate means to judge or determine the significance or worth of something."
+                    explanation: "**Evaluate** means to judge or determine the significance or worth of something. You're deciding if it works well or not."
                   },
                   {
                     id: "q4",
                     question: "The _____ of a word includes the surrounding words and sentences that help you understand its meaning.",
                     options: ["context", "summary", "evaluation", "analysis"],
                     correctAnswer: 0,
-                    explanation: "Context refers to the circumstances or setting surrounding something, helping you understand it."
+                    explanation: "**Context** refers to the circumstances or setting surrounding something. It helps you understand what's happening around a word or event."
                   },
                   {
                     id: "q5",
                     question: "When you _____ a poem, you explain what you think it means based on the words and your understanding.",
                     options: ["summarize", "describe", "interpret", "compare"],
                     correctAnswer: 2,
-                    explanation: "Interpret means to explain the meaning of something based on your understanding and analysis."
+                    explanation: "**Interpret** means to explain the meaning of something based on your understanding and analysis. It's YOUR explanation backed by evidence."
                   },
                   {
                     id: "q6",
                     question: "A _____ discovery is one that is very important and makes a big difference.",
                     options: ["brief", "significant", "simple", "common"],
                     correctAnswer: 1,
-                    explanation: "Significant means sufficiently great or important to be worthy of attention; it matters a lot."
+                    explanation: "**Significant** means sufficiently great or important to be worthy of attention. If something is significant, it really matters!"
+                  },
+                  {
+                    id: "q7",
+                    question: "To _____ your answer means to provide evidence, examples, or reasons that back up your claim.",
+                    options: ["support", "contrast", "conclude", "describe"],
+                    correctAnswer: 0,
+                    explanation: "**Support** means to provide evidence or reasoning to back up a claim. You're proving your point with facts!"
+                  },
+                  {
+                    id: "q8",
+                    question: "When you _____ from a text, you draw logical conclusions based on evidence even though it's not directly stated.",
+                    options: ["summarize", "infer", "describe", "quote"],
+                    correctAnswer: 1,
+                    explanation: "**Infer** means to conclude something from evidence and reasoning. You're being a detective, using clues to figure out what's not directly said!"
+                  },
+                  {
+                    id: "q9",
+                    question: "Facts, information, or quotes that prove something is true are called _____.",
+                    options: ["opinions", "evidence", "summaries", "perspectives"],
+                    correctAnswer: 1,
+                    explanation: "**Evidence** refers to facts, information, or signs that prove something is true. It's the proof that backs up your claims!"
+                  },
+                  {
+                    id: "q10",
+                    question: "To _____ two texts means to examine them to find similarities, while to _____ them means to find differences.",
+                    options: ["evaluate / analyze", "compare / contrast", "interpret / explain", "describe / support"],
+                    correctAnswer: 1,
+                    explanation: "**Compare** means to show similarities, and **contrast** means to show differences. These words are often used together in test questions!"
                   }
                 ]
               }
