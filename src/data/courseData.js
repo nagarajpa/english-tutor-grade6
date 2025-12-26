@@ -1957,50 +1957,210 @@ export const courseData = {
           lessons: [
             {
               id: "reading-1-1",
-              title: "Finding the Main Idea",
+              title: "Main Idea and Supporting Details: The Umbrella & Raindrops",
               type: "lesson",
               content: {
-                introduction: "The main idea is the central point or message of a passage. Supporting details provide evidence or examples.",
-                explanation: "**Main Idea** answers the question: What is this passage mostly about?\n\n**Strategies to find the main idea:**\n1. Look at the title and headings\n2. Read the first and last sentences of paragraphs\n3. Look for repeated words or concepts\n4. Ask yourself: What point is the author trying to make?\n\n**Supporting Details** answer: What evidence or examples does the author provide?\n- Facts, statistics, examples, descriptions, or reasons that explain or prove the main idea.",
+                introduction: "Understanding main idea and supporting details is the foundation of reading comprehension. Think of the main idea as an UMBRELLA ☂️ that covers everything, and the supporting details as RAINDROPS 💧 that fall beneath it. In Grade 6, you'll also learn the crucial difference between a TOPIC and a MAIN IDEA.",
+                explanation: "**🎯 THE UMBRELLA & RAINDROPS METAPHOR**\n\n**Main Idea** = The UMBRELLA ☂️\n- The BIG point the author is making\n- The most important message\n- What the ENTIRE passage is mostly about\n- Usually one sentence that covers everything\n\n**Supporting Details** = The RAINDROPS 💧\n- Facts, examples, statistics, descriptions\n- Evidence that PROVES or EXPLAINS the main idea\n- The specific information that supports the umbrella\n- Multiple details that all connect to the main idea\n\n---\n\n**📖 TOPIC vs. MAIN IDEA (Critical Grade 6 Distinction!)**\n\n**TOPIC** = What the passage is ABOUT (usually 1-2 words)\n- Just identifies the subject\n- No complete thought\n- Like a title or headline\n\n**MAIN IDEA** = What the author is SAYING about the topic (a complete sentence)\n- Makes a POINT about the topic\n- A complete thought with a subject and verb\n- Tells the reader something specific\n\n**Example:**\n- **Topic**: Sharks 🦈\n- **Main Idea**: \"Sharks are essential to the ocean's ecosystem because they keep the food chain in balance.\"\n\n**Why This Matters**: The topic tells you the subject, but the main idea tells you the MESSAGE.\n\n---\n\n**🔍 HOW TO FIND THE MAIN IDEA**\n\n**Strategy 1: The Title Clue**\n- Look at the title and headings\n- They often hint at the main idea\n\n**Strategy 2: The First & Last Sentence Rule**\n- Main ideas are often in the FIRST sentence (topic sentence)\n- Or in the LAST sentence (conclusion)\n- Read these carefully!\n\n**Strategy 3: The Repetition Test**\n- What words or concepts are REPEATED?\n- What does the author keep coming back to?\n- That's likely the main idea!\n\n**Strategy 4: The \"So What?\" Question**\n- Ask yourself: \"What is the author's POINT?\"\n- \"What does the author want me to understand?\"\n- \"If I could only remember ONE thing, what would it be?\"\n\n**Strategy 5: The Umbrella Test**\n- Does this idea \"cover\" ALL the details in the passage?\n- If a detail doesn't fit under your \"umbrella,\" it's probably not the main idea\n\n---\n\n**💧 HOW TO IDENTIFY SUPPORTING DETAILS**\n\n**Supporting details answer these questions:**\n- **WHO?** - People or characters involved\n- **WHAT?** - Specific events or facts\n- **WHEN?** - Time information\n- **WHERE?** - Place information\n- **WHY?** - Reasons or causes\n- **HOW?** - Methods or processes\n\n**Types of Supporting Details:**\n\n**1. Facts & Statistics**\n- \"Over 500 species of sharks exist worldwide.\"\n- Numbers, dates, proven information\n\n**2. Examples**\n- \"For instance, great white sharks help control seal populations.\"\n- Specific cases that illustrate the point\n\n**3. Descriptions**\n- \"Sharks have keen senses, including the ability to detect electrical signals.\"\n- Sensory details and characteristics\n\n**4. Reasons & Explanations**\n- \"Sharks are important because they remove sick and weak animals from the population.\"\n- The \"why\" behind the main idea\n\n**5. Expert Opinions or Quotes**\n- \"According to marine biologist Dr. Smith, 'Sharks are the ocean's doctors.'\"\n- What authorities say about the topic\n\n---\n\n**📝 GRADE 6 SKILL: OBJECTIVE SUMMARIZING**\n\n**Objective** = Without personal opinions or feelings\n\n**How to Summarize Objectively:**\n\n**DO:**\n✅ State the main idea\n✅ Include key supporting details (2-3 most important)\n✅ Use your own words (paraphrase)\n✅ Keep it brief (typically 3-5 sentences)\n✅ Stay neutral - just the facts!\n\n**DON'T:**\n❌ Include your opinion (\"I think...\", \"I believe...\")\n❌ Add judgments (\"This is boring\", \"This is great\")\n❌ Include minor details\n❌ Copy sentences word-for-word (without quotes)\n❌ Add information not in the passage\n\n**Example of SUBJECTIVE (Wrong):**\n\"I think sharks are really cool and scary. They are my favorite ocean animal. Everyone should learn about them because they're awesome.\"\n\n**Example of OBJECTIVE (Correct):**\n\"Sharks play an essential role in ocean ecosystems by maintaining balance in the food chain. They help control populations of other marine animals and remove sick individuals from the population. Although often feared, sharks are critical to ocean health.\"\n\n---\n\n**🎯 THE MAIN IDEA FORMULA**\n\n**Topic + Author's Point = Main Idea**\n\n**Examples:**\n\n**Example 1:**\n- **Topic**: Recycling\n- **Author's Point**: Important for reducing waste\n- **Main Idea**: \"Recycling is important because it significantly reduces the amount of waste sent to landfills.\"\n\n**Example 2:**\n- **Topic**: Exercise\n- **Author's Point**: Benefits both body and mind\n- **Main Idea**: \"Regular exercise benefits both physical health and mental well-being.\"\n\n**Example 3:**\n- **Topic**: Honeybees\n- **Author's Point**: Critical for food production\n- **Main Idea**: \"Honeybees are critical to food production because they pollinate many of the crops humans rely on.\"\n\n---\n\n**⚠️ COMMON MISTAKES TO AVOID**\n\n**Mistake 1: Choosing a DETAIL as the Main Idea**\n- Details are too specific\n- The main idea should cover ALL the details\n\n**Mistake 2: Being Too General**\n- \"This passage is about animals.\" (Too broad!)\n- The main idea should be specific to THIS passage\n\n**Mistake 3: Confusing Topic with Main Idea**\n- Topic: \"Dogs\" ❌ (just one word, not a complete idea)\n- Main Idea: \"Dogs make excellent companions because they are loyal and loving.\" ✓\n\n**Mistake 4: Focusing on One Paragraph**\n- The main idea should cover the ENTIRE passage\n- Don't just focus on the first or last paragraph\n\n---\n\n**💡 PRACTICE STRATEGY: The 3-Step Method**\n\n**Step 1: IDENTIFY THE TOPIC**\n- What is this mostly about? (1-2 words)\n\n**Step 2: FIND THE AUTHOR'S POINT**\n- What is the author saying about the topic?\n- What's the message or lesson?\n\n**Step 3: COMBINE THEM**\n- Topic + Point = Main Idea (complete sentence)\n\n**Quick Practice:**\nPassage talks about how dolphins communicate using various sounds.\n- **Step 1 - Topic**: Dolphin communication\n- **Step 2 - Author's Point**: They use various sounds\n- **Step 3 - Main Idea**: \"Dolphins communicate with each other using a variety of complex sounds including clicks and whistles.\"\n\n---\n\n**🎓 WHY THIS MATTERS**\n\n**For Tests:**\n- Main idea questions are on EVERY reading test\n- You must distinguish between main ideas and details\n- Summarizing shows you understood the passage\n\n**For School:**\n- Understanding main ideas helps you study effectively\n- You can identify what's most important\n- Better note-taking skills\n\n**For Life:**\n- Helps you understand news articles, instructions, information\n- Critical thinking skill for all subjects\n- Essential for college and career success",
                 examples: [
                   {
-                    text: "Dolphins are highly intelligent marine mammals. They can learn complex tricks and communicate with each other using clicks and whistles. Scientists have observed dolphins working together to solve problems and even using tools. Some dolphins have been seen using sponges to protect their noses while hunting for food on the ocean floor.",
-                    explanation: "Main Idea: Dolphins are highly intelligent. Supporting Details: They learn tricks, communicate, solve problems, and use tools."
+                    text: "**Example Passage**: 'Dolphins are highly intelligent marine mammals. They can learn complex tricks and communicate with each other using clicks and whistles. Scientists have observed dolphins working together to solve problems and even using tools. Some dolphins have been seen using sponges to protect their noses while hunting for food on the ocean floor.'",
+                    explanation: "**Topic**: Dolphins\n**Main Idea (Umbrella ☂️)**: Dolphins are highly intelligent marine mammals.\n**Supporting Details (Raindrops 💧)**:\n- They learn complex tricks\n- They communicate using sounds\n- They work together to solve problems  \n- They use tools like sponges\n\n**Notice**: All the details 'fit under' the umbrella of intelligence!"
+                  },
+                  {
+                    text: "**Objective Summary Example**: Based on the dolphin passage above.",
+                    explanation: "**Objective Summary**: 'Dolphins demonstrate high intelligence through various behaviors. They can learn tricks, communicate using clicks and whistles, solve problems cooperatively, and even use tools such as sponges for protection while hunting. These abilities show that dolphins are among the most intelligent marine mammals.'\n\n**Why it's objective**: No personal opinions (\"I think\"), just facts from the passage. Uses own words. Includes main idea + key details."
                   }
                 ]
               }
             },
             {
               id: "reading-1-2",
-              title: "Practice: Main Idea",
+              title: "Practice: Main Idea and Supporting Details",
               type: "exercise",
               content: {
-                instructions: "Read the passage and answer the questions.",
-                passage: "The California condor is one of the world's rarest birds. By 1987, only 27 California condors remained in the wild. Scientists captured all remaining birds and started a breeding program. Thanks to these conservation efforts, there are now over 500 California condors. About half of them fly free in California, Arizona, and Utah. Although the population has grown, the California condor is still endangered. Scientists continue to monitor and protect these magnificent birds.",
+                instructions: "Read each passage carefully and answer the questions. Remember: Topic (1-2 words) vs. Main Idea (complete sentence). Use the Umbrella & Raindrops metaphor!",
+                passage: "**Passage 1 (Questions 1-5):**\n\nThe California condor is one of the world's rarest birds. By 1987, only 27 California condors remained in the wild due to habitat loss, hunting, and lead poisoning. Scientists captured all remaining birds and started a careful breeding program in captivity. Thanks to these conservation efforts, there are now over 500 California condors. About half of them fly free in California, Arizona, and Utah. Although the population has grown significantly, the California condor is still endangered. Scientists continue to monitor and protect these magnificent birds to ensure their survival.\n\n**Passage 2 (Questions 6-10):**\n\nSolar energy is becoming increasingly popular as a renewable power source. Unlike fossil fuels, solar panels produce electricity without releasing harmful greenhouse gases into the atmosphere. Solar panels work by converting sunlight directly into electrical energy that can power homes and businesses. While the initial cost of installing solar panels can be expensive, they typically pay for themselves within 10-15 years through reduced electricity bills. Additionally, many governments offer tax credits and incentives to encourage solar panel installation. As technology improves, solar panels are becoming more efficient and affordable for average homeowners.\n\n**Passage 3 (Questions 11-15):**\n\nThe ancient Library of Alexandria in Egypt was one of the largest and most significant libraries of the ancient world. Founded around 300 BCE, it housed hundreds of thousands of scrolls containing knowledge from across the known world. Scholars from many countries traveled to Alexandria to study mathematics, astronomy, medicine, and philosophy. The library served not just as a repository for books, but as a center of learning and research. Tragically, the library was destroyed over time through a series of fires and conflicts. The loss of the Library of Alexandria is considered one of history's greatest cultural disasters, as countless ancient texts and knowledge were lost forever. Today, a modern library called the Bibliotheca Alexandrina stands near the site of the original, serving as a tribute to ancient scholarship.",
                 questions: [
                   {
                     id: "q1",
-                    question: "What is the main idea of this passage?",
+                    question: "What is the MAIN IDEA of Passage 1?",
                     options: [
                       "California condors can fly in three states",
                       "Scientists study birds carefully",
-                      "Conservation efforts have helped save the California condor from extinction",
-                      "There are 500 California condors today"
+                      "Conservation efforts have helped save the California condor from near extinction",
+                      "There are now 500 California condors"
                     ],
                     correctAnswer: 2,
-                    explanation: "The passage focuses on how conservation efforts helped increase the condor population from near extinction."
+                    explanation: "The **main idea** (umbrella ☂️) is that conservation efforts saved the condor. All details support this: only 27 left → breeding program → now 500+ → still endangered but improving."
                   },
                   {
                     id: "q2",
-                    question: "Which detail supports the main idea?",
+                    question: "Which detail from Passage 1 BEST supports the main idea?",
                     options: [
                       "Condors are magnificent birds",
-                      "By 1987, only 27 condors remained",
-                      "Condors fly in California",
+                      "By 1987, only 27 condors remained in the wild",
+                      "Condors fly in California, Arizona, and Utah",
                       "Scientists monitor birds"
                     ],
                     correctAnswer: 1,
-                    explanation: "The fact that only 27 remained in 1987 shows how critical the situation was and why conservation was needed."
+                    explanation: "The fact that only **27 remained** shows how desperate the situation was, making the conservation success story (the main idea) more powerful. This is a key raindrop 💧!"
+                  },
+                  {
+                    id: "q3",
+                    question: "What is the TOPIC of Passage 1? (Remember: 1-2 words)",
+                    options: [
+                      "Conservation efforts have saved California condors",
+                      "California condors",
+                      "Birds are endangered",
+                      "Scientists protect rare animals"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "The **topic** is just WHAT the passage is about: '**California condors**' (2 words). Option A is the MAIN IDEA (complete sentence), not the topic!"
+                  },
+                  {
+                    id: "q4",
+                    question: "Which sentence would be an OBJECTIVE summary of Passage 1?",
+                    options: [
+                      "I think California condors are beautiful and everyone should care about them",
+                      "California condors nearly went extinct but conservation efforts increased their population from 27 to over 500",
+                      "This passage is boring but has some good facts about birds",
+                      "California condors are the best birds and we're lucky they survived"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "Option B is **objective** (no personal opinion), includes the main idea and key facts. Options A, C, and D include subjective opinions ('I think,' 'boring,' 'best,' 'lucky')."
+                  },
+                  {
+                    id: "q5",
+                    question: "Why did the author include the detail about lead poisoning in Passage 1?",
+                    options: [
+                      "To show what the author likes",
+                      "To explain one reason why condors nearly went extinct",
+                      "To make the passage longer",
+                      "To talk about hunting"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "This detail (raindrop 💧) supports the main idea by explaining **WHY** condors were endangered, showing why conservation was necessary."
+                  },
+                  {
+                    id: "q6",
+                    question: "What is the MAIN IDEA of Passage 2?",
+                    options: [
+                      "Solar panels are expensive",
+                      "Solar energy is clean",
+                      "Solar energy is becoming a popular renewable power source due to its environmental and economic benefits",
+                      "Governments offer tax credits"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "The **main idea** (umbrella ☂️) covers the WHOLE passage: solar is popular BECAUSE it's clean AND economical. Options A, B, D are just supporting details (raindrops 💧)."
+                  },
+                  {
+                    id: "q7",
+                    question: "Which is a supporting detail, NOT the main idea of Passage 2?",
+                    options: [
+                      "Solar energy is becoming increasingly popular",
+                      "Solar panels produce electricity without greenhouse gases",
+                      "Solar energy has both environmental and economic advantages",
+                      "Solar power is changing how we get energy"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "'**No greenhouse gases**' is a specific detail (raindrop 💧) that supports WHY solar is good. The main idea is BROADER and covers the whole passage."
+                  },
+                  {
+                    id: "q8",
+                    question: "What is the TOPIC of Passage 2?",
+                    options: [
+                      "Solar energy",
+                      "Solar energy is popular because it's clean and economical",
+                      "Renewable power sources are important for the future",
+                      "How to install solar panels"
+                    ],
+                    correctAnswer: 0,
+                    explanation: "**Topic** = What it's about in 1-2 words: '**Solar energy**.' Options B and C are complete sentences (main ideas, not topics). Option D is too narrow."
+                  },
+                  {
+                    id: "q9",
+                    question: "Which detail from Passage 2 relates to ECONOMIC benefits?",
+                    options: [
+                      "Solar panels don't release greenhouse gases",
+                      "Solar panels convert sunlight into electricity",
+                      "Solar panels pay for themselves within 10-15 years",
+                      "Solar technology is improving"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "**Economic** = money/cost. 'Pay for themselves in 10-15 years' is about MONEY, supporting the economic benefit part of the main idea."
+                  },
+                  {
+                    id: "q10",
+                    question: "Write an objective summary starter for Passage 2. Which is MOST objective?",
+                    options: [
+                      "I believe solar energy is amazing and everyone should use it",
+                      "Solar energy is the best choice for power",
+                      "Solar energy is gaining popularity as a renewable power source",
+                      "This boring passage talks about solar panels"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "Option C is **objective**—no opinions, just facts. Options A ('I believe'), B ('best'), and D ('boring') all include subjective judgments."
+                  },
+                  {
+                    id: "q11",
+                    question: "What is the MAIN IDEA of Passage 3?",
+                    options: [
+                      "The Library of Alexandria was in Egypt",
+                      "Ancient libraries had scrolls",
+                      "The Library of Alexandria was a significant center of ancient knowledge whose destruction was a major cultural loss",
+                      "A new library was built in Alexandria"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "The **main idea** (umbrella ☂️) covers BOTH the library's importance AND its tragic destruction. Options A, B, D are just details (raindrops 💧)."
+                  },
+                  {
+                    id: "q12",
+                    question: "What is the TOPIC of Passage 3?",
+                    options: [
+                      "The Library of Alexandria",
+                      "The Library of Alexandria was important and its loss was tragic",
+                      "Ancient libraries were centers of learning",
+                      "Egypt had many libraries"
+                    ],
+                    correctAnswer: 0,
+                    explanation: "**Topic** = What it's about: '**The Library of Alexandria**' (4 words, but it's a proper name). Options B and C are complete ideas/sentences, not topics."
+                  },
+                  {
+                    id: "q13",
+                    question: "Which detail supports the idea that the library was SIGNIFICANT?",
+                    options: [
+                      "It was founded around 300 BCE",
+                      "Scholars from many countries traveled there to study",
+                      "It was in Egypt",
+                      "A new library was built near the site"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "Scholars **traveling from many countries** shows the library's international importance and reputation. This raindrop 💧 proves it was significant!"
+                  },
+                  {
+                    id: "q14",
+                    question: "Why did the author mention the Bibliotheca Alexandrina in Passage 3?",
+                    options: [
+                      "To add an interesting fact at the end",
+                      "To show that modern people value the original library's legacy",
+                      "To make the passage longer",
+                      "To talk about modern Egypt"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "This detail shows the **lasting impact** of the original library—it was so important that a tribute library was built! This supports the 'significant' part of the main idea."
+                  },
+                  {
+                    id: "q15",
+                    question: "Which would be an objective summary conclusion for Passage 3?",
+                    options: [
+                      "I think the destruction of the Library of Alexandria was sad",
+                      "The library's destruction represents a major loss of ancient knowledge",
+                      "This passage proves ancient people were smarter than us",
+                      "The library was definitely the best building ever"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "Option B is **objective**—states a fact without opinion words. Options A ('I think,' 'sad'), C ('proves,' judgment), D ('best,' 'ever') are subjective."
                   }
                 ]
               }
@@ -2013,17 +2173,30 @@ export const courseData = {
           lessons: [
             {
               id: "reading-2-1",
-              title: "Reading Between the Lines",
+              title: "Making Inferences: The 'It Says, I Say, So...' Method",
               type: "lesson",
               content: {
-                introduction: "An inference is a logical conclusion based on evidence from the text and your prior knowledge.",
-                explanation: "**Making Inferences** means using clues from the text plus what you already know to figure out something the author doesn't directly state.\n\n**Formula**: Text Clues + What I Know = Inference\n\n**Steps to make inferences:**\n1. Look for clues in the text\n2. Think about what you already know\n3. Combine them to reach a logical conclusion\n4. Check if your inference makes sense with the entire passage",
+                introduction: "Making inferences is like being a reading detective! 🔍 You combine clues from the text with what you already know to reach logical conclusions. In Grade 6, you'll master the powerful 'It Says, I Say, So...' method to make strong inferences about character traits, motivations, and deeper meanings.",
+                explanation: "**🧩 WHAT IS AN INFERENCE?**\n\n**Inference** = Text Evidence + Your Schema (Background Knowledge) = Logical Conclusion\n\n**Not directly stated** in the text—you must figure it out!\n\n**Think of it like this:**\n- **Text Evidence** = The puzzle pieces the author gives you\n- **Your Schema** = What you already know about the world\n- **Inference** = The complete picture you create\n\n---\n\n**🎯 THE 'IT SAYS, I SAY, SO...' METHOD**\n\nThis three-step strategy helps you make strong, defensible inferences:\n\n**STEP 1: IT SAYS... (Text Evidence)**\n- What clues does the text give you?\n- What specific details, actions, or descriptions are in the passage?\n- Use direct quotes or paraphrases\n\n**STEP 2: I SAY... (Your Schema/Background Knowledge)**\n- What do I already know about this situation?\n- What does this remind me of?\n- What do I know about how people/things usually act?\n\n**STEP 3: SO... (Your Inference/Conclusion)**\n- What logical conclusion can I draw?\n- What is probably true based on combining steps 1 and 2?\n- Make sure it makes sense!\n\n---\n\n**📖 DETAILED EXAMPLE: Character Feelings**\n\n**Text:** \"Maya's hands were shaking as she walked onto the stage. Her voice cracked when she said the first line. She kept glancing at the exit door.\"\n\n**STEP 1 - IT SAYS:**\n- Maya's hands are shaking\n- Her voice cracked\n- She keeps looking at the exit door\n\n**STEP 2 - I SAY:**\n- I know that people shake when they're scared or cold\n- Voices crack when you're stressed or emotional\n- Looking at an exit means you want to escape\n- Being on stage can be scary\n\n**STEP 3 - SO:**\n- **Inference: Maya is very nervous or anxious about performing on stage.**\n\nThis is a **strong inference** because it combines specific text evidence with reasonable background knowledge!\n\n---\n\n**🎭 GRADE 6 FOCUS: INFERRING CHARACTER TRAITS**\n\nIn 6th grade, you must infer character traits based on:\n\n**1. Actions (What they DO)**\n- Text: \"Jake shared his lunch with the new student who forgot hers.\"\n- Inference: Jake is kind, generous, or empathetic.\n\n**2. Dialogue (What they SAY)**\n- Text: \"'I don't care what anyone thinks,' Emma said with a shrug.\"\n- Inference: Emma is independent, confident, or possibly defensive.\n\n**3. Thoughts (What they THINK)** - if narrator shares them\n- Text: \"Tom worried that he had hurt his friend's feelings.\"\n- Inference: Tom is thoughtful, caring, or sensitive.\n\n**4. What Others Say About Them**\n- Text: \"'You can always count on Sarah,' the teacher told the class.\"\n- Inference: Sarah is reliable and trustworthy.\n\n**5. Physical Reactions**\n- Text: \"His face turned red, and he clenched his fists.\"\n- Inference: He is angry or embarrassed.\n\n---\n\n**💡 TYPES OF INFERENCES**\n\n**Type 1: Character Emotions/Traits**\n- Using actions and reactions to understand feelings or personality\n- Example: Crying + saying goodbye → feeling sad\n\n**Type 2: Setting/Time**\n- Using clues to determine when/where something happens\n- Example: \"Horses and carriages\" + \"Oil lamps\" → past/historical time\n\n**Type 3: Cause and Effect**\n- Figuring out WHY something happened\n- Example: \"The street was wet and the clouds were gray\" → It rained\n\n**Type 4: Predictions (Future Inferences)**\n- Using evidence to predict what might happen next\n- Example: \"Dark clouds gathered\" + \"Wind picked up\" → A storm is coming\n\n**Type 5: Author's Message/Theme**\n- Understanding the deeper meaning or lesson\n- Example: Character learns from mistakes → Theme about growth\n\n---\n\n**🔍 DETAILED EXAMPLES: The Method in Action**\n\n**Example 1: Inferring Motivation**\n\n**Text:** \"Liam stayed up until midnight finishing his science project, even though he had basketball practice early the next morning. He checked every calculation three times and redid his poster twice.\"\n\n**IT SAYS:**\n- Stayed up until midnight working\n- Had early practice (sacrifice)\n- Checked calculations three times\n- Redid poster twice\n\n**I SAY:**\n- People who stay up late working care about quality\n- Checking multiple times shows attention to detail\n- Sacrificing sleep for work shows commitment\n- Redoing work shows perfectionism or high standards\n\n**SO:**\n- **Inference: Liam is dedicated, hardworking, and takes pride in his work. His science project is very important to him.**\n\n---\n\n**Example 2: Inferring Setting**\n\n**Text:** \"The travelers loaded their wagons with supplies for the long journey ahead. They knew they wouldn't see another trading post for weeks. Dust kicked up from the unpaved trail as the oxen pulled forward.\"\n\n**IT SAYS:**\n- Wagons (not cars)\n- Trading post (not store)\n- Weeks between towns\n- Unpaved trails\n- Oxen (not engines)\n\n**I SAY:**\n- Wagons and oxen were used before cars\n- Trading posts were common in the American West\n- Remote areas with no paved roads suggest frontier/pioneer times\n\n**SO:**\n- **Inference: This story takes place in the American frontier/Old West, probably in the 1800s.**\n\n---\n\n**Example 3: Inferring Relationships**\n\n**Text:** \"Marcus saw his little sister struggling with her math homework. Without being asked, he sat down beside her and patiently explained each problem. When she finally understood, her face lit up, and she gave him a quick hug.\"\n\n**IT SAYS:**\n- Marcus noticed his sister struggling\n- He helped without being asked\n- He was patient\n- She hugged him when she understood\n\n**I SAY:**\n- People who help without being asked are caring\n- Patience shows kindness\n- Hugs show affection and gratitude\n- Siblings can have close, supportive relationships\n\n**SO:**\n- **Inference: Marcus and his sister have a caring, supportive sibling relationship. Marcus is a thoughtful and patient older brother.**\n\n---\n\n**⚠️ COMMON INFERENCE MISTAKES**\n\n**Mistake 1: Wild Guessing (No Text Support)**\n- ❌ \"Maya is nervous because she didn't study.\"\n- Problem: Nothing in the text mentions studying\n- ✅ \"Maya is nervous about performing.\"\n\n**Mistake 2: Stating What's Already Said (Not an Inference)**\n- Text: \"The dog barked loudly.\"\n- ❌ \"The dog made noise.\" (This is stated, not inferred)\n- ✅ \"The dog might be warning someone or feeling threatened.\" (This is inferred)\n\n**Mistake 3: Using Only Your Knowledge (Ignoring Text)**\n- ❌ \"Maya is nervous because I get nervous on stage.\"\n- Problem: Must use TEXT evidence, not just personal experience\n- ✅ Combine text clues WITH your knowledge\n\n**Mistake 4: Making Unreasonable Leaps**\n- Text: \"John forgot his homework.\"\n- ❌ \"John is failing all his classes and will drop out of school.\"\n- Problem: Goes way too far beyond the evidence\n- ✅ \"John might face consequences or need to make up the assignment.\"\n\n---\n\n**🎯 INFERENCE QUESTION STARTERS**\n\nYou'll see these phrases in test questions:\n\n- \"Based on the passage, the reader can **infer** that...\"\n- \"What can you **conclude** about...?\"\n- \"The author **suggests** that...\"\n- \"Which statement is **most likely** true?\"\n- \"It can be **reasoned** that...\"\n- \"Evidence in the text **implies** that...\"\n\nWhen you see these words, you know you need to INFER, not just find a stated fact!\n\n---\n\n**📝 INFERENCE CHECKLIST**\n\nBefore you finalize your inference, ask yourself:\n\n✅ **Is there TEXT EVIDENCE to support this?**\n- Can I point to specific words, actions, or details?\n\n✅ **Does this make LOGICAL SENSE?**\n- Would most reasonable people reach this conclusion?\n\n✅ **Am I using my BACKGROUND KNOWLEDGE appropriately?**\n- Does what I know about the world support this?\n\n✅ **Is this REASONABLE, not extreme?**\n- Am I making too big a leap?\n\n❌ **Is this STATED in the text?**\n- If yes, it's not an inference—it's explicit information!\n\n---\n\n**🧠 WHY INFERENCES MATTER**\n\n**For Reading:**\n- Most important ideas are IMPLIED, not stated directly\n- Authors expect you to \"read between the lines\"\n- Understanding character motivations and themes requires inference\n\n**For Tests:**\n- Inference questions appear on EVERY standardized test\n- Often worth more points than factual recall questions\n- Show higher-level thinking skills\n\n**For Life:**\n- Understanding people's feelings and motivations\n- Making decisions based on incomplete information\n- Critical thinking in all areas\n\n---\n\n**🎓 PRACTICE STRATEGY: The 3-Column Chart**\n\nWhen practicing, organize your thinking:\n\n| IT SAYS (Text) | I SAY (Schema) | SO (Inference) |\n|----------------|----------------|----------------|\n| Specific quote or detail | What I know | Logical conclusion |\n\nThis visual organization helps you see if your inference is well-supported!",
                 examples: [
                   {
-                    text: "Maria put on her warmest coat, wrapped a scarf around her neck, and pulled on her mittens. She could see her breath in the air as she stepped outside.",
-                    explanation: "Inference: It's very cold outside. Clues: warm coat, scarf, mittens, visible breath. What we know: We dress warmly in cold weather and can see our breath when it's cold."
+                    text: "**Practice Example 1:** \"The old house at the end of the street had broken windows and overgrown weeds. The mailbox overflowed with yellowed letters. A 'For Sale' sign creaked in the wind, faded from years in the sun.\"",
+                    explanation: "**IT SAYS:** Broken windows, overgrown weeds, overflowing old mail, faded old sign\n**I SAY:** Broken/overgrown things suggest neglect; old mail means no one picks it up; faded signs have been there a long time\n**SO:** **Inference: The house has been abandoned for a long time, and no one has lived there or maintained it for years.**"
+                  },
+                  {
+                    text: "**Practice Example 2:** \"Coach Martinez blew the whistle sharply. 'Again!' she shouted. 'And this time, give me 110%!' The team groaned but got back into position. Some players were breathing hard, but Coach showed no signs of letting up.\"",
+                    explanation: "**IT SAYS:** Sharp whistle, shouting 'Again,' demanding 110%, team groaning, players tired, coach not letting up\n**I SAY:** Demanding coaches push athletes hard; repeated drills build skills; not giving breaks suggests high standards\n**SO:** **Inference: Coach Martinez is tough, demanding, and has high expectations. She pushes her team to work hard and improve, even when they're tired.**"
+                  },
+                  {
+                    text: "**Practice Example 3:** \"When the test was returned, Alex quickly stuffed it into his backpack without looking at it. He avoided eye contact with the teacher and rushed out of class as soon as the bell rang.\"",
+                    explanation: "**IT SAYS:** Quickly stuffed test away, didn't look at it, avoided eye contact, rushed out\n**I SAY:** People avoid things that upset them; not wanting to see a grade suggests it's bad; avoiding the teacher shows embarrassment or shame\n**SO:** **Inference: Alex likely received a poor grade on the test and feels embarrassed or disappointed about his performance.**"
                   }
-                ]
+                ],
+                quickPractice: {
+                  question: "Read this and make an inference:\n\n'Sophia checked her phone for the tenth time in five minutes. She kept looking toward the door. Every time someone walked in, she sat up straight, then slumped back down when it wasn't who she was looking for.'\n\nWhat can you infer?",
+                  hint: "Use the 'It Says, I Say, So' method. What do the actions tell you?",
+                  answer: "**IT SAYS:** Checking phone repeatedly, watching the door, sitting up when people enter, slumping when it's not the right person.\n**I SAY:** People who check phones and watch doors are waiting for someone; sitting up shows hope; slumping shows disappointment.\n**SO:** **Inference: Sophia is eagerly waiting for someone specific to arrive, possibly anxious or excited about their meeting.**"
+                }
               }
             },
             {
@@ -2031,33 +2204,163 @@ export const courseData = {
               title: "Practice: Making Inferences",
               type: "exercise",
               content: {
-                instructions: "Read each passage and choose the best inference.",
+                instructions: "Use the 'It Says, I Say, So...' method to answer these questions. Remember: combine text evidence with background knowledge!",
                 questions: [
                   {
                     id: "q1",
                     passage: "Jake glanced at the clock nervously. He had studied all week for this test. When the teacher handed out the papers, his hands were shaking slightly. He took a deep breath and wrote his name at the top.",
-                    question: "What can you infer about Jake?",
+                    question: "What can you infer about Jake's CHARACTER TRAIT?",
                     options: [
-                      "Jake is confident about the test",
-                      "Jake is anxious despite being prepared",
-                      "Jake forgot to study",
+                      "Jake is confident and carefree",
+                      "Jake is conscientious but anxious about performance",
+                      "Jake is lazy and unprepared",
                       "Jake doesn't care about tests"
                     ],
                     correctAnswer: 1,
-                    explanation: "Even though Jake studied, his nervousness (glancing at clock, shaking hands, deep breath) shows he's anxious."
+                    explanation: "**IT SAYS:** Studied all week, nervous, shaking hands, deep breath. **I SAY:** People who study are conscientious; physical signs show anxiety. **SO:** Jake cares about doing well (studied) but still feels anxious—common for students who have high standards for themselves."
                   },
                   {
                     id: "q2",
                     passage: "The crowd erupted in cheers as she crossed the finish line. Tears of joy streamed down her face as her teammates rushed to congratulate her. All those early morning practices had finally paid off.",
-                    question: "What can you infer?",
+                    question: "What can you infer about the outcome and her dedication?",
                     options: [
-                      "She lost the race",
-                      "She won the race and feels accomplished",
-                      "She is disappointed",
-                      "She didn't practice much"
+                      "She lost the race but is happy it's over",
+                      "She won the race after working hard, and feels accomplished",
+                      "She is disappointed with her performance",
+                      "She didn't practice much and got lucky"
                     ],
                     correctAnswer: 1,
-                    explanation: "The cheers, tears of joy, and reference to practice paying off indicate she won and feels accomplished."
+                    explanation: "**IT SAYS:** Cheers, tears of joy, teammates congratulating, 'practices paid off.' **I SAY:** Cheers = winning; tears of joy = happiness; early practices = dedication. **SO:** She won after sustained hard work and feels the accomplishment was worth the effort."
+                  },
+                  {
+                    id: "q3",
+                    passage: "Dr. Chen examined the ancient scroll carefully, using magnifying glasses and wearing white gloves. She photographed every section and made detailed notes in her journal. 'This could change everything we know about the dynasty,' she whispered.",
+                    question: "What can you infer about Dr. Chen's profession and the scroll's importance?",
+                    options: [
+                      "Dr. Chen is an artist; the scroll is decorative",
+                      "Dr. Chen is a historian or archaeologist; the scroll is very significant",
+                      "Dr. Chen is a librarian; the scroll is ordinary",
+                      "Dr. Chen is a photographer; the scroll is just for practice"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**IT SAYS:** 'Dr.' title, examining ancient scroll, magnifying glasses, white gloves, photographs, 'change everything we know.' **I SAY:** Historians study the past; white gloves protect valuable items; 'change everything' means major discovery. **SO:** Dr. Chen is a professional historian/archaeologist, and this scroll contains groundbreaking historical information."
+                  },
+                  {
+                    id: "q4",
+                    passage: "Tommy shared his lunch with the new kid who had forgotten his money. Later, he helped Mrs. Garcia carry heavy boxes to her classroom without being asked. At recess, he invited a student sitting alone to join his soccer game.",
+                    question: "What CHARACTER TRAITS can you infer about Tommy based on his ACTIONS?",
+                    options: [
+                      "Tommy is selfish and only helps when adults are watching",
+                      "Tommy is kind, compassionate, and notices when others need help",
+                      "Tommy is trying to get attention and praise",
+                      "Tommy is bossy and controlling"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**IT SAYS:** Shared lunch, helped without being asked, invited lonely student. **I SAY:** People who share and help without prompting are genuinely kind; noticing the new kid and lonely student shows empathy. **SO:** Tommy consistently acts with kindness and compassion, showing genuine care for others' well-being."
+                  },
+                  {
+                    id: "q5",
+                    passage: "The streets were empty except for a stray newspaper tumbling by. Broken windows stared out like empty eyes. Rust covered the old gas pumps at the abandoned station. A faded sign creaked in the wind: 'Population 2,347.'",
+                    question: "What can you infer about the SETTING?",
+                    options: [
+                      "This is a busy, thriving modern city",
+                      "This is a ghost town or abandoned community",
+                      "This is a town preparing for a festival",
+                      "This is a town that just experienced a natural disaster"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**IT SAYS:** Empty streets, broken windows, rust, abandoned station, faded sign, population in past tense. **I SAY:** Empty + broken + abandoned = no longer used; rust takes years; population sign suggests people used to live there. **SO:** This was once a populated town but has been abandoned for a long time—a ghost town."
+                  },
+                  {
+                    id: "q6",
+                    passage: "Maria's notebook was filled with detailed sketches of buildings from every angle. She labeled each drawing with measurements and notes about materials. At home, her desk was covered with miniature models made from cardboard and popsicle sticks.",
+                    question: "What can you infer about Maria's interests or future career goals?",
+                    options: [
+                      "Maria wants to be a teacher",
+                      "Maria is interested in architecture or engineering",
+                      "Maria enjoys cooking",
+                      "Maria wants to be a writer"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**IT SAYS:** Detailed building sketches, measurements, material notes, miniature models. **I SAY:** Architects design buildings with measurements and materials; models help visualize structures. **SO:** Maria's interests strongly align with architecture or engineering—she's studying buildings systematically."
+                  },
+                  {
+                    id: "q7",
+                    passage: "The knight mounted his horse as the sun rose over the castle walls. His squire handed him a lance, and the crowd in the courtyard cheered. Ladies in the tower above waved colorful handkerchiefs.",
+                    question: "What can you infer about the TIME PERIOD and SETTING?",
+                    options: [
+                      "Modern day at a theme park",
+                      "Medieval times at a real castle",
+                      "Ancient Rome",
+                      "The future on another planet"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**IT SAYS:** Knight, horse, castle, squire, lance, courtyard, ladies in tower, handkerchiefs. **I SAY:** Knights and squires existed in medieval times; lances were used in jousting; castle towers and courtyard gatherings were common then. **SO:** This is set in medieval times (Middle Ages), probably at a tournament or joust."
+                  },
+                  {
+                    id: "q8",
+                    passage: "Samantha looked at her phone—still no text back. She had apologized three times already. Maybe she shouldn't have said what she said. She hoped their friendship could survive this.",
+                    question: "What can you infer about the SITUATION and Samantha's FEELINGS?",
+                    options: [
+                      "Samantha is angry at her friend",
+                      "Samantha said something hurtful and feels guilty, wanting to repair the friendship",
+                      "Samantha is celebrating good news",
+                      "Samantha doesn't care about the friendship"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**IT SAYS:** Checking for response, apologized three times, regrets words, hopes friendship survives. **I SAY:** Multiple apologies = guilt; hoping friendship survives = it's in jeopardy; checking phone = anxious for response. **SO:** Samantha said something that hurt her friend, feels remorseful, and is worried she may have damaged the friendship."
+                  },
+                  {
+                    id: "q9",
+                    passage: "Dark clouds gathered overhead, and the wind picked up suddenly. Birds flew frantically toward shelter. Mr. Johnson rushed to bring in the lawn furniture and close the storm shutters.",
+                    question: "What can you PREDICT will happen next based on the evidence?",
+                    options: [
+                      "It will be a beautiful sunny day",
+                      "A severe storm is approaching",
+                      "An earthquake will occur",
+                      "Nothing will happen"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**IT SAYS:** Dark clouds gathering, wind picking up, birds seeking shelter, securing furniture, closing storm shutters. **I SAY:** Dark clouds + wind = storm signs; animals sense weather changes; people prepare when bad weather is coming. **SO:** PREDICTION: A severe storm is about to hit—all evidence points to imminent bad weather."
+                  },
+                  {
+                    id: "q10",
+                    passage: "'You'll never be able to do it,' his brother taunted. But Carlos practiced every single day after school for three months. On competition day, he stepped up to the microphone with his head held high.",
+                    question: "What can you infer about Carlos's character trait based on his ACTIONS and RESPONSE to challenge?",
+                    options: [
+                      "Carlos gives up easily when challenged",
+                      "Carlos is determined and resilient, using doubt as motivation",
+                      "Carlos is arrogant and overconfident",
+                      "Carlos doesn't care what others think"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**IT SAYS:** Brother's taunt, practiced daily for 3 months, 'head held high' on competition day. **I SAY:** Daily practice despite discouragement = determination; continuing for months = resilience; confident posture = self-belief earned through work. **SO:** Carlos is determined and resilient—he used his brother's doubt as motivation to prove himself through hard work."
+                  },
+                  {
+                    id: "q11",
+                    passage: "The robot hummed as it rolled across the lab floor, carefully navigating around obstacles. Its sensors blinked rapidly, processing information. Dr. Patel watched the monitor intently, recording data every few seconds.",
+                    question: "What can you infer about the SETTING and what's happening?",
+                    options: [
+                      "This is a toy store where someone is playing",
+                      "This is a science laboratory where a robot is being tested",
+                      "This is a factory assembly line",
+                      "This is a classroom demonstration"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**IT SAYS:** 'Lab,' robot navigating with sensors, 'Dr.' title, monitoring and recording data. **I SAY:** Labs are for scientific research; doctors (PhDs) conduct experiments; recording data = testing phase. **SO:** This is a research laboratory where Dr. Patel is conducting a scientific test of robot capabilities."
+                  },
+                  {
+                    id: "q12",
+                    passage: "Elena read the same paragraph three times, but the words blurred together. She rubbed her tired eyes and checked the clock—2:00 AM. Her coffee had gone cold hours ago, but the essay was due in the morning.",
+                    question: "What can you infer about Elena's SITUATION and why she made certain CHOICES?",
+                    options: [
+                      "Elena loves staying up late and is having fun",
+                      "Elena procrastinated and is now rushing to finish an assignment",
+                      "Elena is well-prepared and relaxed",
+                      "Elena doesn't care about the essay"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**IT SAYS:** Can't focus, tired eyes, 2:00 AM, cold coffee (been working for hours), due in morning. **I SAY:** Working late = poor time management; tired and struggling = stress; due tomorrow = deadline pressure. **SO:** Elena put off the assignment and is now forcing herself to stay up all night to complete it—classic procrastination with consequences."
                   }
                 ]
               }
@@ -2070,78 +2373,207 @@ export const courseData = {
           lessons: [
             {
               id: "reading-3-1",
-              title: "The Golden Rule: Prove Your Answers",
+              title: "The R.A.C.E. Strategy: Prove Your Answers",
               type: "lesson",
               content: {
-                introduction: "This is the 'Golden Rule' of 6th-grade reading: You can no longer just give an answer; you must PROVE it with evidence from the text. This is the foundation of all California Grade 6 reading standards.",
-                explanation: "**Three Types of Textual Evidence:**\n\n**1. Explicit Evidence (Direct Quotes)**\nFinding exactly what the text says:\n- The author directly states the information\n- You can point to specific words or sentences\n- Example: \"The author states that 'the ocean covers 71% of Earth's surface.'\"\n\n**2. Inferences (Logical Conclusions)**\nDrawing conclusions based on:\n- Text clues + What you already know = Inference\n- The author suggests but doesn't directly state\n- Example: If a character is shivering and rubbing their hands, you can infer it's cold\n\n**3. Quote Integration (Smooth Citation)**\nLearning to smoothly incorporate quotes into your own sentences:\n\n**Poor Integration:**\n\"The story is about courage. 'He faced his fears.'\" (choppy)\n\n**Good Integration:**\nThe story demonstrates courage when the narrator explains that \"he faced his fears\" despite being terrified.\n\n---\n\n**How to Cite Evidence:**\n\n**Step 1: Make Your Point**\nState your answer or claim clearly.\n\n**Step 2: Introduce the Evidence**\nUse phrases like:\n- According to the text...\n- The author states that...\n- For example, the passage says...\n- As shown in paragraph 3...\n\n**Step 3: Provide the Quote**\nUse quotation marks around exact words.\n\n**Step 4: Explain the Connection**\nShow how the evidence supports your point.\n\n**Example:**\nThe main character shows bravery throughout the story. **According to the text**, when faced with danger, \"she stood her ground and refused to back down.\" **This demonstrates** that she chose courage over fear, even when it would have been easier to run away.",
+                introduction: "This is the 'Golden Rule' of 6th-grade reading: You can no longer just give an answer; you must PROVE it with evidence from the text. The R.A.C.E. strategy gives you a powerful formula for constructing complete, evidence-based responses. This is the foundation of all California Grade 6 reading standards.",
+                explanation: "**🏆 THE R.A.C.E. STRATEGY**\n\nR.A.C.E. is an acronym that helps you write strong, evidence-based answers:\n\n**R** = **RESTATE** the question\n**A** = **ANSWER** the question\n**C** = **CITE** evidence from the text\n**E** = **EXPLAIN** how the evidence supports your answer\n\n---\n\n**📖 DETAILED BREAKDOWN**\n\n**R - RESTATE the Question**\n\n**Turn the question into a statement** that begins your answer.\n\n**Question:** Why is the California condor endangered?\n\n❌ **Weak:** \"Because of habitat loss.\"\n✅ **Strong:** \"The California condor is endangered because of habitat loss.\"\n\n**Why Restate?**\n- Shows you understood the question\n- Provides context for your reader\n- Creates a topic sentence\n\n**Quick Tip:** Take key words from the question and turn them into a statement.\n\n---\n\n**A - ANSWER the Question**\n\n**Give a clear, direct answer** to what's being asked.\n\n**Question:** How does the main character change?\n\n❌ **Weak:** \"He changes.\"\n✅ **Strong:** \"The main character transforms from selfish to compassionate.\"\n\n**Be Specific:**\n- Answer ALL parts of the question\n- Be clear and direct\n- Don't leave your reader guessing\n\n---\n\n**C - CITE Evidence from the Text**\n\n**Use DIRECT QUOTES or SPECIFIC PARAPHRASES** to support your answer.\n\n**Two Types of Evidence:**\n\n**1. Direct Evidence (Exact Quotes)**\n- Use quotation marks\n- Copy the author's exact words\n- Best for specific phrases or important statements\n\n**2. Indirect Evidence (Paraphrasing)**\n- Put the author's ideas in your own words\n- Still give credit: \"According to the text...\"\n- Best for summarizing longer sections\n\n**TAG PHRASES for Introducing Evidence:**\n\n**For Direct Quotes:**\n- The author states, \"...\"\n- According to the text, \"...\"\n- The passage explains, \"...\"\n- In paragraph [#], the author writes, \"...\"\n- For example, the text says, \"...\"\n- As shown when the narrator notes, \"...\"\n- The author illustrates this by saying, \"...\"\n\n**For Paraphrasing:**\n- The text indicates that...\n- The author explains that...\n- According to the passage...\n- The article describes how...\n\n---\n\n**E - EXPLAIN How Evidence Supports Your Answer**\n\n**Connect the dots** between your evidence and your answer.\n\n**This is the MOST IMPORTANT STEP** that students often skip!\n\n**Ask yourself:**\n- How does this quote prove my point?\n- What does this evidence show?\n- Why is this detail important?\n\n**EXPLANATION STARTERS:**\n- This shows that...\n- This demonstrates...\n- This proves...\n- This evidence reveals...\n- This illustrates...\n- Therefore...\n- This is significant because...\n- From this, we can understand that...\n\n---\n\n**🎯 COMPLETE R.A.C.E. EXAMPLE**\n\n**Question:** How does the author feel about recycling?\n\n**WEAK ANSWER (No R.A.C.E.):**\n\"The author likes recycling.\"\n❌ No evidence, no explanation, weak answer\n\n**STRONG ANSWER (Using R.A.C.E.):**\n\n**R** - The author feels strongly positive about recycling.\n\n**A** - The author believes recycling is essential for environmental protection.\n\n**C** - According to the text, \"Recycling is one of the most important actions individuals can take to protect the environment.\"\n\n**E** - This demonstrates the author's conviction that recycling isn't just helpful, but critical. The use of \"most important\" emphasizes that the author sees recycling as a top priority, not just one option among many.\n\n**FULL PARAGRAPH:**\n\"The author feels strongly positive about recycling and believes it is essential for environmental protection. According to the text, 'Recycling is one of the most important actions individuals can take to protect the environment.' This demonstrates the author's conviction that recycling isn't just helpful, but critical. The use of 'most important' emphasizes that the author sees recycling as a top priority, not just one option among many.\"\n\n---\n\n**📚 DIRECT vs. INDIRECT EVIDENCE**\n\n**DIRECT EVIDENCE (Explicit/Stated)**\n\nInformation **clearly stated** in the text.\n\n**Example Passage:** \"The Amazon rainforest produces 20% of the world's oxygen.\"\n\n**Question:** What percentage of oxygen does the Amazon produce?\n**Direct Evidence:** The text explicitly states \"20%.\"\n\n**When to Use:**\n- Facts, statistics, dates\n- Specific quotes that answer the question directly\n- Author's direct statements\n\n---\n\n**INDIRECT EVIDENCE (Inferred)**\n\nInformation you must **figure out** from clues.\n\n**Example Passage:** \"Maria slammed the door and threw her backpack across the room. 'I never want to go back there!' she shouted.\"\n\n**Question:** How does Maria feel?\n**Indirect Evidence:** Although \"angry\" isn't stated, her actions (slamming, throwing, shouting) show anger.\n\n**Your Citation:** \"Maria's feelings can be inferred from her actions. The text shows she 'slammed the door' and 'threw her backpack,' which are typically associated with anger and frustration.\"\n\n**When to Use:**\n- Character emotions/motivations\n- Theme and deeper meaning\n- Author's implicit messages\n- Drawing conclusions\n\n---\n\n**✂️ PROPER QUOTE INTEGRATION**\n\n**CHOPPY (Poor Integration):**\n\"The story is about courage. 'He faced his fears.' This is important.\"\n❌ Quotes feel disconnected and awkward\n\n**SMOOTH (Good Integration):**\n\"The story demonstrates courage when the narrator explains that 'he faced his fears' despite being terrified.\"\n✅ The quote flows naturally within the sentence\n\n**METHODS FOR SMOOTH INTEGRATION:**\n\n**Method 1: Use a Complete Sentence + Colon**\n\"The author makes her point clear: 'Recycling saves our planet.'\"\n\n**Method 2: Weave Into Your Own Sentence**\n\"The narrator describes the forest as 'ancient and mysterious,' creating an atmosphere of wonder.\"\n\n**Method 3: Use a Tag Phrase**\n\"According to the scientist, 'climate change affects everyone.'\"\n\n**Method 4: Partial Quote (Integrate Key Words)**\n\"The author emphasizes that the discovery was 'groundbreaking' and would 'change everything.'\"\n\n---\n\n**📍 CITING SPECIFIC LOCATIONS**\n\n**Grade 6 Skill:** Reference WHERE you found the evidence.\n\n**Examples:**\n- \"In paragraph 3, the author states...\"\n- \"The introduction explains that...\"\n- \"As shown in the final paragraph...\"\n- \"Early in the text, the narrator describes...\"\n- \"According to lines 12-15...\"\n- \"The concluding section reveals...\"\n\n**Why This Matters:**\n- Shows you read carefully\n- Helps reader find the evidence\n- Demonstrates organization\n- Required in formal essays\n\n---\n\n**⚠️ COMMON MISTAKES TO AVOID**\n\n**Mistake 1: No Evidence**\n❌ \"The character is brave.\" (Where's the proof?)\n✅ \"The character is brave, as demonstrated when he 'volunteered to go first' despite being afraid.\"\n\n**Mistake 2: Evidence Without Explanation**\n❌ \"The character is brave. The text says, 'He volunteered to go first.'\" (Connect the dots!)\n✅ \"The character is brave. The text says, 'He volunteered to go first.' This shows courage because he chose to face danger even though he was afraid, putting himself at risk for others.\"\n\n**Mistake 3: Too Much Summary, Not Enough Analysis**\n❌ \"First this happened, then that happened, then...\" (That's just retelling)\n✅ Focus on WHY and HOW things happened, not just WHAT happened\n\n**Mistake 4: Using \"I think\" or \"I believe\"**\n❌ \"I think the author likes nature.\"\n✅ \"The author's appreciation for nature is evident when she describes...\"\n(Let the EVIDENCE speak, not your opinion!)\n\n**Mistake 5: Quoting Too Much**\n❌ Don't quote entire paragraphs—select the KEY phrase\n✅ Choose the most powerful 5-15 words that prove your point\n\n**Mistake 6: Not Using Quotation Marks**\n❌ \"The author says recycling is important.\" (Is that exact wording?)\n✅ \"The author says recycling 'is important.'\" OR \"The author indicates that recycling is important.\" (paraphrase, no quotes)\n\n---\n\n**🎯 R.A.C.E. FORMULA TEMPLATE**\n\nUse this template to practice:\n\n**R** - [Restate question as a statement]\n\n**A** - [Give a clear, specific answer]\n\n**C** - [Choose one of these]\n- According to the text, \"___[direct quote]___.\"\n- The passage shows that ___[paraphrase]___.\n- In paragraph ___, the author states, \"___[quote]___.\"\n\n**E** - [Choose one of these]\n- This shows that...\n- This demonstrates...\n- This is significant because...\n- From this evidence, we can understand that...\n\n---\n\n**💡 GRADE 6 ADVANCED: MULTIPLE PIECES OF EVIDENCE**\n\nFor complex questions, use **2-3 pieces of evidence**:\n\n**Example:**\n\"The main character demonstrates growth throughout the story. At the beginning, he 'refused to share anything with his classmates,' showing selfishness. However, by the end, he 'organized a fundraiser to help his community,' revealing his transformation to generosity. This change shows that experiences can reshape our values and priorities.\"\n\n**Notice:**\n- Evidence from BEGINNING (quote 1)\n- Evidence from END (quote 2)\n- Explanation connects both to show change\n\n---\n\n**🎓 WHY R.A.C.E. MATTERS**\n\n**For Tests:**\n- Constructed response questions require R.A.C.E.\n- Graders look for each component\n- Missing any step = lower score\n\n**For Essays:**\n- Body paragraphs follow this structure\n- Each claim needs evidence and explanation\n- Foundation for high school and college writing\n\n**For Life:**\n- Making evidence-based arguments\n- Supporting opinions with facts\n- Critical thinking and persuasion\n\n---\n\n**📝 R.A.C.E. CHECKLIST**\n\nBefore submitting an answer, check:\n\n✅ **R** - Did I restate the question in my answer?\n✅ **A** - Did I answer ALL parts of the question?\n✅ **C** - Did I include a direct quote or specific paraphrase?\n✅ **C+** - Did I use quotation marks for exact words?\n✅ **C++** - Did I cite WHERE the evidence came from?\n✅ **E** - Did I explain HOW the evidence proves my answer?\n✅ **E+** - Does my explanation add insight, not just repeat?\n\n**Target Length:** 4-7 sentences for a complete R.A.C.E. response",
                 examples: [
                   {
-                    text: "Question: How does the author feel about recycling?\n\nWeak Answer: The author likes recycling.\n\nStrong Answer: The author strongly supports recycling. According to the text, \"Recycling is one of the most important actions individuals can take to protect the environment.\" This shows the author believes recycling is not just helpful, but essential.",
-                    explanation: "The strong answer makes a claim, provides a direct quote, and explains how the evidence supports the point."
+                    text: "**Example 1: Literature Question**\n\n**Question:** Why does the main character feel conflicted?\n\n**R.A.C.E. Answer:** The main character feels conflicted because she must choose between loyalty to her family and pursuing her own dreams. The text illustrates this when she thinks, \"How could I disappoint them after all they'd sacrificed for me?\" This shows her internal struggle—she values her family's expectations but also yearns for independence. The question \"How could I...?\" reveals her guilt and the weight of her decision.",
+                    explanation: "**Breakdown:**\n**R**: 'The main character feels conflicted because...'\n**A**: '...she must choose between loyalty and dreams'\n**C**: Direct quote: 'How could I disappoint them...'\n**E**: Explains the quote shows internal struggle, guilt, and decision weight\n\n✅ Complete R.A.C.E. with smooth integration!"
                   },
                   {
-                    text: "Using Inference:\n\nPassage: 'Marcus slammed his locker and stormed down the hallway without saying goodbye to anyone.'\n\nInference: We can infer that Marcus is angry or upset. The text clues are 'slammed' and 'stormed,' which are actions associated with anger. Additionally, ignoring friends suggests he's too upset to be social.",
-                    explanation: "This combines text evidence (specific words) with logical reasoning to make an inference."
+                    text: "**Example 2: Informational Text Question**\n\n**Question:** How do honeybees help farmers?\n\n**R.A.C.E. Answer:** Honeybees help farmers by pollinating crops, which is essential for food production. According to the article, \"Honeybees pollinate approximately 75% of the fruits, vegetables, and nuts consumed by Americans.\" This demonstrates that bees aren't just helpful—they're critical to agriculture. Without their pollination services, farmers would see dramatically reduced crop yields, affecting both the economy and food supply.",
+                    explanation: "**Breakdown:**\n**R**: 'Honeybees help farmers by...'\n**A**: '...pollinating crops, essential for food production'\n**C**: Specific statistic: '75% of fruits, vegetables, nuts'\n**E**: Explains the significance—not just helpful but critical, with consequences explained\n\n✅ Uses precise data and explains broader implications!"
+                  },
+                  {
+                    text: "**Example 3: Inference Question (Indirect Evidence)**\n\n**Question:** What can you infer about Marcus's character?\n\n**R.A.C.E. Answer:** We can infer that Marcus is determined and doesn't give up easily. The text shows that \"despite failing the first two times, he practiced every day for a month and tried again.\" This reveals his persistence—instead of quitting after failure, he used it as motivation to improve. His daily practice shows discipline, and his willingness to face failure again demonstrates true resilience.",
+                    explanation: "**Breakdown:**\n**R**: 'We can infer that Marcus is...'\n**A**: '...determined and doesn't give up easily'\n**C**: Paraphrased evidence: 'failed first two times, practiced daily, tried again'\n**E**: Explains what the actions reveal: persistence, discipline, resilience\n\n✅ Uses indirect evidence to support character trait inference!"
                   }
-                ]
+                ],
+                quickPractice: {
+                  question: "**Practice Question:**\n\nPassage: \"Solar panels convert sunlight into electricity without producing pollution. According to scientists, solar energy could provide enough power for the entire world if harnessed effectively.\"\n\nQuestion: What advantage does solar energy have over traditional power sources?\n\n**Try writing a R.A.C.E. response!**",
+                  hint: "Remember: Restate, Answer, Cite (with quote), Explain (how it proves your point)",
+                  answer: "**Sample R.A.C.E. Answer:**\n\nSolar energy has a significant environmental advantage over traditional power sources because it produces clean electricity. The passage states that solar panels \"convert sunlight into electricity without producing pollution.\" This demonstrates that, unlike fossil fuels which release harmful emissions, solar energy provides a clean alternative that doesn't damage the environment. This pollution-free characteristic makes solar power an important solution for reducing environmental harm while meeting energy needs.\n\n**Breakdown:** ✅ R: Restates question | ✅ A: Clear answer (environmental advantage/clean) | ✅ C: Direct quote with quotation marks | ✅ E: Explains why being pollution-free matters"
+                }
               }
             },
             {
               id: "reading-3-2",
-              title: "Practice: Citing Evidence",
+              title: "Practice: Citing Textual Evidence with R.A.C.E.",
               type: "exercise",
               content: {
-                instructions: "Read the passage and answer questions by citing textual evidence.",
-                passage: "The California redwood trees are the tallest living things on Earth, with some reaching heights of over 350 feet. These magnificent giants can live for more than 2,000 years. Redwoods thrive in the foggy coastal regions of Northern California, where the moisture from fog provides nearly 40% of their water needs. Sadly, only 5% of the original old-growth redwood forests remain today due to logging in the 1800s and 1900s. Conservation efforts are now working to protect these remaining ancient forests for future generations.",
+                instructions: "Practice the R.A.C.E. strategy! Remember: Restate, Answer, Cite, Explain. Read passages carefully and apply the skills.",
+                passage: "**Passage 1 (Questions 1-7):**\n\nThe California redwood trees are the tallest living things on Earth, with some reaching heights of over 350 feet—that's taller than the Statue of Liberty! These magnificent giants can live for more than 2,000 years, meaning some living redwoods were saplings when ancient Rome still existed. Redwoods thrive in the foggy coastal regions of Northern California, where the moisture from fog provides nearly 40% of their water needs during dry summer months. The thick bark of redwoods, which can be up to 12 inches thick, protects them from fire and insect damage.\n\nSadly, only 5% of the original old-growth redwood forests remain today due to extensive logging in the 1800s and 1900s. During this period, millions of these ancient trees were cut down to build homes and cities during California's rapid development. Conservation efforts are now working to protect these remaining ancient forests for future generations, with organizations purchasing land and establishing protected parks.\n\n**Passage 2 (Questions 8-14):**\n\nMaria closed her eyes and took a deep breath before walking onto the stage. Her hands trembled slightly as she gripped the microphone. For months, she had practiced this song in her bedroom, but performing in front of hundreds of people felt entirely different. When the music started, her voice cracked on the first note. She saw her best friend Emma in the front row, giving her an encouraging smile and thumbs up.\n\nMaria paused, collected herself, and started again. This time, her voice rang out clear and strong. As she sang the final note, the auditorium erupted in applause. Her music teacher, Mrs. Chen, rushed to the stage with tears in her eyes. \"I knew you could do it,\" she whispered. Maria realized that sometimes the scariest moments lead to the greatest accomplishments.",
                 questions: [
                   {
                     id: "q1",
-                    question: "Which quote provides explicit evidence that redwoods are extremely tall?",
+                    question: "Which quote provides the BEST direct evidence that redwoods are extremely tall?",
                     options: [
                       "\"These magnificent giants can live for more than 2,000 years.\"",
-                      "\"...some reaching heights of over 350 feet.\"",
+                      "\"...some reaching heights of over 350 feet—that's taller than the Statue of Liberty!\"",
                       "\"Redwoods thrive in the foggy coastal regions...\"",
-                      "\"Conservation efforts are now working...\""
+                      "\"The thick bark of redwoods can be up to 12 inches thick.\""
                     ],
                     correctAnswer: 1,
-                    explanation: "This quote directly states their height (350 feet), providing explicit evidence of how tall they are."
+                    explanation: "**C - CITE:** This quote provides EXPLICIT evidence with a specific measurement (350 feet) AND a comparison (taller than Statue of Liberty) that proves extreme height. This is the strongest evidence."
                   },
                   {
                     id: "q2",
-                    question: "Based on the passage, what can you INFER about why redwoods grow in foggy regions?",
+                    question: "Which is the BEST example of smooth quote integration about redwood age?",
                     options: [
-                      "They like cold weather",
-                      "They need the moisture that fog provides",
-                      "Fog protects them from logging",
-                      "Other trees can't grow there"
+                      "Redwoods are old. 'They can live for more than 2,000 years.'",
+                      "The passage says redwoods can live for more than 2,000 years, making them ancient trees.",
+                      "Redwoods are ancient because the text says so.",
+                      "Redwoods demonstrate remarkable longevity, as some 'can live for more than 2,000 years,' meaning living trees today existed during ancient Rome."
                     ],
-                    correctAnswer: 1,
-                    explanation: "The text states fog provides 40% of their water needs, so we can infer they grow there because they need that moisture."
+                    correctAnswer: 3,
+                    explanation: "Option D shows BEST INTEGRATION: introduces the idea (longevity), smoothly weaves in the quote, AND adds explanation (existed during Rome) that helps readers understand the significance. This models the FULL R.A.C.E. approach."
                   },
                   {
                     id: "q3",
-                    question: "Which statement BEST integrates evidence about redwood conservation?",
+                    question: "Based on Passage 1, what can you INFER about why redwoods survive fires? (Indirect Evidence)",
                     options: [
-                      "Conservation is important. 'Only 5% remain.'",
-                      "Conservation efforts are protecting redwoods because the passage says so.",
-                      "Due to extensive logging, 'only 5% of the original old-growth redwood forests remain today,' making conservation efforts critical.",
-                      "Redwoods need protection and conservation efforts are working."
+                      "Because firefighters protect them",
+                      "Because the thick bark (up to 12 inches) protects them from fire damage",
+                      "Because they grow near water",
+                      "Because they are very tall"
                     ],
-                    correctAnswer: 2,
-                    explanation: "This option smoothly integrates the quote, provides context (logging), and explains why conservation is important."
+                    correctAnswer: 1,
+                    explanation: "**IT SAYS:** '12 inches thick...protects from fire.' **I SAY:** Thick protection = insulation from heat/flames. **INFERENCE:** The thick bark acts as fireproof armor. This combines TEXT EVIDENCE + REASONING = inference about survival."
                   },
                   {
                     id: "q4",
-                    question: "What evidence supports the idea that redwoods are ancient trees?",
+                    question: "Which answer BEST demonstrates the 'E' (Explain) part of R.A.C.E. for conservation importance?",
                     options: [
-                      "They are the tallest living things",
-                      "They can live for more than 2,000 years",
-                      "They grow in Northern California",
-                      "Fog provides their water"
+                      "Only 5% remain, so conservation is important.",
+                      "Conservation efforts protect redwoods because the passage mentions it.",
+                      "Since 'only 5% of the original old-growth redwood forests remain,' conservation is critical to prevent complete loss of these irreplaceable ancient ecosystems.",
+                      "The text says conservation is working."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "**E - EXPLAIN:** Option C goes beyond just citing—it explains WHY (prevent complete loss) and WHAT'S AT STAKE (irreplaceable ancient ecosystems). This shows the SIGNIFICANCE of the evidence, which is what the 'Explain' step requires."
+                  },
+                  {
+                    id: "q5",
+                    question: "If you were asked, 'How do redwoods survive in dry summers?', which R.A.C.E. answer is MOST complete?",
+                    options: [
+                      "They use fog. The text says 'fog provides 40% of water.'",
+                      "Redwoods survive dry summers by using fog for water, which provides nearly 40% of their needs.",
+                      "Redwoods survive dry summers through fog moisture. The passage states that 'moisture from fog provides nearly 40% of their water needs during dry summer months.' This shows that fog acts as a critical water source when rainfall is scarce, allowing redwoods to thrive in coastal regions.",
+                      "I think redwoods are smart to use fog for water in summer."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "Option C is COMPLETE R.A.C.E.:\n**R**: 'Redwoods survive dry summers...'\n**A**: '...through fog moisture'\n**C**: Direct quote with context\n**E**: Explains HOW and WHY it matters (fog = substitute for rain, allows them to thrive)\n\nOption D fails because it uses 'I think' (not objective)."
+                  },
+                  {
+                    id: "q6",
+                    question: "Which sentence shows PARAPHRASING (indirect evidence) done correctly?",
+                    options: [
+                      "Redwoods live for more than 2,000 years.",
+                      "The passage indicates that redwoods can survive for over two millennia, making them some of Earth's oldest living organisms.",
+                      "The text says redwoods are really really old.",
+                      "Redwoods are ancient according to what I read."
                     ],
                     correctAnswer: 1,
-                    explanation: "Living for over 2,000 years is explicit evidence that makes them ancient. This directly supports the claim."
+                    explanation: "Option B correctly PARAPHRASES: uses own words ('two millennia' for 2,000 years, 'survive' for live), gives CREDIT ('passage indicates'), and adds CONTEXT (oldest organisms). This is proper indirect citation."
+                  },
+                  {
+                    id: "q7",
+                    question: "What is the CENTRAL IDEA of Passage 1, supported by evidence?",
+                    options: [
+                      "Redwoods are tall.",
+                      "California redwoods are remarkable ancient trees with unique adaptations, but they face conservation challenges due to past logging.",
+                      "Only 5% of redwoods remain.",
+                      "Trees are important."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "The CENTRAL IDEA must cover the WHOLE passage:\n✅ Remarkable/ancient (supported by: height, age, thick bark)\n✅ Unique adaptations (supported by: fog usage, fire resistance)\n✅ Conservation challenges (supported by: 95% lost, logging history)\n\nOptions A and C are just DETAILS. Option D is too vague."
+                  },
+                  {
+                    id: "q8",
+                    question: "In Passage 2, what DIRECT EVIDENCE shows Maria was nervous before performing?",
+                    options: [
+                      "\"She practiced in her bedroom for months.\"",
+                      "\"Her hands trembled slightly as she gripped the microphone.\"",
+                      "\"The auditorium erupted in applause.\"",
+                      "\"Her music teacher rushed to the stage.\""
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**EXPLICIT EVIDENCE:** 'Trembled slightly' + 'gripped microphone' = DIRECT physical signs of nervousness. This DIRECTLY answers 'how do we know she was nervous?' Options A, C, D don't show nervousness."
+                  },
+                  {
+                    id: "q9",
+                    question: "Which inference about Maria's CHARACTER is best supported by MULTIPLE pieces of evidence?",
+                    options: [
+                      "Maria is naturally talented and confident.",
+                      "Maria is determined and resilient, as shown by months of practice, recovering from a mistake, and persevering despite fear.",
+                      "Maria doesn't like performing.",
+                      "Maria's teacher forced her to perform."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**MULTIPLE EVIDENCE POINTS:**\n1. 'Practiced for months' = determination\n2. 'Started again' after mistake = resilience\n3. 'Performing despite fear' = courage\n\n**GRADE 6 SKILL:** Using MULTIPLE pieces of evidence to support one inference. Options A and D contradict the text; option C is not supported."
+                  },
+                  {
+                    id: "q10",
+                    question: "If asked, 'How does Emma help Maria?', which answer has the BEST explanation (E in R.A.C.E.)?",
+                    options: [
+                      "Emma smiled and gave a thumbs up.",
+                      "Emma helped by smiling. The text says she gave 'an encouraging smile and thumbs up.'",
+                      "Emma provided crucial emotional support when Maria needed it most. The passage shows that when Maria's 'voice cracked,' she 'saw her best friend Emma giving her an encouraging smile and thumbs up.' This non-verbal encouragement gave Maria the confidence to try again.",
+                      "Emma was nice to Maria."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "Option C provides FULL EXPLANATION:\n- **HOW**: Through visual encouragement (smile, thumbs up)\n- **WHEN**: At the critical moment (after voice crack)\n- **EFFECT**: Gave Maria confidence to continue\n- **WHY IT MATTERS**: Emotional support at the right time made success possible\n\nThis is what 'EXPLAIN' means—connecting evidence to deeper meaning!"
+                  },
+                  {
+                    id: "q11",
+                    question: "What is the THEME of Passage 2, and which evidence BEST supports it?",
+                    options: [
+                      "Theme: Music is fun. Evidence: Maria sings.",
+                      "Theme: Facing fears and persevering through mistakes can lead to great accomplishments. Evidence: 'Sometimes the scariest moments lead to the greatest accomplishments.'",
+                      "Theme: Friends are important. Evidence: Emma smiled.",
+                      "Theme: Practice makes perfect. Evidence: Maria practiced."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**THEME** = Universal message about life (complete statement).\n\nOption B:\n✅ Complete theme statement (not just a word)\n✅ Supported by: fear → mistake → recovery → success\n✅ EXPLICIT evidence: the author STATES the theme in the final sentence\n\nOptions A, C, D are partial truths but miss the MAIN message."
+                  },
+                  {
+                    id: "q12",
+                    question: "Which demonstrates PROPER use of a TAG PHRASE to introduce evidence?",
+                    options: [
+                      "'Her voice rang out clear and strong.'",
+                      "The text mentions Maria's voice.",
+                      "As the passage illustrates, after collecting herself, Maria's voice 'rang out clear and strong,' demonstrating her recovery.",
+                      "Maria sang well, it says that in the story."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "**TAG PHRASE:** 'As the passage illustrates' smoothly introduces evidence.\n\n✅ Professional introduction\n✅ Provides context (after collecting herself)\n✅ Uses quotation marks correctly\n✅ Adds explanation (demonstrating recovery)\n\nThis is COLLEGE-LEVEL citation skill!"
+                  },
+                  {
+                    id: "q13",
+                    question: "If you need to cite WHERE evidence is located, which is BEST?",
+                    options: [
+                      "The story says Maria was nervous.",
+                      "Maria was nervous. It's in the passage.",
+                      "In the opening paragraph of Passage 2, Maria's nervousness is evident when her 'hands trembled' as she approached the stage.",
+                      "Maria's hands trembled. That's the proof."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "**GRADE 6 SKILL—CITING LOCATION:**\n✅ 'In the opening paragraph' = specific location\n✅ Clear claim (nervousness)\n✅ Direct quote (hands trembled)\n✅ Context (approaching stage)\n\nThis helps readers FIND your evidence and shows you read carefully!"
+                  },
+                  {
+                    id: "q14",
+                    question: "Which student answer shows they understand the difference between RESTATING vs. just ANSWERING?",
+                    options: [
+                      "Question: 'Why did Maria succeed?' Answer: 'She practiced and didn't give up.'",
+                      "Question: 'Why did Maria succeed?' Answer: 'Maria succeeded because she practiced for months and persevered through her initial mistake.'",
+                      "Question: 'Why did Maria succeed?' Answer: 'Because of practice.'",
+                      "Question: 'Why did Maria succeed?' Answer: 'The passage talks about Maria performing.'"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**R - RESTATE:**\nOption B turns the question into a complete sentence: 'Maria succeeded because...'\n\n❌ Option A: Doesn't restate—jumps straight to answer\n❌ Option C: Fragment, not a complete sentence\n❌ Option D: Doesn't answer the question\n\n**WHY RESTATE?** Creates a topic sentence that can stand alone, providing context for your reader."
                   }
                 ]
               }
@@ -2157,18 +2589,27 @@ export const courseData = {
               title: "Theme in Literature vs. Central Idea in Nonfiction",
               type: "lesson",
               content: {
-                introduction: "California standards distinguish between 'summary' and 'analysis.' Understanding theme (in literature) and central idea (in nonfiction) is crucial for Grade 6 reading success.",
-                explanation: "**Theme (For Literature/Fiction)**\n\nA theme is the underlying message, lesson, or moral of a story.\n\n**Key Points:**\n- Theme is NOT the topic (friendship, courage, family)\n- Theme is a complete statement about life or human nature\n- One story can have multiple themes\n- Theme is what the author wants you to learn or think about\n\n**How to Find Theme:**\n1. What does the main character learn?\n2. How do they change?\n3. What message is the author sending?\n4. What statement about life does this story make?\n\n**Examples:**\n- ❌ Topic: \"friendship\" (too simple)\n- ✓ Theme: \"True friendship requires sacrifice and loyalty.\"\n\n- ❌ Topic: \"courage\"\n- ✓ Theme: \"Courage means doing what's right even when you're afraid.\"\n\n---\n\n**Central Idea (For Informational/Nonfiction)**\n\nThe central idea is the main point the author is making about the topic.\n\n**Key Points:**\n- What is the author's main point?\n- What do all the details support?\n- Usually found in the introduction or conclusion\n- Supported by facts, examples, and evidence\n\n**How to Find Central Idea:**\n1. What is the topic?\n2. What is the author saying about that topic?\n3. What do most paragraphs discuss?\n4. What point do all the details support?\n\n**Example:**\n- ❌ Topic: \"Recycling\" (too simple)\n- ✓ Central Idea: \"Recycling is essential for reducing waste and protecting the environment for future generations.\"\n\n---\n\n**Objective Summary (Required for Both!)**\n\nAn objective summary recaps the text WITHOUT adding opinions.\n\n**Rules:**\n- ❌ No \"I think\" or \"I feel\"\n- ❌ No personal opinions\n- ✓ Only main points and key details\n- ✓ Keep it brief (3-5 sentences)\n- ✓ Use your own words (don't just copy)\n\n**Summary Structure:**\n1. State the title and author\n2. Identify the main topic/theme/central idea\n3. Include only the most important details\n4. Explain the outcome or conclusion\n\n**Weak Summary:**\n\"This story is really good. I liked when the character won. It was exciting.\"\n\n**Strong Summary:**\n\"In 'The Race,' by Maria Santos, a young runner overcomes self-doubt to compete in a championship. Through dedication and support from her coach, she learns that true victory comes from personal growth, not just winning.\"",
+                introduction: "California Grade 6 standards distinguish between 'summary' and 'analysis.' Understanding THEME (in literature) and CENTRAL IDEA (in nonfiction) is crucial for reading success. Remember: a theme is never just one word—it's a complete universal truth about life!",
+                explanation: "**📚 THEME (For Literature/Fiction)**\n\n**What is Theme?**\n\nA theme is the underlying MESSAGE, LESSON, or UNIVERSAL TRUTH about life or human nature that the author wants you to understand.\n\n**🚫 WHAT THEME IS NOT:**\n\n❌ **NOT just a topic or subject** (\"friendship,\" \"courage,\" \"family\")\n❌ **NOT a plot summary** (\"A boy goes on an adventure\")\n❌ **NOT specific to one character** (\"Sarah learned to be brave\")\n\n**✅ WHAT THEME IS:**\n\n✅ A **COMPLETE STATEMENT** about life or human nature\n✅ **UNIVERSAL**—could apply to many situations\n✅ A **LESSON** or **MESSAGE** about how the world works\n✅ What the author wants you to **THINK ABOUT** or **LEARN**\n\n---\n\n**🎯 THE THEME FORMULA**\n\n**Topic** (one word) + **What the story says about it** = **THEME** (complete sentence)\n\n**Examples:**\n\n**Example 1:**\n- ❌ Topic: \"Friendship\"\n- ✅ Theme: \"True friendship requires sacrifice and loyalty, even when it's difficult.\"\n\n**Example 2:**\n- ❌ Topic: \"Courage\"\n- ✅ Theme: \"Courage means doing what's right even when you're afraid.\"\n\n**Example 3:**\n- ❌ Topic: \"Growing up\"\n- ✅ Theme: \"Growing up means accepting responsibility for your choices and their consequences.\"\n\n---\n\n**🔍 HOW TO FIND THEME (4-Step Method)**\n\n**Step 1: Identify the TOPIC**\n- What is the story mostly about? (1-2 words)\n- Common topics: friendship, courage, honesty, perseverance, family, identity, change\n\n**Step 2: Track CHARACTER CHANGE**\n- What does the main character learn?\n- How do they change from beginning to end?\n- What mistakes do they make?\n- What realizations do they have?\n\n**Step 3: Look for REPEATED IDEAS**\n- What ideas or situations come up multiple times?\n- What do characters talk about often?\n- What conflicts keep occurring?\n\n**Step 4: Ask \"SO WHAT?\"**\n- What is the AUTHOR'S MESSAGE?\n- What does the author want ME to learn or think about?\n- What statement about LIFE is this story making?\n\n---\n\n**📖 DETAILED THEME EXAMPLE**\n\n**Story:** A student struggles with math and feels like giving up. She hides her poor grades from her parents. After failing a test, she finally asks her teacher for help. With tutoring and practice, she improves and eventually passes.\n\n**Finding Theme:**\n\n**Step 1 - Topic:** Perseverance, asking for help, overcoming challenges\n\n**Step 2 - Character Change:**\n- Beginning: Struggled alone, hid problems, felt like giving up\n- End: Asked for help, practiced, succeeded\n- **Lesson Learned:** Asking for help isn't weakness—it's smart\n\n**Step 3 - Repeated Ideas:**\n- Repeated mentions of: struggle, asking for help, practice, improvement\n\n**Step 4 - Author's Message:**\n\n❌ **Weak Themes:**\n- \"Math\" (just a topic)\n- \"She learned to ask for help\" (too specific to character)\n- \"Don't give up\" (too simple, incomplete)\n\n✅ **STRONG THEMES:**\n- \"Persistence and asking for help lead to success, even when challenges seem overwhelming.\"\n- \"True strength comes from acknowledging when you need help and having the courage to ask for it.\"\n- \"Overcoming obstacles requires both determination and the willingness to accept support from others.\"\n\n**Notice:** All strong themes are COMPLETE SENTENCES that could apply to MANY situations in life, not just this one story!\n\n---\n\n**💡 MULTIPLE THEMES**\n\nMost stories have MULTIPLE themes. A rich story might explore:\n- **Primary Theme:** The main, most important message\n- **Secondary Themes:** Other messages or lessons\n\n**Example from a story about a team:**\n- **Primary:** \"Success requires teamwork and putting the group's needs before individual glory.\"\n- **Secondary:** \"True leaders inspire others through their actions, not just their words.\"\n- **Secondary:** \"Overcoming differences strengthens relationships.\"\n\n---\n\n**📰 CENTRAL IDEA (For Informational/Nonfiction)**\n\n**What is Central Idea?**\n\nThe central idea is the **MAIN POINT** the author is making about the topic. It's what the author wants you to understand or believe.\n\n**Formula:** **Topic** + **What the author is saying about it** = **Central Idea**\n\n---\n\n**🎯 HOW TO FIND CENTRAL IDEA**\n\n**Step 1: Identify the TOPIC**\n- What is this article/text about? (1-2 words)\n\n**Step 2: Find the AUTHOR'S POINT**\n- What is the author SAYING about this topic?\n- What's the main argument or information?\n- What do ALL the paragraphs support?\n\n**Step 3: Check for SUPPORT**\n- Do most details support this idea?\n- Does this cover the WHOLE text?\n\n**Step 4: State it in ONE SENTENCE**\n- Combine topic + author's point\n- Should be a complete, specific sentence\n\n---\n\n**📊 CENTRAL IDEA EXAMPLES**\n\n**Example 1:**\n**Article about recycling**\n- ❌ Topic only: \"Recycling\"\n- ❌ Too vague: \"Recycling is good\"\n- ✅ Strong Central Idea: \"Recycling is essential for reducing waste and protecting the environment for future generations.\"\n\n**Example 2:**\n**Article about honeybees**\n- ❌ Topic only: \"Bees\"\n- ❌ Too general: \"Bees are important\"\n- ✅ Strong Central Idea: \"Declining honeybee populations threaten global food security because bees are essential pollinators for most crops.\"\n\n**Example 3:**\n**Article about exercise**\n- ❌ Topic only: \"Exercise\"\n- ❌ Incomplete: \"Exercise is healthy\"\n- ✅ Strong Central Idea: \"Regular exercise provides both physical and mental health benefits, making it essential for overall well-being.\"\n\n---\n\n**🔄 THEME vs. CENTRAL IDEA: KEY DIFFERENCES**\n\n| **THEME (Fiction)** | **CENTRAL IDEA (Nonfiction)** |\n|---------------------|-------------------------------|\n| Universal message about life | Author's main point about a topic |\n| Applies to many situations | Specific to this text/topic |\n| Often implied, must be inferred | Usually more directly stated |\n| \"What's the lesson?\" | \"What's the main point?\" |\n| About human nature, values | About facts, arguments, information |\n| Example: \"Courage is found in unexpected places\" | Example: \"Solar energy reduces pollution\" |\n\n---\n\n**📝 GRADE 6 SKILL: HOW THEME IS DEVELOPED**\n\nCalifornia standards require you to analyze HOW a theme develops through specific plot points.\n\n**What This Means:**\n- Don't just STATE the theme\n- TRACE how it develops through the story\n- Show HOW specific events reveal the theme\n\n**Example:**\n**Theme:** \"True friendship means supporting each other through difficult times.\"\n\n**How it develops:**\n1. **Beginning:** Characters are casual friends\n2. **Rising Action:** One friend faces a serious problem\n3. **Climax:** Other friend must choose: help or avoid involvement\n4. **Resolution:** Friend chooses to help despite personal cost\n5. **Conclusion:** Their friendship deepens through shared hardship\n\n**Analysis:** The theme develops gradually—friendship is tested by adversity, and the characters' choices reveal what true friendship means.\n\n---\n\n**📋 OBJECTIVE SUMMARY (Required for Both!)**\n\n**What is an Objective Summary?**\n\nA brief recap of the text that includes ONLY facts and main points—NO personal opinions!\n\n**OBJECTIVE SUMMARY RULES:**\n\n**DO:**\n✅ State title and author (if known)\n✅ Identify the main topic/theme/central idea\n✅ Include only the MOST IMPORTANT details (2-4 key points)\n✅ Explain the outcome or conclusion\n✅ Use YOUR OWN WORDS (paraphrase)\n✅ Keep it brief (3-5 sentences typically)\n✅ Stay NEUTRAL—just facts\n\n**DON'T:**\n❌ Use \"I think,\" \"I feel,\" \"I believe\"\n❌ Add personal opinions or judgments\n❌ Include minor details\n❌ Copy sentences word-for-word (without quotes)\n❌ Add information not in the text\n❌ Use phrases like \"This story is boring/interesting/exciting\"\n\n---\n\n**✅ OBJECTIVE SUMMARY EXAMPLES**\n\n**SUBJECTIVE (WRONG):**\n\"This is a really great story about friendship. I loved when Sarah helped her friend because it was so nice. Everyone should read this story because it teaches important lessons. I think the ending was perfect.\"\n\n❌ Full of opinions: \"great,\" \"I loved,\" \"so nice,\" \"everyone should,\" \"I think,\" \"perfect\"\n\n**OBJECTIVE (CORRECT - Fiction):**\n\"In 'The Challenge' by Maria Santos, a young runner named Alex overcomes self-doubt to compete in a championship race. With support from her coach and dedicated practice, she learns that true victory comes from personal growth rather than just winning trophies. The story explores themes of perseverance and self-discovery.\"\n\n✅ Title and author stated\n✅ Main character and situation identified\n✅ Key events summarized\n✅ Theme mentioned\n✅ NO personal opinions\n\n**OBJECTIVE (CORRECT - Nonfiction):**\n\"The article 'Saving the Bees' explains how declining honeybee populations threaten food production worldwide. The author describes how bees pollinate crops, identifies causes of population decline including pesticides and habitat loss, and presents conservation solutions such as creating bee-friendly gardens and reducing chemical use.\"\n\n✅ Title and type (article) stated\n✅ Central idea identified (bee decline threatens food)\n✅ Main points covered (why bees matter, causes, solutions)\n✅ NO opinions (\"I think bees are cute\")\n\n---\n\n**⚠️ COMMON MISTAKES**\n\n**Mistake 1: Confusing Topic with Theme**\n- ❌ \"The theme is friendship.\"\n- ✅ \"The theme is that true friendship requires sacrifice.\"\n\n**Mistake 2: Being Too Specific to the Plot**\n- ❌ \"The theme is that Sarah learned to trust her teammates.\"\n- ✅ \"The theme is that trust is essential for successful teamwork.\"\n\n**Mistake 3: Making It Too Simple**\n- ❌ \"Honesty is good.\"\n- ✅ \"Honesty, even when difficult, builds trust and strengthens relationships.\"\n\n**Mistake 4: Summary Instead of Theme**\n- ❌ \"This story is about a girl who joins the soccer team and makes friends.\"\n- ✅ \"This story shows that taking risks and stepping outside your comfort zone can lead to personal growth and meaningful connections.\"\n\n**Mistake 5: Adding Opinions to Summary**\n- ❌ \"I really liked this amazing article about whales.\"\n- ✅ \"The article explains how whales communicate using complex vocalizations.\"\n\n---\n\n**🎓 WHY THIS MATTERS**\n\n**For Tests:**\n- Theme questions appear on EVERY reading test\n- Must distinguish between topic and theme\n- Must distinguish between fiction (theme) and nonfiction (central idea)\n- Must write objective summaries\n\n**For Analysis:**\n- Understanding theme = understanding deeper meaning\n- Connects literature to real life\n- Develops critical thinking\n\n**For Writing:**\n- Your essays need clear central ideas\n- Understanding theme helps you write better stories\n- Objective summarizing is essential for research papers",
                 examples: [
                   {
-                    text: "Story: A student struggles with math but refuses to give up. After months of extra practice and asking for help, she finally understands and passes the test.\n\nWeak Theme: 'math' or 'school'\nStrong Theme: 'Persistence and asking for help lead to success.'",
-                    explanation: "The theme is a complete statement about life (persistence pays off), not just the topic (math)."
+                    text: "**Fiction Example:**\n\nStory: A student struggles with math but refuses to give up. After months of extra practice and asking for help from her teacher, she finally understands the concepts and passes the final exam.\n\n❌ Weak: \"Math\" or \"School\" (just topics)\n❌ Weak: \"The girl learned math\" (too specific)\n✅ Strong Theme: \"Persistence and asking for help lead to success, even when challenges seem overwhelming.\"",
+                    explanation: "The theme is a COMPLETE STATEMENT about life (persistence + help = success) that applies to many situations beyond just this story. It's UNIVERSAL—anyone facing challenges could apply this wisdom."
                   },
                   {
-                    text: "Article: Discusses how bees pollinate flowers, how their populations are declining, and why this threatens food supplies.\n\nWeak Central Idea: 'bees'\nStrong Central Idea: 'Declining bee populations threaten our food supply because bees are essential pollinators.'",
-                    explanation: "The central idea states what the author is arguing about bees, not just the topic."
+                    text: "**Nonfiction Example:**\n\nArticle: Discusses how bees pollinate flowers, explains why bee populations are declining (pesticides, habitat loss), and argues that losing bees would threaten global food supplies.\n\n❌ Weak: \"Bees\" (just a topic)\n❌ Weak: \"This article is about bees\" (too vague)\n✅ Strong Central Idea: \"Declining bee populations threaten global food security because bees are essential pollinators for most agricultural crops.\"",
+                    explanation: "The central idea states what the author is ARGUING about bees—not just the topic, but the specific POINT being made. It covers the whole article: what bees do (pollinate), the problem (decline), and the consequence (food threat)."
+                  },
+                  {
+                    text: "**How Theme Develops Example:**\n\nStory about a character who learns about honesty.\n\n**Beginning:** Character lies to avoid getting in trouble\n**Middle:** Lie grows bigger, causes more problems\n**Climax:** Must decide: tell truth or continue lying\n**End:** Tells truth, faces consequences, but earns respect and trust\n\n**Theme:** \"Honesty, even when difficult, ultimately leads to stronger relationships and self-respect.\"\n\n**How it develops:** The theme is revealed through the character's journey—the lie creates problems (showing dishonesty has consequences), and the decision to be honest resolves conflicts and builds trust (showing honesty's value).",
+                    explanation: "This demonstrates the Grade 6 skill of analyzing HOW theme develops through specific plot events, not just identifying what the theme is."
                   }
-                ]
+                ],
+                quickPractice: {
+                  question: "Read this summary and decide:\n\n'This story is about a boy named Tim who joins the basketball team even though he's short. At first, nobody passes him the ball, but he practices really hard. During the championship game, he scores the winning basket!'\n\n**Is this a THEME or a PLOT SUMMARY?**\n\nIf it's a plot summary, what would the THEME be?",
+                  hint: "Theme = universal message about life. Plot summary = what happens in the story.",
+                  answer: "This is a **PLOT SUMMARY**—it just tells WHAT HAPPENS (Tim joins team, practices, scores).\n\n**Possible THEMES:**\n- \"Determination and hard work can help you overcome physical limitations.\"\n- \"True success comes from perseverance, not from natural advantages.\"\n- \"Proving yourself requires dedication and the courage to keep trying when others doubt you.\"\n\nNotice: Themes are COMPLETE SENTENCES about life that could apply to many situations, not just basketball!"
+                }
               }
             },
             {
@@ -2176,69 +2617,164 @@ export const courseData = {
               title: "Practice: Theme and Central Idea",
               type: "exercise",
               content: {
-                instructions: "Identify themes, central ideas, and distinguish between objective and subjective statements.",
+                instructions: "Remember: Theme is a complete statement about life (fiction). Central Idea is the author's main point (nonfiction). Distinguish topics from themes, and identify objective vs. subjective statements.",
+                passage: "**Passage 1 - Fiction (Questions 1-7):**\n\nMarcus had always been the smallest kid in his class. When basketball tryouts came around, his older brother laughed. \"You're too short for basketball,\" he said. But Marcus showed up anyway.\n\nFor the first two weeks, nobody passed him the ball. The coach barely noticed him. Marcus practiced layups alone before school and studied professional players' techniques at night. He learned to use his speed and quick thinking to his advantage.\n\nDuring the championship game, with ten seconds left and the team down by one point, the star player was double-teamed. He spotted Marcus, wide open. The pass flew across the court. Marcus caught it, took a breath, and shot. The ball swished through the net as the buzzer sounded.\n\nAfter the game, his brother high-fived him. \"I guess I was wrong,\" he admitted. Marcus smiled. He hadn't grown any taller, but he'd proven that determination and hard work matter more than natural advantages.\n\n**Passage 2 - Nonfiction (Questions 8-13):**\n\nPlastic pollution has become one of the most serious environmental challenges facing our planet. Every year, approximately 8 million tons of plastic waste enter our oceans, harming marine life and disrupting ecosystems. Sea turtles mistake plastic bags for jellyfish, their natural food, while seabirds feed plastic fragments to their chicks. Scientists have discovered microplastics in the deepest ocean trenches and even in Arctic ice.\n\nThe problem extends beyond wildlife. Microplastics have entered the human food chain through seafood and drinking water. Studies have found plastic particles in human blood and organs, though the long-term health effects remain unknown.\n\nSolutions exist but require global action. Reducing single-use plastics, improving waste management systems, and developing biodegradable alternatives are all essential steps. Several countries have successfully banned plastic bags and straws. Beach cleanup initiatives and ocean cleanup technologies are removing existing plastic. However, experts agree that prevention is more effective than cleanup—we must dramatically reduce plastic production and consumption to protect our oceans and health.",
                 questions: [
                   {
                     id: "q1",
-                    question: "Which is a complete THEME statement (not just a topic)?",
+                    question: "Which is the complete THEME (not topic) of Passage 1?",
                     options: [
-                      "The story is about honesty.",
-                      "Honesty is important.",
-                      "Honesty, even when difficult, builds trust and strengthens relationships.",
-                      "The character learns about honesty."
+                      "Basketball",
+                      "Marcus learns to play basketball",
+                      "Determination and hard work can overcome natural disadvantages and prove doubters wrong",
+                      "Being short"
                     ],
                     correctAnswer: 2,
-                    explanation: "This is a complete theme statement - it expresses a full message about life and human nature, not just the topic."
+                    explanation: "This is a COMPLETE THEME statement: It's universal (applies beyond just Marcus), it's a complete idea about life (determination > natural advantages), and it expresses what the author wants readers to understand about human capability."
                   },
                   {
                     id: "q2",
-                    passage: "An article explains that exercising regularly improves heart health, boosts mood, reduces stress, and increases energy levels. The author emphasizes that just 30 minutes a day can make a significant difference.",
-                    question: "What is the CENTRAL IDEA of this article?",
+                    question: "How does the theme develop through SPECIFIC PLOT POINTS in Passage 1? (Grade 6 Skill)",
                     options: [
-                      "Exercise",
-                      "Regular exercise provides numerous health benefits and requires only 30 minutes daily.",
-                      "Exercise is fun.",
-                      "Heart health is important."
+                      "Marcus plays basketball and wins",
+                      "Beginning: told he's too short → Middle: practices alone, learns strategy → Climax: makes winning shot → Resolution: proves size doesn't determine success",
+                      "Marcus is short but works hard",
+                      "The story shows that basketball is fun"
                     ],
                     correctAnswer: 1,
-                    explanation: "This central idea states the main point about exercise (it's beneficial and manageable), not just the topic."
+                    explanation: "**Grade 6 Skill**: Analyzing HOW theme develops through plot. Option B traces the theme through specific events: Challenge (too short) → Response (practice + strategy) → Test (game situation) → Proof (success despite size). This shows theme isn't just stated—it's BUILT through the story."
                   },
                   {
                     id: "q3",
-                    question: "Which is an OBJECTIVE summary statement (no opinions)?",
+                    question: "Which statement is TOO SPECIFIC to be the theme of Passage 1?",
                     options: [
-                      "I think this story is really interesting and exciting.",
-                      "The best part was when the character won the race.",
-                      "The protagonist overcomes obstacles to achieve her goal.",
-                      "This story is better than the last one we read."
+                      "True success comes from effort, not from natural gifts",
+                      "Marcus learned that being short doesn't stop you from playing basketball",
+                      "Perseverance and dedication can help overcome physical limitations",
+                      "Proving yourself requires courage and hard work"
                     ],
-                    correctAnswer: 2,
-                    explanation: "This is objective - it states facts about the story without personal opinions or 'I think' statements."
+                    correctAnswer: 1,
+                    explanation: "Option B is too SPECIFIC to Marcus and basketball. A theme should be UNIVERSAL—apply to many situations. Options A, C, and D could apply to sports, academics, careers, or life in general. Good themes are broader than one character's situation."
                   },
                   {
                     id: "q4",
-                    passage: "A short story follows a girl who moves to a new school. She feels lonely at first but decides to join the soccer team. By working together with her teammates and supporting each other, she makes lasting friendships.",
-                    question: "What is the THEME of this story?",
+                    question: "Passage 1 has multiple themes. Which is a SECONDARY theme?",
                     options: [
-                      "Soccer",
-                      "Moving to a new school",
-                      "Taking risks and being open to new experiences can lead to meaningful connections.",
-                      "The girl joins a soccer team."
+                      "Determination overcomes disadvantages (PRIMARY)",
+                      "Believing in someone can change after you see their dedication and results",
+                      "Basketball requires teamwork",
+                      "Schools should have sports"
                     ],
-                    correctAnswer: 2,
-                    explanation: "This theme expresses the life lesson - that taking risks (joining the team) leads to connections (friendships)."
+                    correctAnswer: 1,
+                    explanation: "**Multiple Themes**: Rich stories explore several ideas. PRIMARY: determination/hard work. SECONDARY (Option B): changed perceptions—the brother's attitude shifts from mockery to respect. This is a real theme (complete statement about how people change opinions) but less central than the main determination theme."
                   },
                   {
                     id: "q5",
-                    question: "Which summary is OBJECTIVE (no opinions)?",
+                    question: "Which is an OBJECTIVE summary of Passage 1?",
                     options: [
-                      "The article was boring and too long.",
-                      "I feel like the author made good points about recycling.",
-                      "The author argues that recycling reduces waste and conserves natural resources.",
-                      "This is the most important article I've ever read."
+                      "I loved this story about Marcus! He's so inspiring and everyone should read it because it's the best story about basketball.",
+                      "This exciting tale shows why you should never give up on your dreams, no matter what anyone says to you.",
+                      "Marcus, the smallest player, faces doubt about his basketball abilities but through dedicated practice and strategic thinking, he makes the championship-winning shot and earns respect.",
+                      "The story proves that short people can be good at basketball if they just believe in themselves."
                     ],
                     correctAnswer: 2,
-                    explanation: "This states what the author argues without adding personal feelings or opinions."
+                    explanation: "**OBJECTIVE SUMMARY checklist:**\n✅ C: No opinions ('I loved,' 'best,' 'exciting')\n✅ C: States main character + situation + outcome\n✅ C: Uses own words, not copied\n✅ C: Brief but complete\n\n❌ A: Full of opinions ('loved,' 'inspiring,' 'best')\n❌ B: Preachy ('should'), adds opinion\n❌ D: States opinion as fact ('proves')"
+                  },
+                  {
+                    id: "q6",
+                    question: "What evidence from Passage 1 BEST shows the theme developing?",
+                    options: [
+                      "Marcus is the smallest kid",
+                      "Marcus 'practiced layups alone before school and studied professional players' techniques at night'",
+                      "The championship game happens",
+                      "Marcus's brother high-fives him"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "This evidence DIRECTLY SHOWS the theme (hard work/determination). 'Practiced alone before school' + 'studied at night' = dedication beyond required practice. This isn't just about the plot—it's the KEY EVIDENCE of what makes Marcus succeed, which IS the theme."
+                  },
+                  {
+                    id: "q7",
+                    question: "If you had to state the theme of Passage 1 in one sentence for an essay, which is BEST?",
+                    options: [
+                      "The theme is basketball.",
+                      "Marcus shows that you shouldn't judge people.",
+                      "The story explores the theme that success stems from dedication and strategic effort rather than innate physical advantages.",
+                      "I think the theme is about not giving up."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "**FORMAL THEME STATEMENT (for essays):**\n✅ C: Complete sentence, formal language\n✅ C: Universal (not just Marcus)\n✅ C: Specific enough to be meaningful\n\n❌ A: Just a topic\n❌ B: Too narrow (judging is secondary)\n❌ D: Uses 'I think' (not objective) and too vague"
+                  },
+                  {
+                    id: "q8",
+                    question: "What is the CENTRAL IDEA of Passage 2?",
+                    options: [
+                      "Plastic pollution",
+                      "Plastic is bad for oceans",
+                      "Plastic pollution is a severe global crisis affecting marine life and human health, requiring urgent action and prevention strategies.",
+                      "We should clean up beaches"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "**CENTRAL IDEA** = Topic + Author's Main Point\n✅ C: Identifies the problem (plastic pollution)\n✅ C: Explains the scope (global, marine + human)\n✅ C: States what's needed (urgent action/prevention)\n✅ C: Covers WHOLE passage\n\nOptions A, B, D are too simple/incomplete."
+                  },
+                  {
+                    id: "q9",
+                    question: "How does Passage 2 SUPPORT its central idea? (What type of evidence?)",
+                    options: [
+                      "The author shares personal opinions about plastic",
+                      "The author uses statistics (8 million tons), specific examples (turtles, seabirds), scientific findings (microplastics in humans), and expert consensus (prevention > cleanup)",
+                      "The author tells a story about ocean animals",
+                      "The author describes what plastic looks like"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**NONFICTION EVIDENCE TYPES:**\nPassage 2 uses:\n- **Statistics**: 8 million tons (shows scale)\n- **Examples**: turtles, seabirds (shows impact)\n- **Scientific research**: microplastics in blood (shows human threat)\n- **Expert opinion**: prevention > cleanup (shows solutions)\n\nThis variety of evidence makes the central idea persuasive and credible."
+                  },
+                  {
+                    id: "q10",
+                    question: "Which is an OBJECTIVE summary of Passage 2?",
+                    options: [
+                      "This terrifying article should make everyone stop using plastic immediately because it's killing our beautiful planet and ruining our future.",
+                      "Plastic pollution is a major environmental problem affecting oceans and human health. The article describes how 8 million tons of plastic enter oceans annually, harming wildlife and entering the food chain. Solutions include reducing single-use plastics and improving waste management, with prevention being more effective than cleanup.",
+                      "I think plastic pollution is really bad and the author does a good job explaining why we need to care about this important issue.",
+                      "The article talks about plastic in the ocean and says we should fix it."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**OBJECTIVE SUMMARY (Nonfiction):**\n✅ B: States central idea (plastic problem)\n✅ B: Includes key facts (8 million tons, affects wildlife + humans)\n✅ B: Mentions solutions (reduce, manage, prevent)\n✅ B: NO opinions, just information\n\n❌ A: Emotional language ('terrifying,' 'beautiful')\n❌ C: 'I think,' personal opinion\n❌ D: Too vague, misses key information"
+                  },
+                  {
+                    id: "q11",
+                    question: "What is the author's PRIMARY PURPOSE in Passage 2?",
+                    options: [
+                      "To entertain readers with ocean stories",
+                      "To inform readers about plastic pollution and persuade them that action is urgently needed",
+                      "To describe what plastic looks like",
+                      "To tell a story about sea turtles"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**DUAL PURPOSE**: Passage 2 has TWO purposes:\n1. **INFORM**: Provides facts about the problem (statistics, examples, research)\n2. **PERSUADE**: Argues action is needed ('most serious,' 'require global action,' 'must dramatically reduce')\n\nThis is common in advocacy writing—inform about a problem AND persuade readers to care/act."
+                  },
+                  {
+                    id: "q12",
+                    question: "Compare Passages 1 & 2: What's the key difference between their main messages?",
+                    options: [
+                      "Passage 1 is longer than Passage 2",
+                      "Passage 1 expresses a universal theme about human character (fiction), while Passage 2 presents a specific argument about an environmental issue (nonfiction)",
+                      "Passage 1 is more interesting",
+                      "Both have the same message"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**THEME vs. CENTRAL IDEA:**\n\n**Passage 1 (Fiction):**\n- **THEME**: Universal truth about life/human nature\n- Could apply to anyone, anywhere, in any situation\n- About VALUES and CHARACTER\n\n**Passage 2 (Nonfiction):**\n- **CENTRAL IDEA**: Specific argument about a real issue\n- About THIS topic (plastic pollution)\n- About FACTS and SOLUTIONS\n\nThis is the KEY Grade 6 distinction!"
+                  },
+                  {
+                    id: "q13",
+                    question: "Which student correctly identifies the difference between topic and theme/central idea?",
+                    options: [
+                      "Student A: 'The topic and theme are the same thing—both are what the passage is about.'",
+                      "Student B: 'Topic is one or two words identifying the subject. Theme (fiction) or Central Idea (nonfiction) is a complete sentence stating what the author is saying ABOUT that topic.'",
+                      "Student C: 'Theme is always just one word like courage or friendship.'",
+                      "Student D: 'Central idea is only for stories, and theme is only for articles.'"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**Student B is CORRECT:**\n\n**TOPIC** = The subject (1-2 words)\n- Passage 1 topic: Basketball/determination\n- Passage 2 topic: Plastic pollution\n\n**THEME/CENTRAL IDEA** = Complete statement about the topic\n- P1 theme: 'Determination overcomes disadvantages'\n- P2 central idea: 'Plastic pollution requires urgent global action'\n\n**KEY**: Topic is WHAT it's about. Theme/Central Idea is what the author is SAYING about it."
                   }
                 ]
               }
@@ -2251,77 +2787,207 @@ export const courseData = {
           lessons: [
             {
               id: "reading-5-1",
-              title: "Understanding How Stories and Texts Are Built",
+              title: "Understanding the 'Skeleton': Plot Structure & Text Organization",
               type: "lesson",
               content: {
-                introduction: "Students must understand how a story or article is 'built.' For fiction, this means understanding plot stages. For nonfiction, it means recognizing text structures.",
-                explanation: "**FICTION: Plot Structure**\n\nEvery story follows a pattern called the plot diagram:\n\n**1. Exposition (Beginning)**\n- Introduces characters, setting, and situation\n- Background information\n- Sets up the story\n- Example: \"Meet the main character in their normal world\"\n\n**2. Rising Action (Conflict Builds)**\n- Problems and challenges arise\n- Tension increases\n- Series of events that complicate the situation\n- Example: \"Character faces obstacles\"\n\n**3. Climax (Turning Point)**\n- The most intense moment\n- The peak of the action\n- Where the main conflict reaches its highest point\n- Usually the most exciting part\n- Example: \"The big showdown or decision\"\n\n**4. Falling Action (After the Climax)**\n- Events after the climax\n- Tension decreases\n- Loose ends start to tie up\n- Example: \"Consequences of the climax\"\n\n**5. Resolution (End)**\n- Conflicts are resolved\n- Story concludes\n- Shows the new normal\n- Example: \"How things turned out\"\n\n---\n\n**NONFICTION: Text Structures**\n\nNonfiction texts are organized in specific ways to present information:\n\n**1. Chronological Order (Time Order)**\n- Events in the order they happened\n- Uses time words: first, next, then, finally, before, after\n- Common in: biographies, history, process explanations\n- Example: \"First, mix the ingredients. Then, bake for 30 minutes.\"\n\n**2. Cause and Effect**\n- Shows why something happened (cause) and what happened as a result (effect)\n- Signal words: because, since, as a result, therefore, consequently, leads to\n- Common in: science, history, social studies\n- Example: \"Because it rained heavily, the game was postponed.\"\n\n**3. Compare and Contrast**\n- Shows similarities and differences\n- Signal words: similarly, however, on the other hand, both, unlike, while, whereas\n- Common in: articles comparing topics\n- Example: \"While both mammals, dolphins live in water whereas dogs live on land.\"\n\n**4. Problem and Solution**\n- Presents a problem and explains how it was or could be solved\n- Signal words: problem, solution, solve, challenge, resolve, address\n- Common in: persuasive texts, proposals\n- Example: \"The problem of littering can be solved through education and more trash cans.\"\n\n**5. Description (Main Idea and Details)**\n- Describes a topic with supporting details\n- Signal words: for example, such as, characteristics, features\n- Common in: encyclopedia entries, informational articles\n- Example: \"Dolphins are intelligent. For example, they can learn tricks and communicate.\"",
+                introduction: "Every story and article has a 'skeleton'—a structure that holds it together. For fiction, this means understanding the PLOT DIAGRAM. For nonfiction, it means recognizing the FIVE TEXT STRUCTURES and identifying the INCITING INCIDENT that starts the story's conflict. Understanding structure helps you predict, comprehend, and analyze what you read.",
+                explanation: "**📖 FICTION: PLOT STRUCTURE (The Plot Diagram)**\n\nEvery story follows a pattern. Think of it as a mountain:\n\n```\n           3. CLIMAX (Peak!)\n              /\\\n             /  \\\n        2. /    \\ 4.\n   RISING /      \\ FALLING\n   ACTION/        \\ACTION\n        /          \\\n    1. /            \\ 5.\n  EXPO.            RESOLUTION\n```\n\n---\n\n**1. EXPOSITION (The Beginning/Setup)**\n\n**What it is:**\n- Introduces the \"normal world\"\n- Presents characters, setting, and background\n- Sets up the situation before conflict begins\n\n**What to look for:**\n- WHO are the main characters?\n- WHERE and WHEN does this take place?\n- WHAT is the character's normal life like?\n\n**Example:**\n\"Sarah loved her quiet life in the small town of Millbrook. Every day, she walked the same path to school, ate lunch with the same two friends, and studied in the library until sunset.\"\n\n**Purpose:** Establishes the starting point so we can see how things change.\n\n---\n\n**2. RISING ACTION (Conflict Builds/Complications)**\n\n**What it is:**\n- Problems and challenges arise\n- Tension INCREASES with each event\n- Series of events that complicate the situation\n- Usually the LONGEST part of the story\n\n**What to look for:**\n- What problems does the character face?\n- How do things get MORE complicated?\n- What obstacles appear?\n- How does tension build?\n\n**Example:**\n\"A new student arrived and challenged Sarah to a debate competition. Sarah agreed but soon realized she was terrified of public speaking. Her practice speeches went poorly. Her friends tried to help, but she kept freezing up. The competition was in three days, then two, then tomorrow...\"\n\n**Purpose:** Creates suspense and leads to the climax.\n\n---\n\n**🎯 GRADE 6 SKILL: THE INCITING INCIDENT**\n\n**What is it?**\n\nThe **INCITING INCIDENT** is the SPECIFIC MOMENT that starts the main conflict. It's the event that kicks off the rising action and changes everything.\n\n**How to identify it:**\n- It happens EARLY (usually in or right after exposition)\n- It DISRUPTS the normal world\n- It FORCES the character to face a challenge\n- Without it, there would be no story\n\n**Example from above:**\n- **Exposition:** Sarah's quiet life\n- **INCITING INCIDENT:** New student challenges her to debate competition ← THIS starts everything!\n- **Rising Action:** All her struggles with public speaking\n\n**Common Inciting Incidents:**\n- Receiving a mysterious letter\n- Meeting a new person who changes things\n- Discovering a secret\n- A sudden problem or crisis\n- Being challenged or dared\n\n**Test:** If you removed this event, would the story still happen? If NO, it's likely the inciting incident!\n\n---\n\n**3. CLIMAX (The Turning Point/Peak)**\n\n**What it is:**\n- The most INTENSE, EXCITING moment\n- The PEAK of the action/conflict\n- Where the main conflict reaches its highest point\n- Usually involves a major decision or confrontation\n\n**What to look for:**\n- The moment of greatest tension\n- The \"big showdown\" or decision\n- The point where everything changes\n- The most emotional or dramatic scene\n\n**Example:**\n\"Sarah stepped to the podium, legs shaking. The auditorium was silent. She looked at her note cards, then at the crowd. In that moment, she made a choice: speak from her heart instead of her cards. She took a deep breath and began.\"\n\n**Purpose:** This is what the whole story has been building toward!\n\n---\n\n**4. FALLING ACTION (After the Climax/Consequences)**\n\n**What it is:**\n- Events AFTER the climax\n- Tension DECREASES\n- Loose ends start to tie up\n- Shows consequences of the climax\n\n**What to look for:**\n- What happens as a result of the climax?\n- How do other characters react?\n- What begins to resolve?\n\n**Example:**\n\"The audience applauded. Sarah's speech had connected with them. The judges deliberated. Her opponent congratulated her, impressed by her authenticity.\"\n\n**Purpose:** Wraps up immediate aftermath.\n\n---\n\n**5. RESOLUTION (The End/New Normal)**\n\n**What it is:**\n- Conflicts are RESOLVED\n- Story CONCLUDES\n- Shows the \"new normal\"\n- May include a final lesson or reflection\n\n**What to look for:**\n- How did things turn out?\n- What changed from the beginning?\n- What did the character learn?\n- How is life different now?\n\n**Example:**\n\"Sarah didn't win the debate, but she discovered something more important: her own voice. She joined the drama club and started speaking up in class. The quiet girl from Millbrook had found her confidence.\"\n\n**Purpose:** Provides closure and shows character growth.\n\n---\n\n**📰 NONFICTION: TEXT STRUCTURES (The 5 Types)**\n\nNonfiction is organized to present information effectively. Recognizing the structure helps you understand and remember what you read.\n\n---\n\n**1. CHRONOLOGICAL ORDER (Time/Sequence)**\n\n**What it is:**\n- Events in the order they happened\n- Step-by-step processes\n- Timeline of events\n\n**Signal Words:**\n- First, second, third\n- Next, then, after, before\n- Finally, last, eventually\n- In 1492, in the 20th century\n- Begin by, after that\n\n**Used in:**\n- Biographies\n- History articles\n- Process explanations (how-to)\n- Recipes, instructions\n\n**Example:**\n\"First, gather all ingredients. Next, preheat the oven to 350°F. Then, mix the dry ingredients in one bowl. After that, combine the wet ingredients. Finally, bake for 30 minutes.\"\n\n---\n\n**2. CAUSE AND EFFECT**\n\n**What it is:**\n- Shows WHY something happened (cause)\n- Shows WHAT happened as a result (effect)\n- Can have multiple causes leading to one effect, or one cause leading to multiple effects\n\n**Signal Words:**\n- Because, since, as a result\n- Therefore, consequently, thus\n- Leads to, causes, due to\n- If... then..., so that\n- For this reason\n\n**Used in:**\n- Science explanations\n- History (why events happened)\n- Social studies\n- Problem analysis\n\n**Example:**\n\"**Because** heavy rain fell for three days, the river overflowed its banks. **As a result**, many homes were flooded, **which led to** hundreds of families being evacuated. **Therefore**, the city now plans to build better drainage systems.\"\n\n**Diagram:**\nCause → Effect → Effect → Effect\n\n---\n\n**3. COMPARE AND CONTRAST**\n\n**What it is:**\n- Shows SIMILARITIES (compare)\n- Shows DIFFERENCES (contrast)\n- Examines two or more things side by side\n\n**Signal Words:**\n- **Compare (Similarities):** similarly, likewise, both, also, too, in the same way\n- **Contrast (Differences):** however, but, on the other hand, unlike, whereas, while, in contrast, although, yet\n\n**Used in:**\n- Articles comparing topics\n- Reviews\n- Decision-making texts\n- Analysis\n\n**Example:**\n\"**Both** dolphins and whales are marine mammals. **Similarly**, they both breathe air and give live birth. **However**, dolphins are generally much smaller. **While** some whales can grow to 100 feet, most dolphins are under 12 feet long. **Unlike** whales, dolphins are highly social and travel in large pods.\"\n\n**Diagram:**\nTopic A ← Similarities → Topic B\n         ↓ Differences ↓\n\n---\n\n**4. PROBLEM AND SOLUTION**\n\n**What it is:**\n- Presents a PROBLEM or challenge\n- Explains how it was or could be SOLVED\n- May present multiple solutions\n\n**Signal Words:**\n- Problem, issue, challenge, difficulty\n- Solution, answer, resolve, fix\n- Solve, address, deal with\n- One way to..., another approach\n\n**Used in:**\n- Persuasive texts\n- Proposals\n- Scientific research\n- Policy articles\n\n**Example:**\n\"Many schools **face the problem** of excessive food waste in cafeterias. **One solution** is to implement a share table where students can place unwanted items for others. **Another approach** is teaching students about portion sizes. **To address this issue**, some schools have also started composting programs.\"\n\n**Diagram:**\nProblem → Solution 1\n       → Solution 2\n       → Solution 3\n\n---\n\n**5. DESCRIPTION (Main Idea and Details)**\n\n**What it is:**\n- Describes a topic with supporting details\n- Lists characteristics, features, or examples\n- Provides information ABOUT something\n\n**Signal Words:**\n- For example, for instance, such as\n- Characteristics, features, includes\n- Specifically, in particular\n- Most important, also, additionally\n\n**Used in:**\n- Encyclopedia entries\n- Informational articles\n- Reports\n- Explanations\n\n**Example:**\n\"Dolphins are highly intelligent marine mammals. **For example**, they can learn complex tricks and communicate using clicks and whistles. **Additionally**, dolphins use echolocation to navigate and hunt. **Their characteristics include** streamlined bodies, blowholes for breathing, and strong social bonds.\"\n\n**Diagram:**\nMain Topic\n  → Detail 1\n  → Detail 2\n  → Detail 3\n\n---\n\n**🔍 HOW TO IDENTIFY TEXT STRUCTURE**\n\n**Step 1:** Read the passage\n**Step 2:** Look for SIGNAL WORDS\n**Step 3:** Ask yourself:\n- Is this in time order? → Chronological\n- Does it explain why/results? → Cause and Effect\n- Does it show similarities/differences? → Compare and Contrast\n- Does it present a problem and fix? → Problem and Solution\n- Does it describe features/details? → Description\n\n---\n\n**⚠️ MIXED STRUCTURES**\n\nSome longer texts use MULTIPLE structures:\n\n**Example:** An article about climate change might:\n- **DESCRIBE** what climate change is\n- **Explain CAUSES** (greenhouse gases) and **EFFECTS** (rising temperatures)\n- **Present the PROBLEM** (environmental damage)\n- **Offer SOLUTIONS** (renewable energy)\n\nIdentify the PRIMARY structure (what most of the text uses).\n\n---\n\n**🎓 WHY STRUCTURE MATTERS**\n\n**For Fiction:**\n- Predicting what comes next\n- Understanding pacing and tension\n- Analyzing author's craft\n- Identifying the most important moment (climax)\n\n**For Nonfiction:**\n- Finding information quickly\n- Understanding relationships between ideas\n- Remembering content better\n- Taking organized notes\n\n**For Tests:**\n- Structure questions appear frequently\n- Understanding structure helps answer other questions\n- Required for Grade 6 analysis",
                 examples: [
                   {
-                    text: "Plot Example:\nExposition: Sarah is nervous about her first day at a new school.\nRising Action: She can't find her classes, drops her lunch, and feels invisible.\nClimax: She decides to audition for the school play despite her fears.\nFalling Action: She makes the cast and starts making friends.\nResolution: Sarah realizes taking risks helped her find where she belongs.",
-                    explanation: "This shows all five plot stages in a simple story arc."
+                    text: "**Complete Plot Example:**\n\n**Exposition:** Sarah loves her quiet life in small-town Millbrook.\n\n**Inciting Incident:** A new student challenges her to a debate competition.\n\n**Rising Action:** Sarah realizes she's terrified of public speaking. Practice goes poorly. Competition approaches. Tension builds.\n\n**Climax:** Standing at the podium, Sarah chooses to speak from her heart instead of reading her cards.\n\n**Falling Action:** The audience applauds. Judges deliberate. Her opponent congratulates her.\n\n**Resolution:** Sarah doesn't win, but discovers her voice and joins drama club. She's no longer the quiet girl—she's found her confidence.",
+                    explanation: "Notice how each stage builds on the previous one. The INCITING INCIDENT (the challenge) starts everything. The RISING ACTION creates tension. The CLIMAX is the pivotal moment. The RESOLUTION shows how Sarah has changed from beginning to end."
                   },
                   {
-                    text: "Text Structure Example:\n'Because plastic takes hundreds of years to decompose, it accumulates in oceans. As a result, marine animals often mistake it for food, which leads to injury or death.'\n\nStructure: Cause and Effect (plastic doesn't decompose → accumulates → animals harmed)",
-                    explanation: "The signal words 'because,' 'as a result,' and 'leads to' indicate cause and effect structure."
+                    text: "**Cause and Effect Example:**\n\n'**Because** plastic takes hundreds of years to decompose, it accumulates in oceans. **As a result**, marine animals often mistake it for food, **which leads to** injury or death. **Therefore**, many countries are banning single-use plastics.'\n\n**Structure:** Signal words 'because,' 'as a result,' 'leads to,' and 'therefore' clearly indicate cause-and-effect structure.",
+                    explanation: "The signal words are your CLUES. This passage explains a chain: slow decomposition → ocean accumulation → animal harm → policy response. Each effect becomes a cause for the next event."
+                  },
+                  {
+                    text: "**Compare and Contrast Example:**\n\n'**While both** are reptiles, snakes and lizards have key differences. Snakes have no legs and move by slithering, **whereas** most lizards have four legs. **However**, **both** are cold-blooded and lay eggs.'\n\n**Structure:** Signal words 'both,' 'while,' 'whereas,' and 'however' indicate compare-and-contrast structure.",
+                    explanation: "The author shows SIMILARITIES (both reptiles, cold-blooded, lay eggs) AND DIFFERENCES (legs, movement). The signal words guide you through what's alike and what's different."
                   }
-                ]
+                ],
+                quickPractice: {
+                  question: "**Identify the Structure:**\n\n'Many students struggle with time management. One solution is using a planner to track assignments. Another approach is breaking large projects into smaller tasks. Some students find that setting phone reminders helps them stay on track.'\n\n**What text structure is this?**",
+                  hint: "Look for signal words. Is there a problem mentioned? Are solutions offered?",
+                  answer: "**PROBLEM AND SOLUTION**\n\n**Signal words:** 'struggle' (problem), 'solution,' 'approach,' 'helps' (solutions)\n\n**Structure:** States problem (time management) → Offers multiple solutions (planner, break tasks, reminders). This is classic problem-solution organization!"
+                }
               }
             },
             {
               id: "reading-5-2",
-              title: "Practice: Plot and Text Structure",
+              title: "Practice: Plot Structure & Text Organization",
               type: "exercise",
               content: {
-                instructions: "Identify plot stages and text structures in the following passages.",
+                instructions: "Identify plot stages, inciting incidents, and text structures. Pay attention to signal words and how ideas are organized!",
+                passage: "**Passage 1 - Fiction (Questions 1-7):**\n\nIn the small village of Thornwood, twelve-year-old Alex lived a predictable life. Every morning, he helped his father in the blacksmith shop, hammering horseshoes and repairing tools. Every evening, he studied his lessons and went to bed by eight. Life was simple, orderly, and exactly the same every single day.\n\nOne morning, a mysterious traveler arrived with a torn map and an urgent request: \"I need someone brave to guide me through the Whispering Forest. There's treasure hidden in the ancient ruins—enough to change your village forever.\" Alex's father refused, calling it foolishness. But Alex couldn't stop thinking about it.\n\nThat night, Alex made a choice that would change everything. He packed a small bag and left a note for his parents. As dawn broke, he and the traveler entered the forest.\n\nThe journey was harder than Alex imagined. They faced fierce storms that nearly swept them off mountain paths. Wild animals circled their campsite at night. The map led them to dead ends. The traveler twisted his ankle badly, and they ran out of food. Alex wanted to turn back a dozen times, but something pushed him forward. When they finally reached a rushing river with a broken bridge, Alex nearly gave up entirely. The traveler was injured. They were lost. The treasure seemed impossible to reach.\n\nStanding at that river's edge, cold and exhausted, Alex made a decision. Using skills from the blacksmith shop, he gathered vines and branches. For hours, he worked, building a makeshift bridge. It wasn't perfect, but it might work. Taking a deep breath, he stepped onto his creation. It held. They crossed, step by careful step.\n\nBeyond the river, they found the ruins. But the treasure wasn't gold—it was knowledge. Ancient books filled with forgotten techniques for medicine, farming, and building. The traveler smiled. \"This will change your village more than gold ever could.\"\n\nAlex returned home to worried but proud parents. The village used the knowledge to improve their farms and health. Alex's quiet, predictable life was gone forever. He had discovered that sometimes the greatest treasures are the ones you have to brave the unknown to find, and that he was braver than he ever knew.\n\n**Passage 2 - Nonfiction (Questions 8-14):**\n\nThe invention of the printing press by Johannes Gutenberg around 1440 revolutionized human communication. Before this invention, books were copied by hand, a process that was slow, expensive, and prone to errors. A single book could take months to produce. As a result, books were rare and only available to the wealthy and powerful. Most people never learned to read because books were so scarce.\n\nThe printing press changed everything. Because books could now be produced quickly and cheaply, more people gained access to information. This led to increased literacy rates across Europe. Consequently, ideas spread faster than ever before. The Protestant Reformation, the Renaissance, and the Scientific Revolution were all accelerated by the printing press. Therefore, historians consider Gutenberg's invention one of the most important in human history, as it democratized knowledge and transformed society.",
                 questions: [
                   {
                     id: "q1",
-                    passage: "In a small village, a young inventor named Alex dreamed of creating a flying machine. Everyone said it was impossible.",
-                    question: "Which plot stage is this?",
-                    options: ["Exposition", "Rising Action", "Climax", "Resolution"],
-                    correctAnswer: 0,
-                    explanation: "This is exposition - it introduces the character (Alex), setting (small village), and situation (wants to build a flying machine)."
+                    question: "What is the EXPOSITION of Passage 1?",
+                    options: [
+                      "Alex finds treasure in the ruins",
+                      "A traveler arrives with a torn map",
+                      "Alex lives a predictable life in Thornwood, working with his father as a blacksmith",
+                      "Alex builds a bridge across the river"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "**EXPOSITION** = introduces the NORMAL WORLD before conflict. Alex's predictable, routine life in the village is the setup. This shows us WHO he is, WHERE he lives, WHAT his normal life is like—before everything changes."
                   },
                   {
                     id: "q2",
-                    passage: "Alex's machine crashed three times. The village council threatened to ban his experiments. His materials were running out, and time was running short.",
-                    question: "Which plot stage is this?",
-                    options: ["Exposition", "Rising Action", "Climax", "Falling Action"],
+                    question: "What is the INCITING INCIDENT that starts the main conflict? (Grade 6 Skill)",
+                    options: [
+                      "Alex helps his father in the shop",
+                      "The mysterious traveler arrives and offers Alex a chance to guide him through the forest for treasure",
+                      "Alex faces a storm on the mountain",
+                      "Alex returns home to his parents"
+                    ],
                     correctAnswer: 1,
-                    explanation: "This is rising action - problems are building up (crashes, council opposition, running out of supplies), increasing tension."
+                    explanation: "**INCITING INCIDENT** = the specific event that STARTS everything and disrupts the normal world. The traveler's arrival and request is THE moment that begins Alex's journey. Without this, Alex would still be living his predictable life. This kicks off the rising action."
                   },
                   {
                     id: "q3",
-                    passage: "Global warming causes ice caps to melt. As a result, sea levels rise, which leads to coastal flooding. Therefore, many island nations face the threat of disappearing underwater.",
-                    question: "What text structure is used here?",
-                    options: ["Chronological Order", "Cause and Effect", "Compare and Contrast", "Problem and Solution"],
+                    question: "Which events are part of the RISING ACTION?",
+                    options: [
+                      "Alex lives a predictable life",
+                      "Fierce storms, wild animals, dead ends, traveler's injury, running out of food, reaching the broken bridge",
+                      "Alex builds the bridge and crosses",
+                      "Alex returns home and the village improves"
+                    ],
                     correctAnswer: 1,
-                    explanation: "Signal words 'causes,' 'as a result,' 'leads to,' and 'therefore' indicate cause and effect structure."
+                    explanation: "**RISING ACTION** = series of complications that BUILD TENSION. Each challenge (storms, animals, injury, no food, broken bridge) makes things HARDER and increases suspense. Notice how problems PILE UP, leading toward the climax. This is the longest part of the story."
                   },
                   {
                     id: "q4",
-                    passage: "While both reptiles, snakes and lizards have some key differences. Snakes have no legs and move by slithering, whereas most lizards have four legs. However, both are cold-blooded and lay eggs.",
-                    question: "What text structure is used here?",
-                    options: ["Chronological Order", "Cause and Effect", "Compare and Contrast", "Description"],
+                    question: "What is the CLIMAX of the story?",
+                    options: [
+                      "The traveler arrives with a map",
+                      "They face storms and wild animals",
+                      "Standing at the river's edge, exhausted and ready to give up, Alex decides to build a bridge and takes the first step onto it",
+                      "Alex finds books in the ruins"
+                    ],
                     correctAnswer: 2,
-                    explanation: "Signal words 'both,' 'differences,' 'whereas,' and 'however' indicate compare and contrast structure."
+                    explanation: "**CLIMAX** = the moment of HIGHEST TENSION and the TURNING POINT. This is it: Alex at his lowest point (cold, exhausted, traveler injured) must make THE crucial decision. Building and crossing the bridge is the pivotal action that determines success or failure. This is the peak of the mountain!"
                   },
                   {
                     id: "q5",
-                    passage: "Standing at the edge of the cliff, Alex pushed the button. The machine sputtered, roared to life, and lifted off the ground. The crowd below gasped as he soared above the village square.",
-                    question: "Which plot stage is this?",
-                    options: ["Exposition", "Rising Action", "Climax", "Resolution"],
+                    question: "Which is the FALLING ACTION?",
+                    options: [
+                      "Alex faces challenges in the forest",
+                      "Alex builds and crosses the bridge",
+                      "They find the ruins and discover the treasure is ancient books of knowledge; the traveler explains its value",
+                      "Alex's quiet life in the village"
+                    ],
                     correctAnswer: 2,
-                    explanation: "This is the climax - the most intense moment when the machine finally works and Alex achieves flight."
+                    explanation: "**FALLING ACTION** = events AFTER the climax where tension DECREASES. After crossing the bridge (climax), they discover what the treasure actually is. This wraps up the immediate quest but isn't the final resolution yet."
                   },
                   {
                     id: "q6",
-                    passage: "Many schools struggle with food waste. One solution is to implement a share table where students can place unwanted items for others to take. Another approach is to teach students about portion sizes.",
-                    question: "What text structure is used here?",
-                    options: ["Chronological Order", "Cause and Effect", "Compare and Contrast", "Problem and Solution"],
+                    question: "What is the RESOLUTION?",
+                    options: [
+                      "Alex leaves home with the traveler",
+                      "Alex faces many challenges",
+                      "Alex builds a bridge",
+                      "Alex returns home; the village uses the knowledge to improve; Alex realizes he's braver than he knew and his life has changed forever"
+                    ],
                     correctAnswer: 3,
-                    explanation: "The passage presents a problem (food waste) and offers solutions (share table, teaching), using problem-solution structure."
+                    explanation: "**RESOLUTION** = how things END and the NEW NORMAL. Shows: outcome (village improves), character growth (Alex discovered his bravery), and how life has changed from the beginning (no longer predictable). This provides CLOSURE and shows the lasting impact of the journey."
+                  },
+                  {
+                    id: "q7",
+                    question: "How does identifying the plot structure help understand the story's message?",
+                    options: [
+                      "It doesn't help with understanding",
+                      "It shows how Alex grows from passive (predictable life) to active (brave decision-maker), with the climax revealing his inner strength",
+                      "It just tells you what happens",
+                      "It makes the story longer"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**WHY STRUCTURE MATTERS**: By tracking the plot stages, we see Alex's CHARACTER ARC. Exposition (passive/routine) → Inciting Incident (opportunity) → Rising Action (tested) → Climax (decisive action showing growth) → Resolution (transformed). The structure REVEALS the theme: bravery is discovered through challenges."
+                  },
+                  {
+                    id: "q8",
+                    question: "What is the PRIMARY text structure of Passage 2?",
+                    options: [
+                      "Chronological Order",
+                      "Cause and Effect",
+                      "Compare and Contrast",
+                      "Problem and Solution"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**CAUSE AND EFFECT** is the primary structure. Signal words: 'because,' 'as a result,' 'led to,' 'consequently,' 'therefore.' The passage explains: Printing press invented → books cheaper → more access → increased literacy → faster idea spread → major historical movements. It's a CHAIN of causes and effects."
+                  },
+                  {
+                    id: "q9",
+                    question: "Which signal words in Passage 2 BEST indicate the text structure?",
+                    options: [
+                      "First, next, then, finally",
+                      "Because, as a result, led to, consequently, therefore",
+                      "Similarly, however, both, unlike",
+                      "For example, such as, characteristics"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "These are classic **CAUSE AND EFFECT signal words**. They show RELATIONSHIPS between events:\n- 'Because' = introduces a cause\n- 'As a result'/'consequently'/'therefore' = introduce effects\n- 'Led to' = connects cause to effect\nThese words guide you through the causal chain."
+                  },
+                  {
+                    id: "q10",
+                    question: "Identify the cause-and-effect chain in Passage 2:",
+                    options: [
+                      "Gutenberg was born, he grew up, he invented the press, he died",
+                      "Printing press invented → books cheaper/faster → more access → increased literacy → faster idea spread → major historical changes",
+                      "The printing press and handwritten books are different",
+                      "The printing press was a problem that needed solving"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "This is the **CAUSE-AND-EFFECT CHAIN**: Each effect becomes the cause of the next event. Invention (cause 1) → cheap books (effect 1/cause 2) → access (effect 2/cause 3) → literacy (effect 3/cause 4) → idea spread (effect 4/cause 5) → historical impact (final effect). Understanding this chain = understanding the passage!"
+                  },
+                  {
+                    id: "q11",
+                    question: "Read this excerpt: 'Before this invention, books were copied by hand... [After], books could now be produced quickly.' What SECONDARY structure is used here?",
+                    options: [
+                      "Description",
+                      "Chronological Order",
+                      "Compare and Contrast (before/after)",
+                      "Problem and Solution"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "**MIXED STRUCTURES**: While the passage is primarily cause-and-effect, it ALSO uses **COMPARE AND CONTRAST** to show the difference between BEFORE (hand-copied, slow, expensive, rare) and AFTER (printed, fast, cheap, common) the printing press. Signal words: 'before,' 'after,' contrasting descriptions."
+                  },
+                  {
+                    id: "q12",
+                    question: "This passage structure: 'First, Gutenberg invented the press around 1440. Then ideas spread. Finally, society transformed.' What structure is this?",
+                    options: [
+                      "This would be Chronological Order due to the time-sequence signal words",
+                      "Cause and Effect",
+                      "Compare and Contrast",
+                      "Description"
+                    ],
+                    correctAnswer: 0,
+                    explanation: "**CHRONOLOGICAL ORDER** signal words: 'First,' 'around 1440,' 'then,' 'finally.' While the ACTUAL passage uses cause-and-effect, THIS REWRITE would be chronological because it focuses on TIME SEQUENCE rather than cause-and-effect relationships. **Signal words determine structure!**"
+                  },
+                  {
+                    id: "q13",
+                    question: "Why does the author structure Passage 2 with cause-and-effect instead of just description?",
+                    options: [
+                      "To make it longer",
+                      "To show HOW and WHY the printing press created massive changes, not just WHAT it did",
+                      "Because it's easier to write",
+                      "To confuse readers"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**PURPOSE OF STRUCTURE**: Cause-and-effect shows the IMPACT and CONNECTIONS, not just facts. It reveals: WHY the printing press mattered (democratized knowledge), HOW it created change (chain reaction), and the SIGNIFICANCE (transformed society). Description would just list facts without showing relationships."
+                  },
+                  {
+                    id: "q14",
+                    question: "How can recognizing text structure help you study Passage 2?",
+                    options: [
+                      "It can't help",
+                      "You can create a cause-and-effect chain diagram to organize and remember the information logically",
+                      "You just memorize every word",
+                      "You only read the first sentence"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**STRUCTURE AIDS COMPREHENSION**: When you recognize cause-and-effect structure, you can:\n1. Create a visual chain/diagram\n2. Understand RELATIONSHIPS, not just isolated facts\n3. Remember information better (because it's connected)\n4. Predict what comes next\n5. Take better notes organized by causes and effects\n\nStructure is a study tool!"
                   }
                 ]
               }
@@ -2353,58 +3019,155 @@ export const courseData = {
             },
             {
               id: "reading-6-2",
-              title: "Practice: POV and Author's Purpose",
+              title: "Practice: POV and Author's Purpose (P.I.E.E.)",
               type: "exercise",
               content: {
-                instructions: "Identify the point of view and author's purpose in each passage.",
+                instructions: "Practice identifying Point of View (1st Person, 3rd Limited, 3rd Omniscient) and Author's Purpose (P.I.E.E. = Persuade, Inform, Entertain, Express). Remember the Grade 6 skill: Explain how author develops narrator's perspective differently from reader's!",
+                passage: "**Passage 1 (Questions 1-6):**\n\nI stepped onto the stage, my heart pounding so loudly I was sure the entire auditorium could hear it. The bright lights blinded me for a moment. I took a deep breath and looked out at the sea of faces. Mom sat in the third row, giving me a thumbs up. I couldn't see if she was nervous for me, but I sure was nervous enough for both of us. This was it—the moment I'd practiced for all year. My hands trembled as I lifted the microphone. \"Good evening, everyone,\" I began, my voice cracking slightly. \"Tonight, I want to talk to you about something I care deeply about: protecting our oceans.\"\n\n**Passage 2 (Questions 7-12):**\n\nClimate change is no longer a distant threat—it is here, and it is urgent. Every single day of delay costs us precious time we cannot afford to waste. We must act now, not tomorrow, not next year, but today! Renewable energy sources like solar and wind power offer real solutions that are already working in countries around the world. Scientists agree that we have less than a decade to make dramatic changes, or we will face catastrophic consequences that will affect every person on this planet. The choice is ours: Will we be remembered as the generation that saved Earth, or the one that destroyed it? Call your representatives. Demand action. The future depends on what you do right now.",
                 questions: [
                   {
                     id: "q1",
-                    passage: "I grabbed my backpack and ran out the door. Mom was calling my name, but I was already late for the bus. I couldn't believe I'd overslept again!",
-                    question: "What is the point of view?",
-                    options: ["First Person", "Third Person Limited", "Third Person Omniscient", "Second Person"],
+                    question: "What is the Point of View of Passage 1?",
+                    options: [
+                      "First Person",
+                      "Second Person",
+                      "Third Person Limited",
+                      "Third Person Omniscient"
+                    ],
                     correctAnswer: 0,
-                    explanation: "Uses 'I,' 'my,' and 'me' - the narrator is a character in the story. This is first person POV."
+                    explanation: "**FIRST PERSON**: Uses 'I,' 'my,' 'me.' The narrator is a character IN the story, telling it from their own perspective. We experience events through their eyes and know only their thoughts/feelings directly."
                   },
                   {
                     id: "q2",
-                    passage: "Marcus looked at the test nervously. Across the room, his teacher smiled, confident that her students were well-prepared. Meanwhile, Sarah in the back row felt completely ready.",
-                    question: "What is the point of view?",
-                    options: ["First Person", "Third Person Limited", "Third Person Omniscient", "Second Person"],
-                    correctAnswer: 2,
-                    explanation: "The narrator knows the thoughts of multiple characters (Marcus, teacher, Sarah). This is third person omniscient."
+                    question: "In Passage 1, the narrator says 'I couldn't see if she was nervous for me.' How does this show the LIMITATION of first person POV?",
+                    options: [
+                      "It doesn't show any limitation",
+                      "It shows that first person narrators can only know their own thoughts, not others' inner feelings—they must guess based on observations",
+                      "It shows the narrator doesn't care about Mom's feelings",
+                      "It shows first person knows everything"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**POV LIMITATION (Grade 6 Skill)**: First person can SEE Mom's thumbs up (observable action) but CANNOT know if she's nervous (internal feeling). This creates uncertainty for the reader—we're limited to what the narrator can observe or guess, not others' true thoughts."
                   },
                   {
                     id: "q3",
-                    passage: "You absolutely must try this new restaurant! The food is incredible, the service is perfect, and the prices can't be beat. Don't miss out - make a reservation today!",
-                    question: "What is the author's primary purpose?",
-                    options: ["To Persuade", "To Inform", "To Entertain", "To Describe"],
-                    correctAnswer: 0,
-                    explanation: "Strong language like 'must,' 'incredible,' 'can't be beat,' and 'don't miss out' show the author is trying to persuade you to visit."
+                    question: "How does the first person POV in Passage 1 affect the reader's experience?",
+                    options: [
+                      "It makes the story boring",
+                      "It creates an intimate, personal connection—we feel the narrator's nervousness directly, making it more emotionally engaging",
+                      "It confuses the reader",
+                      "It provides too much information"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**POV IMPACT**: First person makes us EXPERIENCE the nervousness ('heart pounding,' 'hands trembled'). We're INSIDE the character's head, feeling what they feel. This creates empathy and emotional connection—more powerful than just being TOLD someone is nervous."
                   },
                   {
                     id: "q4",
-                    passage: "Photosynthesis is the process by which plants convert sunlight into energy. During this process, plants take in carbon dioxide and water, and produce oxygen and glucose. This occurs primarily in the leaves.",
-                    question: "What is the author's primary purpose?",
-                    options: ["To Persuade", "To Inform", "To Entertain", "To Criticize"],
+                    question: "**Grade 6 Skill**: How is the NARRATOR'S perspective different from the READER'S perspective in Passage 1?",
+                    options: [
+                      "There is no difference",
+                      "The narrator is focused inward on their own anxiety and can't see the full audience reaction, while readers can observe both the narrator's nervousness AND anticipate the speech about oceans that's coming",
+                      "The narrator knows more than the reader",
+                      "Only the reader is nervous"
+                    ],
                     correctAnswer: 1,
-                    explanation: "The passage presents factual information about photosynthesis in an objective way. The purpose is to inform/teach."
+                    explanation: "**CALIFORNIA GRADE 6 STANDARD**: **Narrator sees:** Only their own fear, physical sensations, Mom's gesture. **Reader sees:** The narrator's fear AND the irony that they're about to speak on something they 'care deeply about' (passion) despite being terrified (fear). Reader has a MORE COMPLETE view than the anxious narrator."
                   },
                   {
                     id: "q5",
-                    passage: "Emma walked slowly through the haunted house. She felt her hands trembling. Every creak made her jump. She wondered if coming here was a mistake.",
-                    question: "What is the point of view?",
-                    options: ["First Person", "Third Person Limited", "Third Person Omniscient", "Second Person"],
+                    question: "If Passage 1 were rewritten in Third Person Omniscient, what would change?",
+                    options: [
+                      "Nothing would change",
+                      "We could know Mom's thoughts ('She was nervous but proud'), the audience's reactions, and have a complete view of everyone's feelings, not just the narrator's",
+                      "It would be shorter",
+                      "It would be in past tense"
+                    ],
                     correctAnswer: 1,
-                    explanation: "Uses 'she' and 'her,' and we only know Emma's thoughts and feelings - no one else's. This is third person limited."
+                    explanation: "**POV COMPARISON**: **First Person (current)**: Only narrator's thoughts. **Third Omniscient (hypothetical)**: Could show: narrator's fear + Mom's pride + audience's anticipation + other characters' perspectives. More information but less intimate connection."
                   },
                   {
                     id: "q6",
-                    passage: "Once upon a time, in a kingdom far away, there lived a dragon who was afraid of heights. This made flying quite difficult, and it led to many hilarious adventures!",
-                    question: "What is the author's primary purpose?",
-                    options: ["To Persuade", "To Inform", "To Entertain", "To Warn"],
+                    question: "What is the primary Author's Purpose for Passage 1?",
+                    options: [
+                      "To Persuade readers to protect oceans",
+                      "To Inform readers about speech-making",
+                      "To Entertain readers with a relatable story about overcoming stage fright",
+                      "To Criticize people who get nervous"
+                    ],
                     correctAnswer: 2,
-                    explanation: "A funny story about a dragon afraid of heights is meant to entertain readers with humor and an amusing premise."
+                    explanation: "**PRIMARY PURPOSE: ENTERTAIN**. While the narrator mentions oceans, the passage is really ABOUT experiencing nervousness before a speech—a relatable, engaging moment. It uses sensory details ('heart pounding'), emotions (fear), and builds suspense. The goal: make readers EXPERIENCE this moment, not teach facts or change behavior."
+                  },
+                  {
+                    id: "q7",
+                    question: "What is the primary Author's Purpose for Passage 2?",
+                    options: [
+                      "To Entertain with a funny climate story",
+                      "To Inform about climate science objectively",
+                      "To Persuade readers that climate action is urgent and they must act immediately",
+                      "To Express personal feelings without asking for action"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "**PERSUADE (P.I.E.E.)**: Signal words: 'must,' 'urgent,' 'cannot afford,' 'call your representatives,' 'demand action.' Uses: emotional appeals ('the one that destroyed it?'), urgency ('today, not tomorrow'), call to action ('what you do right now'). Goal: CHANGE BEHAVIOR, not just inform."
+                  },
+                  {
+                    id: "q8",
+                    question: "Which persuasive techniques does Passage 2 use?",
+                    options: [
+                      "Only facts and statistics",
+                      "Emotional language, rhetorical questions, urgent commands, appeals to responsibility, and presenting a stark choice",
+                      "Humor and jokes",
+                      "Boring descriptions"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**PERSUASIVE TECHNIQUES**:\n- **Emotional**: 'catastrophic consequences,' 'precious time'\n- **Rhetorical Question**: 'Will we be remembered as...?'\n- **Commands**: 'We MUST act,' 'Call,' 'Demand'\n- **Stark Choice**: Save Earth OR destroy it (no middle ground)\n- **Appeals**: 'every person,' 'the future depends'\n\nAll designed to motivate ACTION, not just understanding."
+                  },
+                  {
+                    id: "q9",
+                    question: "How would Passage 2 be different if the purpose were to INFORM instead of PERSUADE?",
+                    options: [
+                      "It would be exactly the same",
+                      "It would present facts objectively without emotional language, commands, or calls to action—like: 'Climate change refers to long-term temperature increases. Scientists project a 2°C rise by 2050.'",
+                      "It would be funnier",
+                      "It would be longer"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**INFORM vs. PERSUADE**:\n\n**Current (Persuade)**: 'We MUST act NOW!' (emotion, command)\n**If Informing**: 'Global temperatures have risen 1.1°C since 1880.' (neutral facts)\n\n**Current**: 'Will we destroy Earth?' (fear appeal)\n**If Informing**: 'Renewable energy provides 29% of global electricity.' (statistics)\n\nInformative = OBJECTIVE, just facts. Persuasive = SUBJECTIVE, trying to influence."
+                  },
+                  {
+                    id: "q10",
+                    question: "Does Passage 2 have a SECONDARY purpose besides persuasion?",
+                    options: [
+                      "No, only persuasion",
+                      "Yes, it also INFORMS by providing facts (scientists' timeline, renewable energy existence, global impact)",
+                      "Yes, it entertains with jokes",
+                      "Yes, it criticizes readers"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**MULTIPLE PURPOSES**: Most persuasive texts ALSO inform:\n\n**Primary: PERSUADE** (dominant—uses emotion, commands, calls to action)\n**Secondary: INFORM** (provides facts to support argument):\n- 'less than a decade' (timeline)\n- 'solar and wind power' (solutions exist)\n- 'scientists agree' (expert consensus)\n\nFacts make persuasion more credible!"
+                  },
+                  {
+                    id: "q11",
+                    question: "What is the 'tone' created by the author's purpose in Passage 2?",
+                    options: [
+                      "Calm and relaxed",
+                      "Urgent, passionate, and demanding—reflecting the persuasive purpose to motivate immediate action",
+                      "Humorous and lighthearted",
+                      "Sad and depressing"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**TONE = Author's Attitude**: The persuasive purpose creates an URGENT, PASSIONATE tone:\n- Short sentences: 'We must act now'\n- Exclamation points!\n- Time pressure: 'today,' 'right now'\n- High stakes: 'catastrophic'\n\nTone MATCHES purpose—urgency motivates action."
+                  },
+                  {
+                    id: "q12",
+                    question: "Compare the purposes: Why did the authors choose different purposes for Passages 1 and 2?",
+                    options: [
+                      "Random choice",
+                      "Passage 1 entertains to create emotional connection to a universal experience; Passage 2 persuades because it seeks behavioral change on an urgent issue. Different goals require different approaches.",
+                      "Both have the same purpose",
+                      "The authors didn't think about purpose"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**PURPOSE IS STRATEGIC**:\n\n**Passage 1**: Goal = Help readers EXPERIENCE stage fright\n→ Best approach: ENTERTAIN (create immersive moment)\n→ Tools: First person POV, sensory details, relatable emotions\n\n**Passage 2**: Goal = Get readers to TAKE ACTION\n→ Best approach: PERSUADE (motivate behavior)\n→ Tools: Commands, urgency, emotional appeals, stark choices\n\n**Authors choose purpose based on what they want readers to DO or FEEL!**"
                   }
                 ]
               }
@@ -2436,83 +3199,155 @@ export const courseData = {
             },
             {
               id: "reading-7-2",
-              title: "Practice: Close Reading",
+              title: "Practice: Close Reading with Annotation Symbols",
               type: "exercise",
               content: {
-                instructions: "Apply the three-pass method to answer questions about this passage at different levels.",
-                passage: "The library was Maria's sanctuary. While other students rushed through the doors eager to escape, she lingered among the shelves, running her fingers along worn spines. Each book held a universe waiting to be discovered. Her friends couldn't understand why she'd rather read than scroll through social media. But Maria knew something they didn't: between these pages, she could be anyone, go anywhere, and learn anything. The library wasn't just a building—it was freedom.",
+                instructions: "Apply the THREE-PASS METHOD to deeply understand this passage. Practice annotation strategies: ⭐ = main ideas, ❓ = confusing parts, 📖 = key vocabulary, 💡 = insights. Each question tests a different level of reading!",
+                passage: "The old lighthouse stood alone on the jagged cliff, its once-brilliant light extinguished decades ago. Emma climbed the crumbling stone stairs, each step echoing in the hollow tower like whispers from the past. Dust motes danced in the single beam of sunlight that pierced through a cracked window. At the top, breathless and covered in grime, she found what she'd been searching for—her grandmother's journal, leather-bound and filled with elegant handwriting. She opened to a random page: 'November 14, 1962. Tonight, the storm raged, but our light guided the merchant vessel safely past the rocks. Twenty-three souls saved because we stood watch. This is why we endure the isolation.'\n\nEmma sat on the dusty floor, tears streaming down her face as she read page after page. Her grandmother had been the lighthouse keeper for forty years, alone most of that time, performing a duty few appreciated. Now the lighthouse was abandoned, deemed obsolete by modern GPS technology. But reading these entries, Emma understood something profound: some things have value beyond their practical function. This lighthouse wasn't just a building—it was a testament to dedication, to the quiet heroism of doing important work even when nobody was watching.",
                 questions: [
                   {
                     id: "q1",
-                    question: "FIRST READ: What is this passage basically about?",
+                    question: "**FIRST READ**: Who is the main character and what is she doing?",
                     options: [
-                      "A school building",
-                      "Maria's love of reading and the library",
-                      "Social media",
-                      "Maria's friends"
+                      "A grandmother writing in a journal",
+                      "Emma, who is climbing an old lighthouse to find her grandmother's journal",
+                      "A lighthouse keeper saving ships",
+                      "A sailor in a storm"
                     ],
                     correctAnswer: 1,
-                    explanation: "First read focuses on the basic plot/topic: Maria loves the library and reading. This is the 'what' of the text."
+                    explanation: "**FIRST READ = BASIC FACTS (WHO, WHAT)**: Emma is the main character. She's climbing an abandoned lighthouse and finds her grandmother's journal. This is the surface-level 'what's happening.' Don't worry about deeper meaning yet—just get the basic story."
                   },
                   {
                     id: "q2",
-                    question: "SECOND READ: What does 'sanctuary' mean in context? (Analyzing vocabulary)",
+                    question: "**FIRST READ**: When did the grandmother work at the lighthouse?",
                     options: [
-                      "A scary place",
-                      "A church",
-                      "A safe, peaceful refuge",
-                      "A prison"
+                      "Currently",
+                      "Last year",
+                      "Decades ago (journal entry from 1962, worked for 40 years)",
+                      "The passage doesn't say"
                     ],
                     correctAnswer: 2,
-                    explanation: "Context clues: she 'lingered' there, found it peaceful while others 'rushed to escape.' A sanctuary is a safe haven."
+                    explanation: "**FIRST READ = BASIC FACTS (WHEN)**: Evidence: 'decades ago,' journal dated 'November 14, 1962,' '40 years' as keeper. First read = gathering timeline information before analyzing why it matters."
                   },
                   {
                     id: "q3",
-                    question: "SECOND READ: What is the author's word choice doing? (Analyzing craft)",
+                    question: "**SECOND READ**: What does 'extinguished' mean? (Use context clues!)",
                     options: [
-                      "Creating a negative mood",
-                      "Making reading seem boring",
-                      "Creating contrast between Maria and other students",
-                      "Describing the library building"
+                      "Made brighter",
+                      "Put out, no longer lit",
+                      "Repaired",
+                      "Painted"
                     ],
-                    correctAnswer: 2,
-                    explanation: "Words like 'rushed/escape' vs. 'lingered/sanctuary' create contrast between Maria's view and others' views."
+                    correctAnswer: 1,
+                    explanation: "**SECOND READ = VOCABULARY**: Context clues: 'once-brilliant' (past tense = was bright before) + 'extinguished' + 'abandoned' + 'obsolete' = the light is NO LONGER working. Extinguish = put out/turn off. Second read = figuring out unknown words using context."
                   },
                   {
                     id: "q4",
-                    question: "THIRD READ: What is the theme of this passage? (Deep meaning)",
+                    question: "**SECOND READ**: How does the author create a mood in the opening? (Analyzing craft)",
                     options: [
-                      "Libraries have books.",
-                      "Reading is boring.",
-                      "Books and reading provide escape, knowledge, and freedom.",
-                      "Maria doesn't have friends."
+                      "With facts and statistics",
+                      "With descriptive words like 'alone,' 'crumbling,' 'hollow,' 'whispers,' suggesting abandonment and the passage of time",
+                      "With dialogue and conversation",
+                      "With humor and jokes"
                     ],
-                    correctAnswer: 2,
-                    explanation: "The theme is the deeper message: reading offers freedom and possibilities ('be anyone, go anywhere, learn anything')."
+                    correctAnswer: 1,
+                    explanation: "**SECOND READ = HOW IT'S BUILT**: Author's craft: lonely words ('alone'), decay words ('crumbling,' 'grime'), sensory details ('echoing,' 'dust motes,' 'cracked window'), metaphor ('whispers from the past'). These create a MELANCHOLY, NOSTALGIC mood. Second read = noticing author's techniques."
                   },
                   {
                     id: "q5",
-                    question: "THIRD READ: What can you INFER about Maria? (Making connections)",
+                    question: "**SECOND READ**: What is the structure? (How is it organized?)",
                     options: [
-                      "She has no friends.",
-                      "She doesn't like school.",
-                      "She values imagination and learning over superficial entertainment.",
-                      "She wants to be a librarian."
+                      "Compare and contrast",
+                      "Cause and effect",
+                      "Present action (Emma's climb) → Discovery (journal) → Past story (1962 entry) → Present reflection (Emma's realization)",
+                      "Chronological from beginning to end"
                     ],
                     correctAnswer: 2,
-                    explanation: "We can infer from her choices (books over social media, 'learn anything') that she values depth and imagination."
+                    explanation: "**SECOND READ = STRUCTURE**: The passage moves between TIME PERIODS:\n1. PRESENT: Emma climbs (paragraphs 1-2)\n2. PAST: Journal quote from 1962 (embedded)\n3. PRESENT: Emma reads and reflects (final paragraph)\n\nThis structure CONNECTS past and present, showing how history speaks to Emma. Second read = identifying how pieces fit together."
                   },
                   {
                     id: "q6",
-                    question: "THIRD READ: The last sentence says 'it was freedom.' What does this metaphor mean?",
+                    question: "**THIRD READ**: What is the THEME (deep message about life)?",
                     options: [
-                      "The library has no rules.",
-                      "Books allow Maria to escape limitations and explore unlimited possibilities.",
-                      "Maria can leave whenever she wants.",
-                      "The library is outside."
+                      "Lighthouses are old",
+                      "GPS is better than lighthouses",
+                      "True value lies in dedication and purpose, not just practical function; important work matters even when unrecognized",
+                      "Emma likes reading journals"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "**THIRD READ = THEME/DEEP MEANING**: Emma's realization: 'value beyond their practical function' + 'quiet heroism of doing important work even when nobody was watching.' This is UNIVERSAL—applies to teachers, nurses, parents, anyone doing important work without recognition. Third read = understanding life lessons."
+                  },
+                  {
+                    id: "q7",
+                    question: "**THIRD READ**: What can you INFER about why Emma cried?",
+                    options: [
+                      "She was sad the lighthouse was dirty",
+                      "She discovered her grandmother's unrecognized dedication and sacrifice, connecting emotionally to a family legacy she'd never fully understood",
+                      "She was tired from climbing",
+                      "She didn't like the journal"
                     ],
                     correctAnswer: 1,
-                    explanation: "The metaphor connects to earlier ideas: 'be anyone, go anywhere, learn anything' - books free her from limitations."
+                    explanation: "**THIRD READ = INFERENCE**: Text says: 'tears streaming' + 'understood something profound.' Clues: grandmother's isolation ('alone most of that time'), dedication ('40 years'), unappreciated work ('few appreciated'), Emma's search ('what she'd been searching for'). INFERENCE: Emma is moved by discovering her grandmother's hidden heroism and sacrifice."
+                  },
+                  {
+                    id: "q8",
+                    question: "**THIRD READ**: What is the SYMBOL: What does the lighthouse represent beyond a building?",
+                    options: [
+                      "Just a place to put lights",
+                      "The past, dedication, purpose, quiet heroism, and work that has value even when society deems it obsolete",
+                      "Modern technology",
+                      "Emma's house"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**THIRD READ = SYMBOLISM/DEEPER MEANING**: The lighthouse is a SYMBOL (represents more than itself):\n- PAST: Connection to history/family\n- DEDICATION: Grandmother's 40 years\n- PURPOSE: Saving lives ('23 souls')\n- OBSOLESCENCE: 'Deemed obsolete' yet still valuable\n\nFinal line makes it explicit: 'wasn't just a building—testament to dedication.' Third read = seeing layers of meaning."
+                  },
+                  {
+                    id: "q9",
+                    question: "**ANNOTATION STRATEGY**: Which part should you mark with ⭐ (main idea)?",
+                    options: [
+                      "'The old lighthouse stood alone'",
+                      "'Dust motes danced in the sunlight'",
+                      "'some things have value beyond their practical function... testament to dedication, to the quiet heroism'",
+                      "'November 14, 1962'"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "**ANNOTATION: ⭐ = MAIN IDEAS/KEY INSIGHTS**: Option C is Emma's REALIZATION—the central message/theme. This is what the whole passage builds toward. When annotating:\n⭐ = thesis, main ideas, key realizations\n❓ = confusing parts\n📖 = important vocabulary\n💡 = your personal insights"
+                  },
+                  {
+                    id: "q10",
+                    question: "**CONNECTION**: How does this passage connect to the REAL WORLD?",
+                    options: [
+                      "It doesn't connect to anything",
+                      "It reflects how society often overlooks essential workers (teachers, janitors, nurses) whose 'practical function' is replaced but whose dedication has lasting value",
+                      "It's only about lighthouses",
+                      "It's about technology being bad"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**THIRD READ = CONNECTIONS**: Theme applies beyond lighthouses to:\n- Teachers (undervalued, work unseen)\n- Essential workers (unrecognized dedication)\n- Anyone doing important work without praise\n- Older people/traditions society deems 'obsolete'\n\nThis is TEXT-TO-WORLD connection. Close reading means seeing how literature reflects universal human experiences."
+                  },
+                  {
+                    id: "q11",
+                    question: "**AUTHOR'S PURPOSE**: Why did the author write this passage?",
+                    options: [
+                      "To inform about how lighthouses work",
+                      "To persuade readers to save lighthouses",
+                      "To make readers FEEL the value of unrecognized dedication and reflect on what society deems 'obsolete' but is actually meaningful",
+                      "To entertain with a scary story"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "**THIRD READ = PURPOSE**: Primary goal: Make readers REFLECT + FEEL\n- Emotional journey (Emma's tears)\n- Philosophical question (value vs. function)\n- Challenge reader assumptions (obsolete ≠ valueless)\n\nSecondary: Entertain with engaging narrative. Purpose is layered—entertain while conveying deeper meaning. Close reading reveals author's goals."
+                  },
+                  {
+                    id: "q12",
+                    question: "**CLOSE READING BENEFIT**: How does reading this passage THREE TIMES help comprehension?",
+                    options: [
+                      "It doesn't help; one read is enough",
+                      "First read = basic story | Second read = understanding vocabulary, structure, craft | Third read = theme, symbolism, connections, deeper meaning. Each layer builds complete understanding.",
+                      "Three reads just waste time",
+                      "All three reads focus on the same things"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**WHY CLOSE READING WORKS**:\n\n**After 1 read**: Know Emma found a journal (surface)\n**After 2 reads**: Understand mood, vocabulary, structure (craft)\n**After 3 reads**: Grasp theme about value/dedication, symbolism, real-world connections (depth)\n\n**Result**: COMPLETE comprehension—you can analyze, discuss, write about it confidently. Rushing through once = missing 80% of meaning!"
                   }
                 ]
               }
