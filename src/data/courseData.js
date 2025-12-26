@@ -3560,71 +3560,57 @@ export const courseData = {
             },
             {
               id: "writing-3-2",
-              title: "Practice: Argumentative Writing",
-              type: "exercise",
+              title: "Argumentative Writing Assignment: Homework Debate",
+              type: "writing_exercise",
               content: {
-                instructions: "Identify strong arguments, evidence, and formal tone in the following scenarios.",
-                questions: [
-                  {
-                    id: "q1",
-                    question: "Which is a strong, debatable CLAIM?",
-                    options: [
-                      "Dogs are animals.",
-                      "I think dogs are cute.",
-                      "Schools should allow therapy dogs to help students manage stress and anxiety.",
-                      "Many people like dogs."
-                    ],
-                    correctAnswer: 2,
-                    explanation: "This is specific, debatable, and takes a clear position. Options A and D are facts, and B is just an opinion without reasoning."
-                  },
-                  {
-                    id: "q2",
-                    question: "Which provides the BEST evidence for the claim 'Students should get more recess time'?",
-                    options: [
-                      "I feel like recess is fun.",
-                      "Everyone knows recess is important.",
-                      "Research from Stanford University shows that students who have 30-minute recess breaks score 10% higher on afternoon tests.",
-                      "Recess is the best part of school."
-                    ],
-                    correctAnswer: 2,
-                    explanation: "This cites a credible source (Stanford University) and provides specific data (10% higher scores). The others are opinions or vague statements."
-                  },
-                  {
-                    id: "q3",
-                    question: "Which sentence uses the MOST formal tone?",
-                    options: [
-                      "I really think this is super important stuff.",
-                      "Implementing this policy would significantly benefit students.",
-                      "This thing is gonna help kids a lot.",
-                      "In my opinion, it's pretty obvious we should do this."
-                    ],
-                    correctAnswer: 1,
-                    explanation: "Uses formal vocabulary ('implementing,' 'significantly benefit'), avoids 'I,' and maintains academic tone."
-                  },
-                  {
-                    id: "q4",
-                    question: "Identify the counterclaim: 'Schools should ban junk food. Some argue this limits student choice. However, student health is more important than snack preferences.'",
-                    options: [
-                      "Schools should ban junk food.",
-                      "Some argue this limits student choice.",
-                      "Student health is more important.",
-                      "Snack preferences."
-                    ],
-                    correctAnswer: 1,
-                    explanation: "The counterclaim acknowledges the opposing viewpoint (limiting choice) before refuting it."
-                  },
-                  {
-                    id: "q5",
-                    question: "Which is an appropriate way to present evidence?",
-                    options: [
-                      "According to Dr. Martinez, a nutrition expert, 'School lunch programs that include fresh vegetables see a 40% increase in student vegetable consumption.'",
-                      "I heard somewhere that school lunches are healthier now.",
-                      "Everyone knows that vegetables are good.",
-                      "My mom says we should eat more vegetables."
-                    ],
-                    correctAnswer: 0,
-                    explanation: "This properly cites a credible source, includes a direct quote, and provides specific data."
-                  }
+                assignmentType: "argumentative",
+                prompt: "**📝 ARGUMENTATIVE WRITING ASSIGNMENT**\n\n**Your Task:**\nWrite an argumentative paragraph (approximately 100-120 words) that takes a clear position on **whether students should have homework.**\n\n**Choose ONE side:**\n- **Position A:** Schools should limit homework to 30 minutes per night for middle school students.\n- **Position B:** Students should have at least 60 minutes of homework per night to reinforce learning.\n\n**Requirements:**\n✅ **Clear CLAIM** statement (your position)\n✅ **At least TWO pieces of EVIDENCE** (can be hypothetical statistics, expert opinions, research findings, or logical reasoning)\n✅ **BRIDGE sentences** for each piece of evidence explaining HOW it proves your claim\n✅ **ONE COUNTERCLAIM** (acknowledge the opposing view and refute it)\n✅ **FORMAL TONE** (no \"I think,\" no contractions, academic vocabulary)\n✅ **100-120 words**",
+                instructions: "**STEP-BY-STEP GUIDE:**\n\n**STEP 1: Choose Your Position**\nDecide which side you can argue more effectively. You don't have to believe it—you just have to argue it well!\n\n**STEP 2: Write Your CLAIM (Topic Sentence)**\n- Be specific and debatable\n- Use formal language\n- Example format: \"Schools should [action] because [preview of reasons].\"\n\n**STEP 3: Provide EVIDENCE #1**\n- Can be: a statistic, expert quote, research finding, or logical reasoning\n- Be as specific as possible (even if hypothetical)\n- Example: \"According to education research, students who complete 30 minutes of homework retain 85% of classroom material.\"\n\n**STEP 4: Build BRIDGE #1**\n- Explain WHY this evidence matters\n- Connect it directly to your claim\n- Use bridge starters: \"This demonstrates that...\", \"This evidence proves...\"\n- Example: \"This demonstrates that moderate homework effectively reinforces learning without causing excessive stress.\"\n\n**STEP 5: Provide EVIDENCE #2**\n- Choose a DIFFERENT type of evidence\n- Make it strong and specific\n\n**STEP 6: Build BRIDGE #2**\n- Again, explain the significance\n- Show how it strengthens your argument\n\n**STEP 7: Address COUNTERCLAIM**\n- Acknowledge what the OTHER side would say\n- Use: \"Some opponents argue that...\" or \"While some believe...\"\n- Then REFUTE it: \"However, this overlooks...\" or \"Nevertheless, evidence shows...\"\n\n**STEP 8: Concluding Sentence**\n- Restate your claim in NEW words\n- Use: \"Therefore,\" \"Thus,\" \"Consequently\"\n\n**FORMAL TONE CHECKLIST:**\n❌ AVOID: I think, I believe, in my opinion, I feel, kids, stuff, things, really, very, a lot, can't, don't\n✅ USE: Research shows, evidence demonstrates, students, children, specific details, numerous, many, cannot, do not",
+                rubric: {
+                  title: "Grading Rubric (Total: 25 points)",
+                  criteria: [
+                    {
+                      name: "Claim Statement",
+                      points: 4,
+                      description: "Clear, specific, debatable claim stated at the beginning. Takes a definite position."
+                    },
+                    {
+                      name: "Evidence (2 pieces)",
+                      points: 6,
+                      description: "Two distinct pieces of evidence provided. Evidence is specific (not vague) and relevant to the claim."
+                    },
+                    {
+                      name: "Bridges/Explanations",
+                      points: 8,
+                      description: "MOST IMPORTANT: Each piece of evidence has a bridge sentence explaining HOW it proves the claim. Bridges are clear and logical."
+                    },
+                    {
+                      name: "Counterclaim & Rebuttal",
+                      points: 4,
+                      description: "Acknowledges opposing viewpoint fairly and refutes it with reasoning or evidence."
+                    },
+                    {
+                      name: "Formal Tone & Mechanics",
+                      points: 3,
+                      description: "Uses formal, academic tone throughout. No first person (I/me). Third person. Correct grammar, punctuation. 100-120 words."
+                    }
+                  ]
+                },
+                exampleResponse: "**EXAMPLE ARGUMENTATIVE PARAGRAPH (This would earn full points):**\n\nSchools should limit homework to 30 minutes per night for middle school students because extensive research demonstrates that excessive homework causes more harm than academic benefit. **[CLAIM]** According to a 2021 study published in the Journal of Educational Psychology, students assigned more than 60 minutes of homework per night report significantly higher stress levels and decreased sleep quality, with no corresponding improvement in test scores. **[EVIDENCE 1]** This research proves that beyond a 30-minute threshold, homework becomes counterproductive, undermining the very purpose of education, which should support rather than damage student well-being. **[BRIDGE 1]** Furthermore, countries like Finland, which assign minimal homework, consistently outperform the United States on international assessments. **[EVIDENCE 2]** This demonstrates that quality classroom instruction, not homework quantity, determines academic success. **[BRIDGE 2]** While some educators argue that extensive homework builds discipline, this claim ignores the reality that exhausted, stressed students cannot develop effective study habits. **[COUNTERCLAIM & REBUTTAL]** Therefore, limiting homework to 30 minutes maximizes learning while protecting student health. **[CONCLUSION]**\n\n**(Word Count: 156 words)**\n\n**Why This Works:**\n✅ **Clear Claim:** \"Schools should limit homework to 30 minutes\" - specific, debatable\n✅ **Evidence 1:** 2021 study, Journal name, specific finding (60 minutes, stress, no test improvement)\n✅ **Bridge 1:** \"This research proves that...\" - explains significance\n✅ **Evidence 2:** Finland example with outcomes\n✅ **Bridge 2:** \"This demonstrates that...\" - connects to claim\n✅ **Counterclaim:** \"While some educators argue...\" - fair presentation\n✅ **Rebuttal:** \"this claim ignores...\" - strong refutation\n✅ **Conclusion:** \"Therefore...\" - ties it together\n✅ **Formal Tone:** No \"I,\" no contractions, academic vocabulary\n✅ **Transitions:** Furthermore, While, Therefore",
+                writingSpace: {
+                  placeholder: "Write your argumentative paragraph here...\n\nRemember to include:\n📌 Clear claim statement\n📊 Two pieces of evidence\n🌉 Bridge sentences for each evidence\n⚖️ Counterclaim and rebuttal\n🎓 Formal, third-person tone\n📏 100-120 words\n\nBuild your case like a lawyer!",
+                  minWords: 90,
+                  suggestedWords: "100-120 words"
+                },
+                helpfulHints: [
+                  "🎯 Your CLAIM should answer: What should happen? Why? (Preview your reasons)",
+                  "📊 Make evidence SPECIFIC: Instead of 'a study shows,' write 'A 2022 Stanford study found that 67% of...'",
+                  "🌉 The BRIDGE is crucial! Ask yourself: 'So what? Why does this evidence matter? What does it PROVE?'",
+                  "⚖️ Be FAIR to the counterclaim. Don't make it a straw man. Present it well, THEN knock it down with logic/evidence",
+                  "📝 Formal tone means: 'Research demonstrates' not 'studies show'; 'Students' not 'kids'; 'Do not' not 'don't'",
+                  "🔢 Use transition words: For evidence (Furthermore, Additionally), For counterclaim (While, Although), For conclusion (Therefore, Thus)",
+                  "💡 If stuck on evidence, think: What do experts say? What does research show? What examples exist? What's logical?",
+                  "✂️ If over word count, cut unnecessary adjectives and adverbs. Every word should do work!"
                 ]
               }
             }
@@ -3636,102 +3622,81 @@ export const courseData = {
           lessons: [
             {
               id: "writing-4-1",
-              title: "Examining Topics and Conveying Information Clearly",
+              title: "Informative/Explanatory Writing: Domain-Specific Vocabulary & Objective Tone",
               type: "lesson",
               content: {
-                introduction: "Informative/explanatory writing examines a topic and conveys ideas or information clearly. Unlike argumentative writing, the goal is to inform, not persuade. This requires formatting, precise vocabulary, and clear organization.",
-                explanation: "**What is Informative/Explanatory Writing?**\n\nThis writing explains or teaches about a topic without trying to convince the reader of anything.\n\n**Purpose:**\n- Explain how something works\n- Describe what something is\n- Analyze why something happens\n- Compare and contrast topics\n\n---\n\n**Structure of Informative Writing:**\n\n**1. Introduction**\n- Hook: Interesting fact, question, or statement\n- Background: Context about the topic\n- Thesis: Clear statement of what you'll explain\n- Example: \"This essay will examine three major causes of climate change.\"\n\n**2. Body Paragraphs** (Usually 3-5)\n\nEach paragraph should:\n- Start with a topic sentence\n- Include facts, definitions, details, quotations, or examples\n- Use precise vocabulary\n- Connect back to the main topic\n\n**Structure:**\n- Topic Sentence\n- Evidence/Example 1\n- Evidence/Example 2\n- Concluding/transition sentence\n\n**3. Conclusion**\n- Restate the thesis in new words\n- Summarize main points\n- End with a final insight or broader implication\n\n---\n\n**Formatting and Features:**\n\n**Headings and Subheadings:**\nUse these to organize information clearly\n- Example: \"Causes of Climate Change\"\n  - Subheading: \"Fossil Fuel Emissions\"\n  - Subheading: \"Deforestation\"\n\n**Definitions:**\nDefine technical or important terms\n- \"Photosynthesis is the process by which plants convert sunlight into energy.\"\n\n**Examples and Illustrations:**\n- \"For instance, polar bears rely on sea ice for hunting.\"\n- Can include diagrams, charts, or tables\n\n**Precise Vocabulary:**\n- ✓ \"evaporate\" (not \"go away\")\n- ✓ \"accelerate\" (not \"speed up\")\n- ✓ \"habitat\" (not \"place where animals live\")\n\n---\n\n**Informative vs. Argumentative:**\n\n**Informative:**\n- Purpose: Explain/teach\n- Tone: Neutral, objective\n- Evidence: Facts and information\n- Example: \"Climate change causes sea levels to rise.\"\n\n**Argumentative:**\n- Purpose: Persuade\n- Tone: Takes a position\n- Evidence: Used to support claim\n- Example: \"Governments must act immediately to address climate change.\"\n\n---\n\n**Key Features for Success:**\n\n1. **Clear Organization:** Use logical order (chronological, cause-effect, compare-contrast)\n2. **Transition Words:** Connect ideas (Furthermore, In addition, Similarly, In contrast)\n3. **Domain-Specific Vocabulary:** Use precise terms related to the topic\n4. **Objective Tone:** No opinions, just facts\n5. **Multiple Sources:** Include information from various credible sources",
+                introduction: "Informative/explanatory writing TEACHES readers about a topic using facts, not opinions. The secret to great informative writing? **Domain-Specific Vocabulary**—the precise, technical terms that make you sound like an expert. Plus, maintaining an **Objective Tone** that educates rather than persuades.",
+                explanation: "**📚 WHAT IS INFORMATIVE/EXPLANATORY WRITING?**\n\nThe purpose is to INFORM (teach, explain, describe) rather than PERSUADE.\n\n**Examples of Informative Topics:**\n- How does photosynthesis work?\n- What are the stages of the water cycle?\n- How do different cultures celebrate New Year?\n- What is the history of video games?\n- How does a soccer team's formation affect gameplay?\n\n**Key Difference:**\n- **Informative:** \"Video games have evolved through three major generations, each marked by technological advances.\"\n- **Argumentative:** \"Schools should incorporate video games into education because they improve problem-solving skills.\"\n\n---\n\n**🎯 DOMAIN-SPECIFIC VOCABULARY**\n\nThis is THE most important skill for Grade 6 informative writing!\n\n**What is it?**\nTechnical, precise terms specific to your topic—the \"insider language\" of that subject.\n\n**Why it matters:**\n- Shows you understand the topic deeply\n- Makes writing more informative and credible\n- Replaces vague, generic words with exact terms\n\n**HOW TO USE DOMAIN-SPECIFIC VOCABULARY:**\n\n**Step 1: Identify the Field/Topic**\n- Soccer → Sports domain\n- Drawing → Art domain\n- Video games → Gaming/Technology domain\n\n**Step 2: Replace Generic Words with Technical Terms**\n\n**TOPIC: SOCCER**\n❌ Generic: \"Soccer players move the ball around the field trying to score.\"\n✅ Domain-Specific: \"Soccer players utilize formations such as 4-4-2 or 3-5-2, executing passes, dribbling past defenders, and attempting shots on goal to score.\"\n\n**Technical Terms:** formations, 4-4-2, executing passes, dribbling, defenders, shots on goal\n\n**TOPIC: DRAWING**\n❌ Generic: \"Artists make pictures using different ways of shading.\"\n✅ Domain-Specific: \"Artists employ various shading techniques including hatching, cross-hatching, stippling, and blending to create depth and dimension in their illustrations.\"\n\n**Technical Terms:** shading techniques, hatching, cross-hatching, stippling, blending, depth, dimension, illustrations\n\n**TOPIC: VIDEO GAMES**\n❌ Generic: \"Video games have different types of play styles.\"\n✅ Domain-Specific: \"Video game genres include first-person shooters (FPS), role-playing games (RPG), platformers, and real-time strategy (RTS), each offering distinct gameplay mechanics and player experiences.\"\n\n**Technical Terms:** genres, first-person shooters (FPS), role-playing games (RPG), platformers, real-time strategy (RTS), gameplay mechanics\n\n**TOPIC: COOKING**\n❌ Generic: \"You cook the vegetables in hot water.\"\n✅ Domain-Specific: \"Blanching vegetables involves briefly boiling them and then immersing them in ice water to preserve color and texture.\"\n\n**Technical Terms:** blanching, boiling, immersing, ice water, preserve, texture\n\n---\n\n**📐 STEP 3: DEFINE TERMS WITHIN YOUR WRITING**\n\nDon't assume your reader knows the technical terms—define them!\n\n**Method 1: Parenthetical Definition**\n\"Soccer utilizes offsides rules (a player cannot be closer to the goal than the last defender when receiving a pass) to prevent unfair advantages.\"\n\n**Method 2: Embedded Definition**\n\"Hatching, a shading technique where parallel lines create value, is fundamental to pencil drawing.\"\n\n**Method 3: Separate Sentence**\n\"Artists use stippling in their work. Stippling is the process of creating shading through small dots rather than lines.\"\n\n---\n\n**🎓 THE D.E.E.P. METHOD FOR INFORMATIVE PARAGRAPHS**\n\n**D** = **Define** the concept/topic\n**E** = **Explain** how it works\n**E** = **Example** (give a specific instance)\n**P** = **Purpose** (why it matters/how it's used)\n\n**Example Paragraph using D.E.E.P.:**\n\n**D:** \"Echolocation is a biological sonar system used by certain marine mammals and bats.\"\n\n**E:** \"This process works when an animal emits high-frequency sound waves that bounce off objects and return as echoes, allowing the animal to perceive its surroundings.\"\n\n**E:** \"For instance, dolphins emit clicking sounds that travel through water at approximately 1,500 meters per second, creating a detailed acoustic map of their environment.\"\n\n**P:** \"Echolocation enables these animals to navigate, hunt prey, and avoid obstacles even in complete darkness or murky water, making it essential for survival.\"\n\n---\n\n**💬 OBJECTIVE TONE: THE GOLDEN RULES**\n\n**✅ DO:**\n\n**1. Use Third Person (he, she, it, they)**\n✅ \"Video games utilize different control schemes.\"\n❌ \"I think video games use different controls.\"\n❌ \"You can use different controls in video games.\"\n\n**2. State Facts, Not Opinions**\n✅ \"Soccer requires cardiovascular endurance and tactical awareness.\"\n❌ \"Soccer is the best sport and everyone should play it.\"\n\n**3. Use Present Tense for General Facts**\n✅ \"Photosynthesis occurs in chloroplasts.\"\n✅ \"The water cycle consists of evaporation, condensation, and precipitation.\"\n\n**4. Cite Sources When Appropriate**\n✅ \"According to NASA, Mars has an atmosphere composed primarily of carbon dioxide.\"\n\n**5. Use Academic/Formal Vocabulary**\n✅ \"Demonstrates,\" \"Illustrates,\" \"Consists of,\" \"Requires,\" \"Involves\"\n❌ \"Shows,\" \"Is like,\" \"Has,\" \"Needs,\" \"Does\"\n\n**❌ DON'T:**\n\n**1. Use \"I/me/my/we/us/our\"**\n❌ \"In my opinion, soccer is complicated.\"\n❌ \"I will explain three positions.\"\n\n**2. Use \"you/your\"**\n❌ \"You need to understand the offside rule.\"\n❌ \"When you play video games, you use controllers.\"\n\n**3. Include Personal Opinions/Feelings**\n❌ \"I love drawing because it's fun.\"\n❌ \"Soccer is way better than basketball.\"\n\n**4. Use Informal Language**\n❌ \"Stuff,\" \"Things,\" \"A lot,\" \"Really,\" \"Very,\" \"Cool,\" \"Awesome\"\n❌ \"Kids,\" \"Guys\" → Use \"Students,\" \"Children,\" \"Players,\" \"Artists\"\n\n**5. Use Emotional Language**\n❌ \"Amazing,\" \"Terrible,\" \"Horrible,\" \"Wonderful\" (unless describing factually)\n\n---\n\n**📋 INFORMATIVE WRITING STRUCTURE**\n\n**INTRODUCTION (3-4 sentences)**\n1. **Hook:** Interesting fact or question\n   - \"Did you know that dolphins can recognize themselves in mirrors?\"\n2. **Background:** Brief context\n   - \"This ability, called self-recognition, is rare in the animal kingdom.\"\n3. **Thesis:** What you'll explain (clear roadmap)\n   - \"This essay will examine three aspects of dolphin intelligence: communication, problem-solving, and social behavior.\"\n\n**BODY PARAGRAPHS (3-5 paragraphs using D.E.E.P.)**\n- Each paragraph = ONE main idea\n- Use domain-specific vocabulary\n- Define technical terms\n- Include facts, examples, data\n\n**CONCLUSION (2-3 sentences)**\n1. **Restate thesis** (different words)\n   - \"Dolphins exhibit intelligence through diverse communication, complex problem-solving, and sophisticated social structures.\"\n2. **Broader significance**\n   - \"Understanding dolphin cognition helps scientists learn more about animal intelligence and consciousness.\"\n\n---\n\n**🔄 ORGANIZATIONAL PATTERNS**\n\nChoose the pattern that best fits your topic:\n\n**1. CHRONOLOGICAL (Time Order)**\nBest for: history, processes, life cycles\n- \"First, then, next, after, finally, subsequently\"\n- Example: \"The history of video games from 1970s to present\"\n\n**2. CAUSE AND EFFECT**\nBest for: explaining why/how something happens\n- \"Because, as a result, consequently, therefore, thus\"\n- Example: \"How deforestation affects climate\"\n\n**3. COMPARE AND CONTRAST**\nBest for: showing similarities/differences\n- \"Similarly, in contrast, however, whereas, on the other hand\"\n- Example: \"Soccer vs. Basketball: rules and gameplay\"\n\n**4. PROBLEM AND SOLUTION**\nBest for: issues and responses\n- \"The problem is, one solution, to address this\"\n- Example: \"Water scarcity and conservation methods\"\n\n**5. CATEGORICAL (Types/Categories)**\nBest for: classifying information\n- \"There are three types, the first category, another kind\"\n- Example: \"Three genres of video games\"\n\n---\n\n**✍️ TRANSITION WORDS FOR INFORMATIVE WRITING**\n\n**Adding Information:**\n- Furthermore, Additionally, Moreover, In addition, Also\n\n**Explaining/Clarifying:**\n- Specifically, In other words, That is, For instance, For example\n\n**Showing Sequence:**\n- First, Second, Next, Subsequently, Finally, Ultimately\n\n**Showing Cause/Effect:**\n- Consequently, As a result, Therefore, Thus, Because of this\n\n**Comparing:**\n- Similarly, Likewise, In the same way, Equally\n\n**Contrasting:**\n- However, In contrast, Conversely, On the other hand, Whereas\n\n---\n\n**📊 GRADE 6 CALIFORNIA STANDARDS**\n\nThis lesson addresses:\n- **W.6.2:** Write informative/explanatory texts to examine a topic\n- **W.6.2.a:** Introduce topic and organize ideas\n- **W.6.2.b:** Develop topic with relevant facts, definitions, details\n- **W.6.2.d:** Use precise language and domain-specific vocabulary\n- **W.6.2.e:** Maintain formal style\n\n---\n\n**💡 QUICK TIP: THE \"TEACH IT\" TEST**\n\nBefore submitting informative writing, ask:\n- Could someone who knows NOTHING about this topic understand it from my writing?\n- Did I define all technical terms?\n- Did I use domain-specific vocabulary?\n- Is my tone objective (no \"I\" or opinions)?\n\nIf yes to all four, you've succeeded!",
                 examples: [
                   {
-                    text: "Topic Sentence: 'The water cycle consists of three main stages.'\n\nBody: 'First, evaporation occurs when the sun heats water, causing it to transform from liquid to gas. Next, condensation happens as water vapor cools and forms clouds. Finally, precipitation releases water back to Earth in the form of rain, snow, or hail.'",
-                    explanation: "Uses precise vocabulary (evaporation, condensation, precipitation), clear organization (First, Next, Finally), and objective tone."
+                    text: "**❌ WEAK INFORMATIVE PARAGRAPH (Generic, No Domain Vocabulary):**\n\n\"Soccer is a sport where players kick a ball and try to score goals. There are different players who do different things on the field. The goalie tries to stop the ball from going in the net. It's really popular and a lot of people play it all over the world.\"\n\n**Problems:**\n- Vague terms (\"different things,\" \"a lot\")\n- No technical vocabulary\n- Informal (\"really,\" \"a lot\")\n- No depth or specific information\n\n---\n\n**✅ STRONG INFORMATIVE PARAGRAPH (Domain-Specific Vocabulary):**\n\n\"Soccer, known internationally as football, is a team sport involving two squads of eleven players who use strategic formations to control possession and score goals. **(DEFINE)** Players occupy specific positions including forwards (attackers), midfielders (transitional players), defenders (protective players), and one goalkeeper. **(EXPLAIN)** For instance, in a 4-4-2 formation, four defenders create a back line, four midfielders control the center of the pitch, and two forwards lead the attack. **(EXAMPLE)** This tactical structure allows teams to balance offensive pressure with defensive stability, adapting their approach based on opponents' strategies. **(PURPOSE)** Understanding these formations is fundamental to analyzing soccer gameplay at professional levels.\n\n**Strengths:**\n✅ Domain-specific terms: squads, formations, possession, forwards, midfielders, defenders, goalkeeper, 4-4-2 formation, back line, pitch, tactical structure, offensive, defensive stability\n✅ Terms are defined/explained\n✅ Uses D.E.E.P. method\n✅ Objective tone (no \"I,\" no opinions)\n✅ Present tense for general facts\n✅ Formal vocabulary",
+                    explanation: "Notice how the strong paragraph uses 10+ technical soccer terms and defines positions within the text. This demonstrates expertise and educates the reader."
                   },
                   {
-                    text: "Weak: 'Dolphins are really cool animals that do awesome things.'\n\nStrong: 'Dolphins are highly intelligent marine mammals. They demonstrate problem-solving abilities, use echolocation to navigate, and exhibit complex social behaviors within their pods.'",
-                    explanation: "Strong version uses precise vocabulary (marine mammals, echolocation, pods) and provides specific information instead of vague descriptions."
+                    text: "**TOPIC: DRAWING/ART - WEAK VS. STRONG**\n\n**❌ WEAK:**\n\"When you draw, you can make things look 3D by shading them in cool ways. Some artists use lines and some use dots. It makes the picture look more real and better.\"\n\n**✅ STRONG:**\n\"Artists employ various shading techniques to create the illusion of three-dimensional form on two-dimensional surfaces. Hatching involves drawing parallel lines to suggest value and shadow, while cross-hatching layers intersecting line sets to deepen tones. Alternatively, stippling utilizes clustered dots to build gradual tonal transitions. Blending, achieved through tools like tortillons or fingers, produces smooth gradients without visible marks. These techniques enable artists to convey depth, volume, and realistic lighting in their illustrations, transforming flat drawings into convincing representations of spatial reality.\"\n\n**Domain Vocabulary Used:**\n- shading techniques\n- three-dimensional form\n- two-dimensional surfaces\n- hatching\n- parallel lines\n- value\n- cross-hatching\n- intersecting line sets\n- tones\n- stippling\n- tonal transitions\n- blending\n- tortillons\n- gradients\n- depth\n- volume\n- spatial reality",
+                    explanation: "The strong version sounds like an art textbook because it uses the precise vocabulary artists actually use. This is what makes informative writing powerful."
                   }
-                ]
+                ],
+                quickPractice: {
+                  question: "**Quick Practice:** Rewrite this GENERIC sentence using DOMAIN-SPECIFIC vocabulary:\n\n\"Cooking pasta involves putting it in hot water until it's soft enough to eat.\"\n\nThink: What are the technical cooking terms for this process?",
+                  hint: "Technical terms: boiling, al dente, salted water, draining, colander",
+                  answer: "**STRONG VERSION with Domain Vocabulary:**\n\n\"Cooking pasta requires boiling it in salted water until it reaches al dente texture—firm to the bite—typically 8-12 minutes depending on the pasta shape. The pasta is then drained using a colander to remove excess water before serving.\"\n\n**Domain-Specific Terms Used:**\n✅ **boiling** (not \"putting in hot water\")\n✅ **salted water** (specific detail)\n✅ **al dente** (Italian culinary term meaning \"to the tooth\"—properly cooked)\n✅ **texture** (precise term)\n✅ **pasta shape** (acknowledges different types)\n✅ **drained** (technical verb)\n✅ **colander** (specific kitchen tool)\n\nNotice how using technical terms makes you sound like a chef teaching someone to cook!"
+                }
               }
             },
             {
               id: "writing-4-2",
-              title: "Practice: Informative Writing",
-              type: "exercise",
+              title: "Informative Writing Assignment: Explain Your Hobby",
+              type: "writing_exercise",
               content: {
-                instructions: "Identify effective informative writing techniques and distinguish from argumentative writing.",
-                questions: [
-                  {
-                    id: "q1",
-                    question: "Which is an appropriate thesis statement for informative writing?",
-                    options: [
-                      "Everyone should learn about renewable energy because it's important.",
-                      "This essay will explain three types of renewable energy: solar, wind, and hydroelectric power.",
-                      "I think renewable energy is better than fossil fuels.",
-                      "You must support renewable energy initiatives."
-                    ],
-                    correctAnswer: 1,
-                    explanation: "This clearly states what will be explained without taking a position or trying to persuade."
-                  },
-                  {
-                    id: "q2",
-                    question: "Which sentence uses the MOST precise vocabulary for informative writing?",
-                    options: [
-                      "The heart pumps blood around the body.",
-                      "The heart does stuff with blood.",
-                      "The heart moves blood to different places.",
-                      "The heart is really important for your body."
-                    ],
-                    correctAnswer: 0,
-                    explanation: "Uses precise terms (pumps, blood) and is clear and specific. The others are vague or informal."
-                  },
-                  {
-                    id: "q3",
-                    question: "Identify the INFORMATIVE passage (not argumentative):",
-                    options: [
-                      "Schools must extend lunch periods to improve student health.",
-                      "Extended lunch periods would benefit everyone.",
-                      "Lunch periods vary in length across U.S. schools, ranging from 20 to 45 minutes. Research indicates that longer periods allow students more time for socialization and eating.",
-                      "I believe all schools should have 45-minute lunches."
-                    ],
-                    correctAnswer: 2,
-                    explanation: "This informs about lunch period lengths and research findings without taking a position or trying to persuade."
-                  },
-                  {
-                    id: "q4",
-                    question: "Which transition word would BEST show cause and effect in informative writing?",
-                    options: [
-                      "However",
-                      "Similarly",
-                      "Consequently",
-                      "First"
-                    ],
-                    correctAnswer: 2,
-                    explanation: "'Consequently' shows cause and effect (this happened as a result). 'However' shows contrast, 'Similarly' shows comparison, 'First' shows sequence."
-                  },
-                  {
-                    id: "q5",
-                    question: "Which would be the BEST way to organize an essay about the life cycle of a butterfly?",
-                    options: [
-                      "Compare and contrast structure",
-                      "Problem and solution structure",
-                      "Chronological (time order) structure",
-                      "Most important to least important"
-                    ],
-                    correctAnswer: 2,
-                    explanation: "A life cycle happens in stages over time, so chronological order (egg → caterpillar → chrysalis → butterfly) makes sense."
-                  },
-                  {
-                    id: "q6",
-                    question: "Which sentence maintains an OBJECTIVE tone for informative writing?",
-                    options: [
-                      "I think photosynthesis is the coolest process ever!",
-                      "Photosynthesis is obviously the most important biological process.",
-                      "Photosynthesis is the process by which plants convert light energy into chemical energy.",
-                      "Everyone should learn about photosynthesis because it's amazing."
-                    ],
-                    correctAnswer: 2,
-                    explanation: "This presents factual information objectively without opinions, emotions, or attempts to persuade."
-                  }
+                assignmentType: "informative",
+                prompt: "**📚 INFORMATIVE WRITING ASSIGNMENT**\n\n**Your Task:**\nWrite an informative paragraph (approximately 120-150 words) explaining HOW a specific hobby or activity works. You MUST use **at least THREE technical terms** (domain-specific vocabulary) related to that hobby and define them within your text.\n\n**Choose ONE hobby/activity:**\n- Soccer\n- Drawing/Art\n- Gaming (video games)\n- Cooking/Baking\n- Basketball\n- Dance\n- Music (instrument)\n- Photography\n- Or ANY hobby you know well\n\n**Requirements:**\n✅ **Clear topic sentence** introducing the hobby\n✅ **At least 3 domain-specific/technical terms** used AND defined\n✅ **D.E.E.P. structure** (Define, Explain, Example, Purpose)\n✅ **Objective tone** (no \"I/you,\" no opinions—just facts)\n✅ **Present tense** for general information\n✅ **120-150 words**",
+                instructions: "**STEP-BY-STEP GUIDE:**\n\n**STEP 1: Choose Your Hobby**\nPick something you know WELL. You need to be able to use technical terms!\n\n**STEP 2: Brainstorm Domain-Specific Vocabulary**\nList 5-7 technical terms from your hobby:\n- **Soccer:** formation, offside, goalkeeper, pitch, possession, dribbling, striker\n- **Drawing:** hatching, stippling, shading, perspective, composition, value, contrast\n- **Gaming:** FPS, RPG, gameplay mechanics, NPC, boss battle, level design\n- **Cooking:** sauté, simmer, al dente, marinade, caramelize, sear\n\n**STEP 3: Write Topic Sentence**\n- Introduce the hobby\n- Example: \"Basketball is a team sport requiring both individual skill and coordinated strategy.\"\n\n**STEP 4: Use D.E.E.P. Method**\n\n**D = Define** (explain what it is or define a technical term)\n\"The game involves two teams of five players competing on a rectangular court.\"\n\n**E = Explain** (how it works/what happens)\n\"Players advance the ball through dribbling—bouncing the ball while moving—or passing to teammates.\"\n\n**E = Example** (specific instance)\n\"For instance, a point guard, the playmaker position, orchestrates offensive plays and distributes passes.\"\n\n**P = Purpose** (why/what it achieves)\n\"This combination of individual techniques and team coordination makes basketball both physically demanding and strategically complex.\"\n\n**STEP 5: Define Your Technical Terms**\n\n**Method 1: Parenthetical**\n\"Players use dribbling (bouncing the ball while moving) to advance.\"\n\n**Method 2: Appositive**\n\"The point guard, the playmaker position, controls the offense.\"\n\n**Method 3: Embedded**\n\"Hatching involves drawing parallel lines to create shading.\"\n\n**STEP 6: Maintain Objective Tone**\n\n❌ DON'T: \"I love playing basketball because it's so fun!\"\n❌ DON'T: \"You should try drawing—it's awesome!\"\n✅ DO: \"Basketball requires cardiovascular endurance and hand-eye coordination.\"\n✅ DO: \"Drawing techniques enable artists to create depth and dimension.\"\n\n**STEP 7: Concluding Sentence**\n- Wrap up the explanation\n- Emphasize significance or complexity\n- Example: \"Understanding these fundamental techniques is essential for developing proficiency in the sport.\"",
+                rubric: {
+                  title: "Grading Rubric (Total: 25 points)",
+                  criteria: [
+                    {
+                      name: "Domain-Specific Vocabulary",
+                      points: 9,
+                      description: "MOST IMPORTANT: Uses at least 3 technical/domain-specific terms related to the hobby. Terms are precise and appropriate. Each term is defined or explained within the text."
+                    },
+                    {
+                      name: "D.E.E.P. Structure",
+                      points: 6,
+                      description: "Paragraph includes: Definition/introduction, Explanation of how it works, Example(s), and Purpose/significance."
+                    },
+                    {
+                      name: "Objective Tone",
+                      points: 5,
+                      description: "Maintains objective, formal tone throughout. No first person (I/me) or second person (you). No opinions. States facts only."
+                    },
+                    {
+                      name: "Organization & Clarity",
+                      points: 3,
+                      description: "Clear topic sentence. Logical flow. Uses transitions. Easy to understand."
+                    },
+                    {
+                      name: "Mechanics & Word Count",
+                      points: 2,
+                      description: "Correct grammar, spelling, punctuation. Present tense for general facts. 120-150 words."
+                    }
+                  ]
+                },
+                exampleResponse: "**EXAMPLE INFORMATIVE PARAGRAPH (This would earn full points):**\n\n**TOPIC: SOCCER**\n\nSoccer, known internationally as football, is a team sport in which two squads of eleven players utilize strategic formations to control possession and score goals. Players occupy specific positions including forwards, who lead offensive attacks; midfielders, who transition between defense and offense; defenders, who protect the goal; and one goalkeeper, who guards the net. For instance, in a 4-4-2 formation—a tactical arrangement featuring four defenders, four midfielders, and two forwards—teams balance offensive pressure with defensive stability. Players advance the ball through dribbling, the technique of controlling the ball with the feet while moving, or through precise passing sequences. The offside rule prevents attackers from gaining unfair positional advantages by prohibiting them from being closer to the goal than the last defender when receiving a pass. Mastering these technical elements and tactical concepts requires extensive practice and coordination, making soccer both physically demanding and strategically complex at professional levels.\n\n**(Word Count: 152)**\n\n**Why This Earns Full Points:**\n\n✅ **Domain-Specific Vocabulary (9/9 points):**\n1. **Squads** (teams—sports term)\n2. **Formations** (tactical arrangements) - DEFINED\n3. **Possession** (ball control)\n4. **Forwards** (attacking position) - DEFINED\n5. **Midfielders** (transition players) - DEFINED\n6. **Defenders** (protective players) - DEFINED\n7. **Goalkeeper** (net guard) - DEFINED\n8. **4-4-2 formation** - DEFINED with parenthetical\n9. **Dribbling** - DEFINED\n10. **Offside rule** - EXPLAINED\n\n✅ **D.E.E.P. Structure (6/6 points):**\n- **D:** \"Soccer...is a team sport in which...\"\n- **E:** \"Players occupy specific positions...\"\n- **E:** \"For instance, in a 4-4-2 formation...\"\n- **P:** \"Mastering these technical elements...making soccer...complex\"\n\n✅ **Objective Tone (5/5 points):**\n- No \"I\" or \"you\"\n- No opinions (\"fun,\" \"best,\" \"should\")\n- States facts only\n- Formal vocabulary (\"utilize,\" \"sequences,\" \"prohibiting\")\n\n✅ **Organization (3/3 points):**\n- Clear topic sentence\n- Logical flow from overview → positions → formations → techniques → rules\n- Transition: \"For instance\"\n\n✅ **Mechanics (2/2 points):**\n- Perfect grammar/spelling\n- Present tense throughout\n- 152 words (within range)",
+                writingSpace: {
+                  placeholder: "Write your informative paragraph about your hobby here...\n\nRemember to include:\n🎯 Clear introduction of the hobby\n📚 At least 3 technical terms (defined!)\n📐 D.E.E.P. structure\n🎓 Objective tone (no I/you)\n📏 120-150 words\n\nTeach your reader like an expert!",
+                  minWords: 110,
+                  suggestedWords: "120-150 words"
+                },
+                helpfulHints: [
+                  "🔍 FIND TECHNICAL TERMS: Google '[your hobby] terminology' or '[hobby] glossary' for ideas",
+                  "📖 DEFINE AS YOU GO: Every time you use a technical term, immediately explain it in the same or next sentence",
+                  "🎯 THINK LIKE A TEACHER: Imagine explaining to someone who's never done this hobby. What do they need to know?",
+                  "❌ AVOID VAGUE WORDS: Instead of 'thing,' 'stuff,' 'way'—use the specific term (equipment, technique, method)",
+                  "✏️ USE PRESENT TENSE: 'Players use...' 'Artists employ...' 'The game requires...' (not past tense)",
+                  "🔗 TRANSITIONS HELP: 'For instance,' 'Additionally,' 'Furthermore,' 'Specifically'",
+                  "💡 D.E.E.P. CHECKLIST: Did I Define, Explain, give Example, and state Purpose? Check all four!",
+                  "🎓 SOUND FORMAL: 'utilize' not 'use,' 'employ' not 'do,' 'requires' not 'needs'"
                 ]
               }
             }
