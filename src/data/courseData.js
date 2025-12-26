@@ -17,53 +17,121 @@ export const courseData = {
           lessons: [
             {
               id: "vocab-1-1",
-              title: "Understanding Context Clues",
+              title: "Mastering Context Clues - The IDEAS Method",
               type: "lesson",
               content: {
-                introduction: "Context clues are hints found within a sentence or paragraph that help you understand the meaning of unfamiliar words.",
-                explanation: "There are several types of context clues:\n\n1. **Definition Clues**: The word is directly defined in the sentence.\n2. **Synonym Clues**: A similar word is used nearby.\n3. **Antonym Clues**: An opposite word gives you a hint.\n4. **Example Clues**: Examples help explain the word.\n5. **Inference Clues**: You use logic and prior knowledge.",
+                introduction: "Context clues are 'detective hints' hidden in the text that help you understand unfamiliar words. In 6th grade, you'll encounter complex academic vocabulary in all subjects, so mastering context clues is essential. To help you remember the different types, we use the acronym IDEAS.",
+                explanation: "**💡 THE IDEAS STRATEGY**\n\nThis powerful mnemonic device helps you remember the five types of context clues:\n\n---\n\n**I = INFERENCE Clue**\n\n**How to Spot It**: The meaning is NOT given directly; you must use logic and 'read between the lines.'\n\n**Strategy**: Look at what's happening in the sentence. Use your brain + the clues to figure it out.\n\n**Example**: 'The team felt **melancholy** after losing the championship game in the final second; many sat in silence with their heads down.'\n\n**Analysis**: The text doesn't define melancholy, but the logic tells us:\n- They lost the game (sad event)\n- They sat in silence (quiet behavior)\n- Heads down (body language of sadness)\n\n**Therefore**: Melancholy = a feeling of deep sadness or depression\n\n---\n\n**D = DEFINITION Clue (Punctuation)**\n\n**How to Spot It**: The author uses commas, dashes (—), or parentheses to define the word immediately.\n\n**Signal Punctuation**: , — or ( )\n\n**Strategy**: Look for punctuation that acts like an equals sign!\n\n**Example**: 'The **biome**—a large naturally occurring community of flora and fauna—is being studied by the scientists.'\n\n**Analysis**: The dashes (—) provide the definition right in the sentence.\n\n**Therefore**: Biome = a community of plants and animals in their natural environment\n\n**More Examples**:\n- 'The **protagonist**, or main character, faces many challenges.'\n- 'She felt **exuberant** (extremely happy and energetic) about the news.'\n\n---\n\n**E = EXAMPLE Clue**\n\n**How to Spot It**: Look for phrases like 'such as,' 'including,' 'for instance,' 'for example,' or 'like.'\n\n**Strategy**: The examples given are all types of the unknown word!\n\n**Example**: 'The kitchen was filled with **confections**, such as chocolate truffles, glazed donuts, and peppermint bark.'\n\n**Analysis**: All the examples (truffles, donuts, bark) are types of sweets or candy.\n\n**Therefore**: Confections = sweet foods, candies, or desserts\n\n**More Examples**:\n- 'Various **citrus** fruits, including lemons, oranges, and grapefruits, are rich in vitamin C.'\n- 'The museum displayed ancient **artifacts**, such as pottery, weapons, and jewelry.'\n\n---\n\n**A = ANTONYM Clue (Contrast)**\n\n**How to Spot It**: Look for 'signal words' like: however, unlike, but, whereas, although, on the other hand, in contrast, yet\n\n**Strategy**: The unknown word means the OPPOSITE of a word you know!\n\n**Example**: 'The movie was quite **banal**; however, the book it was based on was incredibly original and exciting.'\n\n**Analysis**: \n- Signal word: 'however' (shows contrast)\n- The book was 'original and exciting'\n- The movie must be the opposite\n\n**Therefore**: Banal = boring, unoriginal, ordinary, predictable\n\n**More Examples**:\n- 'Unlike the **tranquil** morning, the afternoon was chaotic and noisy.'\n- 'The task seemed **arduous**, but it turned out to be quite easy.'\n\n---\n\n**S = SYNONYM Clue**\n\n**How to Spot It**: The author uses a similar, easier word to clarify the difficult one.\n\n**Signal Words**: or, also known as, in other words, that is, meaning\n\n**Strategy**: Look for a friendlier word nearby that means almost the same thing!\n\n**Example**: 'The desert air was **arid**, or extremely dry, making it difficult for the travelers to stay hydrated.'\n\n**Analysis**: The word 'or' introduces a synonym: 'extremely dry'\n\n**Therefore**: Arid = very dry, lacking moisture\n\n**More Examples**:\n- 'The scientist made a **hypothesis**, or educated guess, about the experiment's outcome.'\n- 'The athlete was **tenacious**, meaning she never gave up despite the challenges.'\n\n---\n\n**🎯 QUICK REFERENCE TABLE**\n\n| Letter | Type | Signal Words | Example |\n|--------|------|--------------|----------|\n| **I** | Inference | (none - use logic) | Behavior/situation clues |\n| **D** | Definition | , — ( ) 'or' | Word = definition |\n| **E** | Example | such as, like, including | Lists examples |\n| **A** | Antonym | however, unlike, but | Shows opposite |\n| **S** | Synonym | or, meaning, that is | Gives similar word |\n\n---\n\n**🔍 HOW TO USE IDEAS**\n\n**Step 1**: Read the entire sentence carefully\n**Step 2**: Ask yourself: 'Which IDEAS strategy can I use?'\n**Step 3**: Apply that strategy to determine meaning\n**Step 4**: Check if your answer makes sense in context\n\n**Remember**: Sometimes sentences use MORE THAN ONE type of clue! Use them all!",
                 examples: [
                   {
-                    text: "The luminous stars shone brightly in the night sky.",
-                    explanation: "The word 'brightly' helps us understand that 'luminous' means glowing or shining."
+                    text: "INFERENCE: 'The aroma of freshly baked bread and cinnamon rolls was so enticing that customers lined up outside the bakery before it even opened.'",
+                    explanation: "Logic tells us: People lining up early means something is very appealing. Enticing = attractive, tempting, appealing."
                   },
                   {
-                    text: "Unlike her gregarious sister, Maria was shy and reserved.",
-                    explanation: "The contrast ('Unlike') tells us 'gregarious' means the opposite of shy - sociable and outgoing."
+                    text: "DEFINITION: 'The expedition required stamina—the physical and mental strength to endure long periods of activity—from all participants.'",
+                    explanation: "The dashes provide the definition. Stamina = strength and endurance."
+                  },
+                  {
+                    text: "EXAMPLE: 'The garden contained various flora, such as roses, tulips, sunflowers, and daisies.'",
+                    explanation: "All examples are flowers/plants. Flora = plants."
+                  },
+                  {
+                    text: "ANTONYM: 'Although the instructions seemed ambiguous at first, they became crystal clear once we started.'",
+                    explanation: "'Although' signals contrast. Opposite of 'crystal clear' is ambiguous = unclear, confusing."
+                  },
+                  {
+                    text: "SYNONYM: 'The lecture was mundane, or ordinary and boring, so many students struggled to stay awake.'",
+                    explanation: "'Or' introduces synonyms. Mundane = ordinary and boring."
                   }
                 ]
               }
             },
             {
               id: "vocab-1-2",
-              title: "Practice: Context Clues",
+              title: "Practice: The IDEAS Method",
               type: "exercise",
               content: {
-                instructions: "Read each sentence and use context clues to determine the meaning of the underlined word.",
+                instructions: "Use the IDEAS method to determine the meaning of each underlined word. First, identify which type of context clue is being used (Inference, Definition, Example, Antonym, or Synonym), then choose the correct meaning.",
                 questions: [
                   {
                     id: "q1",
-                    question: "The ancient artifact was so fragile that the archaeologists handled it with extreme care.",
+                    question: "The ancient artifact was so fragile that the archaeologists handled it with extreme care, wrapping it in special protective material.",
                     word: "fragile",
-                    options: ["strong and sturdy", "easily broken", "very old", "valuable"],
+                    options: ["strong and sturdy", "easily broken or delicate", "very old and ancient", "valuable and rare"],
                     correctAnswer: 1,
-                    explanation: "The phrase 'handled it with extreme care' suggests the artifact could break easily."
+                    explanation: "INFERENCE clue: The careful handling and protective wrapping tell us logically that 'fragile' means easily broken or delicate."
                   },
                   {
                     id: "q2",
-                    question: "The teacher's meticulous grading meant she checked every detail of our essays carefully.",
+                    question: "The teacher's meticulous grading—checking every detail, comma, and spelling error—meant students received thorough feedback.",
                     word: "meticulous",
-                    options: ["careless", "quick", "very careful and thorough", "strict"],
+                    options: ["careless and rushed", "quick and efficient", "extremely careful and thorough", "strict and mean"],
                     correctAnswer: 2,
-                    explanation: "'Checked every detail carefully' helps us understand that meticulous means very thorough and careful."
+                    explanation: "DEFINITION clue: The dashes (—) provide the definition directly: checking every detail = meticulous means extremely careful and thorough."
                   },
                   {
                     id: "q3",
-                    question: "The storm caused havoc in the town: trees fell, power lines snapped, and several homes were damaged.",
+                    question: "The storm caused havoc in the town: trees were uprooted, power lines snapped, several homes lost their roofs, and flooding covered the streets.",
                     word: "havoc",
-                    options: ["peace", "widespread destruction", "rain", "noise"],
+                    options: ["peace and calm", "widespread chaos and destruction", "heavy rain", "loud noise"],
                     correctAnswer: 1,
-                    explanation: "The examples of damage (trees fell, power lines snapped, homes damaged) show that havoc means chaos and destruction."
+                    explanation: "EXAMPLE clue: The colon (:) introduces examples of damage. All examples show destruction, so havoc = widespread chaos and destruction."
+                  },
+                  {
+                    id: "q4",
+                    question: "The doctor's prognosis, or prediction about the patient's recovery, was optimistic.",
+                    word: "prognosis",
+                    options: ["medical treatment", "prediction or forecast", "diagnosis of illness", "prescription medicine"],
+                    correctAnswer: 1,
+                    explanation: "SYNONYM clue: The word 'or' introduces a synonym: 'prediction' clarifies that prognosis = a prediction or forecast about recovery."
+                  },
+                  {
+                    id: "q5",
+                    question: "Although the hike up the mountain was arduous, the walk back down was surprisingly easy and relaxing.",
+                    word: "arduous",
+                    options: ["easy and simple", "dangerous and scary", "difficult and exhausting", "boring and dull"],
+                    correctAnswer: 2,
+                    explanation: "ANTONYM clue: 'Although' signals contrast. The opposite of 'easy and relaxing' is arduous = difficult and exhausting."
+                  },
+                  {
+                    id: "q6",
+                    question: "The celebration included various festivities, such as fireworks, live music, dancing, and a parade through town.",
+                    word: "festivities",
+                    options: ["serious meetings", "joyful celebration activities", "food and drinks", "decorations"],
+                    correctAnswer: 1,
+                    explanation: "EXAMPLE clue: 'Such as' introduces examples. All examples (fireworks, music, dancing, parade) are celebration activities. Festivities = joyful celebration activities."
+                  },
+                  {
+                    id: "q7",
+                    question: "The dessert looked delectable—absolutely delicious and appealing—so everyone wanted to try it.",
+                    word: "delectable",
+                    options: ["expensive", "colorful", "delicious and appealing", "healthy"],
+                    correctAnswer: 2,
+                    explanation: "DEFINITION clue: The dashes (—) provide the definition directly: 'absolutely delicious and appealing' = delectable."
+                  },
+                  {
+                    id: "q8",
+                    question: "Unlike the protagonist who was brave and heroic, the antagonist was cowardly and cruel throughout the story.",
+                    word: "protagonist",
+                    options: ["villain or bad character", "main character or hero", "author of the story", "narrator who tells the story"],
+                    correctAnswer: 1,
+                    explanation: "ANTONYM clue + Context: 'Unlike' shows contrast with 'antagonist' (the opposing character). The protagonist is described as 'brave and heroic,' indicating the main character or hero."
+                  },
+                  {
+                    id: "q9",
+                    question: "The student's response was concise, meaning brief and to the point, which impressed the teacher.",
+                    word: "concise",
+                    options: ["long and detailed", "brief and to the point", "confusing and unclear", "well-written"],
+                    correctAnswer: 1,
+                    explanation: "SYNONYM clue: 'Meaning' introduces a synonym phrase. Concise = brief and to the point."
+                  },
+                  {
+                    id: "q10",
+                    question: "After three hours of intense debate, the committee finally reached a consensus and announced their unified decision to the public.",
+                    word: "consensus",
+                    options: ["disagreement", "general agreement", "vote", "compromise"],
+                    correctAnswer: 1,
+                    explanation: "INFERENCE clue: After long debate, they reached something and announced a 'unified decision.' Logic tells us consensus = general agreement among a group."
                   }
                 ]
               }
