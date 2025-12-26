@@ -3,6 +3,7 @@ import { useParams, Link, useNavigate } from 'react-router-dom';
 import { progressTracker } from '../utils/progressTracker';
 import LessonContent from './LessonContent';
 import ExerciseContent from './ExerciseContent';
+import WritingExerciseContent from './WritingExerciseContent';
 
 function LessonView({ courseData, progress, refreshProgress }) {
   const { lessonId } = useParams();
@@ -96,7 +97,7 @@ function LessonView({ courseData, progress, refreshProgress }) {
         <div className="lesson-title-section">
           <h1>{lesson.title}</h1>
           <span className={`lesson-type-badge ${lesson.type}`}>
-            {lesson.type === 'lesson' ? '📖 Lesson' : '✏️ Exercise'}
+            {lesson.type === 'lesson' ? '📖 Lesson' : lesson.type === 'writing_exercise' ? '✍️ Writing Assignment' : '✏️ Exercise'}
           </span>
           {isCompleted && (
             <span className="completion-badge large">✓ Completed</span>
@@ -108,6 +109,13 @@ function LessonView({ courseData, progress, refreshProgress }) {
             content={lesson.content}
             onComplete={handleComplete}
             isCompleted={isCompleted}
+          />
+        ) : lesson.type === 'writing_exercise' ? (
+          <WritingExerciseContent
+            lessonId={lesson.id}
+            content={lesson.content}
+            onComplete={handleComplete}
+            refreshProgress={refreshProgress}
           />
         ) : (
           <ExerciseContent

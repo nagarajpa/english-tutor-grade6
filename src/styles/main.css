@@ -1106,6 +1106,425 @@ body {
   }
 }
 
+/* ========================================
+   Writing Exercise Styles
+   ======================================== */
+
+.writing-exercise-content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.writing-header h2 {
+  font-size: 2rem;
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+}
+
+.writing-prompt {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+}
+
+.writing-prompt h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.prompt-text {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  white-space: pre-line;
+}
+
+.writing-instructions {
+  background-color: var(--surface);
+  padding: 1.5rem;
+  border-radius: var(--radius-md);
+  border-left: 4px solid var(--primary-color);
+  box-shadow: var(--shadow-sm);
+}
+
+.writing-instructions h3 {
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+}
+
+.instructions-text {
+  line-height: 1.8;
+  white-space: pre-line;
+}
+
+.writing-hints {
+  background-color: #fffbeb;
+  padding: 1rem;
+  border-radius: var(--radius-md);
+  border: 1px solid #fcd34d;
+}
+
+.writing-hints details {
+  cursor: pointer;
+}
+
+.writing-hints summary {
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: #92400e;
+  padding: 0.5rem;
+  user-select: none;
+}
+
+.writing-hints summary:hover {
+  color: #78350f;
+}
+
+.writing-hints ul {
+  margin-top: 1rem;
+  margin-left: 1.5rem;
+  line-height: 1.8;
+}
+
+.writing-hints li {
+  margin-bottom: 0.5rem;
+  color: #78350f;
+}
+
+.writing-area {
+  background-color: var(--surface);
+  padding: 1.5rem;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  border: 2px solid var(--primary-color);
+}
+
+.writing-area-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.writing-area-header h3 {
+  color: var(--primary-color);
+  font-size: 1.3rem;
+}
+
+.writing-controls {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.word-count {
+  font-weight: 600;
+  font-size: 1.1rem;
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius-sm);
+  background-color: #f1f5f9;
+}
+
+.word-count.empty {
+  color: var(--text-secondary);
+}
+
+.word-count.below {
+  color: var(--warning-color);
+  background-color: #fef3c7;
+}
+
+.word-count.good {
+  color: var(--success-color);
+  background-color: #d1fae5;
+}
+
+.word-count-hint {
+  font-size: 0.875rem;
+  font-weight: normal;
+  opacity: 0.8;
+}
+
+.last-saved {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+.writing-textarea {
+  width: 100%;
+  min-height: 400px;
+  padding: 1rem;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  border: 2px solid var(--border-color);
+  border-radius: var(--radius-md);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  resize: vertical;
+  transition: border-color 0.2s;
+}
+
+.writing-textarea:focus {
+  outline: none;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1);
+}
+
+.writing-textarea::placeholder {
+  color: var(--text-secondary);
+  opacity: 0.6;
+}
+
+.writing-actions {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+
+.btn-danger {
+  background-color: var(--error-color);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: var(--radius-md);
+  border: none;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-danger:hover {
+  background-color: #dc2626;
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.writing-rubric,
+.writing-example {
+  background-color: var(--surface);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+}
+
+.rubric-toggle,
+.example-toggle {
+  width: 100%;
+  padding: 1rem 1.5rem;
+  background-color: #f8fafc;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--primary-color);
+  cursor: pointer;
+  text-align: left;
+  transition: background-color 0.2s;
+}
+
+.rubric-toggle:hover,
+.example-toggle:hover {
+  background-color: #f1f5f9;
+}
+
+.rubric-content,
+.example-content {
+  padding: 1.5rem;
+  border: 1px solid var(--border-color);
+  border-top: none;
+  border-radius: 0 0 var(--radius-md) var(--radius-md);
+}
+
+.rubric-content h4 {
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.rubric-criteria {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.rubric-item {
+  padding: 1rem;
+  background-color: #f8fafc;
+  border-radius: var(--radius-sm);
+  border-left: 3px solid var(--primary-color);
+}
+
+.rubric-item-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.rubric-item-header strong {
+  color: var(--primary-color);
+  font-size: 1.05rem;
+}
+
+.rubric-points {
+  color: var(--success-color);
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.rubric-item p {
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+.example-warning {
+  background-color: #fef3c7;
+  border: 1px solid #fcd34d;
+  padding: 1rem;
+  border-radius: var(--radius-sm);
+  margin-bottom: 1rem;
+  color: #92400e;
+}
+
+.example-text {
+  line-height: 1.8;
+  white-space: pre-line;
+}
+
+.example-prompt {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--border-color);
+}
+
+.example-response {
+  padding: 1rem;
+  background-color: #f8fafc;
+  border-radius: var(--radius-sm);
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+.writing-completion {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  color: white;
+  padding: 2rem;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+}
+
+.completion-info {
+  margin-bottom: 1.5rem;
+}
+
+.completion-info p {
+  font-size: 1.05rem;
+  margin-bottom: 0.5rem;
+}
+
+.completion-actions {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.completion-actions .btn {
+  flex: 1;
+  min-width: 200px;
+  padding: 1rem 2rem;
+  font-size: 1.1rem;
+  border: 2px solid white;
+}
+
+.completion-actions .btn-secondary {
+  background-color: transparent;
+  color: white;
+}
+
+.completion-actions .btn-secondary:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.completion-actions .btn-primary {
+  background-color: white;
+  color: var(--success-color);
+}
+
+.completion-actions .btn-primary:hover {
+  background-color: #f0fdf4;
+}
+
+.completion-actions .btn-primary:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+/* Responsive Design for Writing Exercises */
+@media (max-width: 768px) {
+  .writing-area-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .writing-controls {
+    width: 100%;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .writing-textarea {
+    min-height: 300px;
+    font-size: 1rem;
+  }
+
+  .completion-actions {
+    flex-direction: column;
+  }
+
+  .completion-actions .btn {
+    width: 100%;
+  }
+
+  .writing-actions {
+    flex-direction: column;
+  }
+
+  .writing-actions .btn {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .writing-prompt {
+    padding: 1.5rem;
+  }
+
+  .writing-prompt h3 {
+    font-size: 1.2rem;
+  }
+
+  .prompt-text {
+    font-size: 1rem;
+  }
+
+  .writing-area {
+    padding: 1rem;
+  }
+
+  .writing-textarea {
+    min-height: 250px;
+    font-size: 0.95rem;
+  }
+}
+
 
 
 
