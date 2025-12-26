@@ -985,17 +985,38 @@ export const courseData = {
           lessons: [
             {
               id: "grammar-1-1",
-              title: "Nouns, Pronouns, and Verbs",
+              title: "Parts of Speech: The Engine of the Sentence",
               type: "lesson",
               content: {
-                introduction: "Understanding parts of speech is fundamental to constructing clear sentences.",
-                explanation: "**Nouns** name people, places, things, or ideas.\n- Common nouns: book, city, teacher\n- Proper nouns: California, Ms. Johnson, Pacific Ocean\n\n**Pronouns** replace nouns to avoid repetition.\n- Personal: I, you, he, she, it, we, they\n- Possessive: my, your, his, her, its, our, their\n\n**Verbs** show action or state of being.\n- Action verbs: run, write, think\n- Linking verbs: is, am, are, was, were, be, being, been",
+                introduction: "Parts of speech are the 'building blocks' of every sentence. Think of them as different types of LEGO pieces—each has a specific job and fits together in particular ways. Understanding these three core parts of speech (nouns, pronouns, and verbs) is fundamental to constructing clear, powerful sentences in Grade 6 and beyond!",
+                explanation: "**🔑 THE THREE CORE PARTS OF SPEECH**\n\nEvery complete sentence needs at least two parts: **WHO/WHAT** (noun/pronoun) and **DOES/IS** (verb). This is the engine that makes English work!\n\n---\n\n**1. NOUNS: Naming Words** 📝\n\n**Definition**: A noun names a person, place, thing, or idea.\n\n**Two Types of Nouns:**\n\n**A. Common Nouns** (general, everyday things)\n- **People**: teacher, student, doctor, athlete\n- **Places**: city, school, park, ocean\n- **Things**: book, computer, backpack, pizza\n- **Ideas**: freedom, happiness, courage, democracy\n\n**How to Recognize**: Common nouns are lowercase unless they start a sentence\n\n**B. Proper Nouns** (specific names - always capitalized!)\n- **People**: Ms. Johnson, Abraham Lincoln, Taylor Swift\n- **Places**: California, San Francisco, Pacific Ocean, Yosemite National Park\n- **Things**: iPhone, Golden Gate Bridge, Statue of Liberty\n- **Ideas/Events**: Fourth of July, Renaissance, World War II\n\n**Grade 6 Rule**: ALL words in a proper noun get capitalized EXCEPT small words like 'of,' 'the,' 'a' (unless they're the first word)\n- Example: United States **of** America, University **of** California\n\n**Concrete vs. Abstract Nouns:**\n- **Concrete**: You can see, touch, hear, taste, or smell them (dog, music, lemon)\n- **Abstract**: Ideas and concepts you can't physically experience (love, justice, intelligence)\n\n---\n\n**2. PRONOUNS: Noun Replacements** 🔄\n\n**Definition**: A pronoun replaces a noun to avoid boring repetition.\n\n**Why We Need Pronouns:**\n\n❌ **Without pronouns**: \"Sarah went to Sarah's locker. Sarah got Sarah's books. Sarah walked to Sarah's class.\"\n\n✅ **With pronouns**: \"Sarah went to **her** locker. **She** got **her** books. **She** walked to **her** class.\"\n\n**Types of Pronouns (Grade 6 Focus):**\n\n**A. Personal Pronouns** (replace people/things)\n- **Singular**: I, you, he, she, it\n- **Plural**: we, you, they\n\n**B. Possessive Pronouns** (show ownership)\n- **Singular**: my, mine, your, yours, his, her, hers, its\n- **Plural**: our, ours, your, yours, their, theirs\n\n**Important Note**: The noun a pronoun replaces is called its **antecedent**\n- Example: \"**Maria** forgot **her** lunch.\" (Maria is the antecedent of 'her')\n\n**Common Error to Avoid:**\n- ❌ \"Its'\" is NEVER correct!\n- ✅ **Its** = possessive (The dog wagged its tail)\n- ✅ **It's** = contraction for 'it is' (It's raining today)\n\n---\n\n**3. VERBS: The Action or State of Being** ⚡\n\n**Definition**: A verb shows what something DOES or what something IS.\n\n**Two Main Types:**\n\n**A. Action Verbs** (show what the subject DOES)\n\n**Physical Actions** (you can see them):\n- run, jump, throw, write, dance, eat, swim, build\n- Example: \"The athlete **jumped** over the hurdle.\"\n\n**Mental Actions** (happen in your mind):\n- think, believe, understand, remember, imagine, wonder, decide\n- Example: \"I **believe** that teamwork matters.\"\n\n**Verbal Actions** (involve speaking/communication):\n- said, shouted, whispered, announced, explained, asked\n- Example: \"The teacher **explained** the assignment.\"\n\n**B. Linking Verbs** (show what the subject IS or SEEMS LIKE)\n\n**Forms of 'to be'** (the most common linking verbs):\n- Present: am, is, are\n- Past: was, were\n- Future: will be\n- Other forms: be, being, been\n\n**Other Linking Verbs** (connect the subject to a description):\n- **Sense verbs**: feel, look, smell, taste, sound\n- **State verbs**: seem, appear, become, remain\n\n**How to Identify a Linking Verb:**\nUse the \"= Test\": Can you replace the verb with an equal sign?\n- \"The soup **tastes** delicious.\" → The soup = delicious ✓ (linking verb)\n- \"I **taste** the soup.\" → I = the soup ✗ (action verb - I'm doing the tasting)\n\n---\n\n**💡 THE NOUN-VERB-NOUN PATTERN (The Foundation of English)**\n\nMost English sentences follow this basic pattern:\n\n**NOUN (or PRONOUN) + VERB + NOUN (or PRONOUN)**\n\n**Examples:**\n1. **Sarah** + **threw** + **the ball**\n   - Subject (who) + Action (does) + Object (what)\n\n2. **The dog** + **is** + **friendly**\n   - Subject (who) + Linking verb (is) + Description (what)\n\n3. **We** + **finished** + **our homework**\n   - Subject (who) + Action (does) + Object (what)\n\n**Understanding this pattern helps you:**\n- Build complete sentences\n- Identify fragments (missing pieces)\n- Understand subject-verb agreement\n\n---\n\n**📊 SUBJECT-VERB AGREEMENT (Critical for Grade 6!)**\n\n**The Rule**: Subjects and verbs must MATCH in number\n\n**Singular subject** → **Singular verb**\n- The student **studies**. (one student, -s on verb)\n- She **is** happy. (singular subject, singular form of 'be')\n\n**Plural subject** → **Plural verb**\n- The students **study**. (multiple students, no -s on verb)\n- They **are** happy. (plural subject, plural form of 'be')\n\n**Tricky Situations:**\n\n**1. Compound Subjects with 'and'** (always plural)\n- Sarah **and** Maria **are** friends. (two people = plural)\n\n**2. Compound Subjects with 'or'** (match the closest subject)\n- Neither the teacher **nor** the students **were** ready. (students is closest and plural)\n- Neither the students **nor** the teacher **was** ready. (teacher is closest and singular)\n\n**3. Words that come between subject and verb**\n- The box of crayons **is** on the table. (box = singular, not crayons)\n- The students in the class **are** taking notes. (students = plural, not class)\n\n**Memory Trick**: Cross out prepositional phrases to find the real subject!\n\n---\n\n**🎯 WHY THIS MATTERS**\n\n**For Writing:**\n- Clear subjects and verbs make your ideas easy to understand\n- Correct agreement shows you're a skilled writer\n- Varied verbs make writing more interesting\n\n**For Reading:**\n- Identifying subjects and verbs helps you understand complex sentences\n- Understanding parts of speech improves comprehension\n\n**For Tests:**\n- Grammar questions often test subject-verb agreement\n- Identifying parts of speech is a common standardized test skill\n\n**For Speaking:**\n- Using correct agreement makes you sound educated and professional\n\n---\n\n**✨ QUICK IDENTIFICATION STRATEGIES**\n\n**To Find the NOUN:**\n- Ask \"What is this sentence about?\"\n- Can you put 'the' or 'a' in front of it?\n- Does it name a person, place, thing, or idea?\n\n**To Find the PRONOUN:**\n- Does it replace a noun?\n- Is it one of the personal or possessive pronouns?\n- Can you identify what noun it's replacing (its antecedent)?\n\n**To Find the VERB:**\n- Ask \"What is the subject doing?\" (action verb)\n- Ask \"What is the subject?\" (linking verb)\n- Can you put 'to' in front of it? (to run, to think, to be)\n- Does it change when you change the time? (walk → walked)",
                 examples: [
                   {
-                    text: "Sarah threw the ball to her friend.",
-                    explanation: "Sarah (proper noun), ball (common noun), her (pronoun), threw (action verb), friend (common noun)"
+                    text: "**Example 1**: 'Sarah threw the ball to her friend at the park.'",
+                    explanation: "**Breakdown**: **Sarah** (proper noun - specific person), **threw** (action verb - past tense), **ball** (common noun - thing), **her** (possessive pronoun - refers to Sarah), **friend** (common noun - person), **park** (common noun - place). **Pattern**: Noun + Verb + Noun structure!"
+                  },
+                  {
+                    text: "**Example 2**: 'The students are excited about their field trip to Yosemite National Park.'",
+                    explanation: "**Breakdown**: **students** (common noun - plural people), **are** (linking verb - form of 'be'), **excited** (adjective describing students), **their** (possessive pronoun - refers to students), **field trip** (common noun - thing/event), **Yosemite National Park** (proper noun - specific place, all words capitalized). **Agreement**: Plural subject 'students' matches plural verb 'are'!"
+                  },
+                  {
+                    text: "**Example 3**: 'My brother and I believe that honesty matters.'",
+                    explanation: "**Breakdown**: **brother** (common noun), **I** (personal pronoun), **believe** (mental action verb - present tense), **honesty** (abstract noun - idea), **matters** (action verb). **Special Notes**: Compound subject 'brother and I' takes plural verb 'believe.' 'Honesty' is an abstract noun (you can't see or touch it, but it's still a noun!)"
+                  },
+                  {
+                    text: "**Example 4 - Agreement Challenge**: 'The box of old photographs **is** in the attic.' (NOT 'are')",
+                    explanation: "**Tricky!** The subject is '**box**' (singular), not 'photographs' (plural). The phrase 'of old photographs' just describes which box. Cross out the prepositional phrase: 'The box ~~of old photographs~~ is in the attic.' Now it's clear that 'box' (singular) needs 'is' (singular)!"
+                  },
+                  {
+                    text: "**Example 5 - Linking vs. Action Verb**: 'The soup tastes delicious.' vs. 'I taste the soup.'",
+                    explanation: "**First sentence**: '**tastes**' is a **linking verb** (soup = delicious, connects subject to description). **Second sentence**: '**taste**' is an **action verb** (I am doing the action of tasting). Same word, different jobs!"
                   }
-                ]
+                ],
+                quickPractice: {
+                  question: "Analyze this sentence and identify each part:\n\n'The excited students and their teacher are planning a science experiment.'\n\nFind: 1) All nouns, 2) All pronouns, 3) The verb, 4) Is subject-verb agreement correct?",
+                  hint: "Remember compound subjects with 'and' are always plural!",
+                  answer: "**Nouns**: students (common, plural), teacher (common, singular), science (common - modifying 'experiment'), experiment (common, singular). **Pronouns**: their (possessive, refers to 'students'). **Verb**: are planning (linking + action combination, plural). **Agreement**: ✓ CORRECT! Compound subject 'students and their teacher' (plural) matches plural verb 'are.' Note: 'excited' is an adjective, not a noun!"
+                }
               }
             },
             {
@@ -1003,31 +1024,87 @@ export const courseData = {
               title: "Practice: Identifying Parts of Speech",
               type: "exercise",
               content: {
-                instructions: "Identify the part of speech for the underlined word in each sentence.",
+                instructions: "Identify the part of speech for the underlined word in each sentence. Remember to think about the word's JOB in the sentence, not just what it looks like!",
                 questions: [
                   {
                     id: "q1",
-                    question: "The quick brown fox jumped over the lazy dog.",
+                    question: "The quick brown fox **jumped** over the lazy dog.",
                     word: "jumped",
                     options: ["noun", "verb", "adjective", "adverb"],
                     correctAnswer: 1,
-                    explanation: "'Jumped' is an action verb showing what the fox did."
+                    explanation: "'**Jumped**' is an **action verb** showing what the fox did. Test: Can you put 'to' in front? 'to jump' - yes! It's a verb."
                   },
                   {
                     id: "q2",
-                    question: "She brought her umbrella to school.",
+                    question: "She brought **her** umbrella to school because of the rain.",
                     word: "her",
                     options: ["noun", "verb", "pronoun", "adjective"],
                     correctAnswer: 2,
-                    explanation: "'Her' is a possessive pronoun showing ownership of the umbrella."
+                    explanation: "'**Her**' is a **possessive pronoun** showing ownership of the umbrella. It replaces a noun (the girl's) and shows whose umbrella it is."
                   },
                   {
                     id: "q3",
-                    question: "The Golden Gate Bridge is a famous landmark.",
+                    question: "The **Golden Gate Bridge** is a famous landmark in San Francisco.",
                     word: "Golden Gate Bridge",
                     options: ["common noun", "proper noun", "verb", "pronoun"],
                     correctAnswer: 1,
-                    explanation: "'Golden Gate Bridge' is a proper noun - it's the specific name of a place."
+                    explanation: "'**Golden Gate Bridge**' is a **proper noun** - it's the specific name of a particular bridge. All words are capitalized because it's a proper noun."
+                  },
+                  {
+                    id: "q4",
+                    question: "My **freedom** to express my ideas is protected by the Constitution.",
+                    word: "freedom",
+                    options: ["proper noun", "common noun", "verb", "pronoun"],
+                    correctAnswer: 1,
+                    explanation: "'**Freedom**' is an **abstract common noun** (an idea you can't touch). It's lowercase because it's not a specific name. Test: Can you put 'the' or 'my' in front? Yes - 'my freedom.'"
+                  },
+                  {
+                    id: "q5",
+                    question: "The students **are** preparing for their final exam.",
+                    word: "are",
+                    options: ["action verb", "linking verb", "pronoun", "noun"],
+                    correctAnswer: 1,
+                    explanation: "'**Are**' is a **linking verb** (form of 'be'). It connects 'students' to what they're doing. Use the = test: 'students = preparing' makes sense!"
+                  },
+                  {
+                    id: "q6",
+                    question: "I **believe** that education is the key to success.",
+                    word: "believe",
+                    options: ["linking verb", "action verb (mental)", "noun", "pronoun"],
+                    correctAnswer: 1,
+                    explanation: "'**Believe**' is a **mental action verb** - it happens in your mind, not your body. Test: Can you put 'to' in front? 'to believe' - yes!"
+                  },
+                  {
+                    id: "q7",
+                    question: "The box of crayons **is** on the table.",
+                    word: "is",
+                    options: ["action verb", "linking verb", "helping verb", "noun"],
+                    correctAnswer: 1,
+                    explanation: "'**Is**' is a **linking verb** (form of 'be'). Linking verbs connect the subject to information about it. Notice: 'box' (singular) needs 'is' (singular), not 'are'!"
+                  },
+                  {
+                    id: "q8",
+                    question: "**Abraham Lincoln** delivered the Gettysburg Address in 1863.",
+                    word: "Abraham Lincoln",
+                    options: ["common noun", "proper noun", "pronoun", "verb"],
+                    correctAnswer: 1,
+                    explanation: "'**Abraham Lincoln**' is a **proper noun** - the specific name of a person. Both words are capitalized."
+                  },
+                  {
+                    id: "q9",
+                    question: "Maria and **they** finished the project early.",
+                    word: "they",
+                    options: ["proper noun", "common noun", "personal pronoun", "possessive pronoun"],
+                    correctAnswer: 2,
+                    explanation: "'**They**' is a **personal pronoun** (plural) that replaces the names of specific people. It's the subject doing the action (finishing)."
+                  },
+                  {
+                    id: "q10",
+                    question: "The soup **tastes** delicious after simmering all day.",
+                    word: "tastes",
+                    options: ["action verb", "linking verb", "noun", "adjective"],
+                    correctAnswer: 1,
+                    explanation: "'**Tastes**' is a **linking verb** here. Use the = test: 'soup = delicious' ✓ The verb connects the subject to a description. (If the sentence was 'I taste the soup,' then 'taste' would be an action verb!)"
                   }
                 ]
               }
@@ -1040,46 +1117,116 @@ export const courseData = {
           lessons: [
             {
               id: "grammar-2-1",
-              title: "Simple and Compound Sentences",
+              title: "Sentence Structure: Building Complete Thoughts",
               type: "lesson",
               content: {
-                introduction: "Sentences can be structured in different ways to express ideas clearly and effectively.",
-                explanation: "**Simple Sentences** contain one independent clause (one subject and one verb).\n- Example: The cat sleeps.\n- Example: Maria and Juan played basketball.\n\n**Compound Sentences** contain two or more independent clauses joined by a coordinating conjunction (FANBOYS: for, and, nor, but, or, yet, so).\n- Example: The cat sleeps, and the dog barks.\n- Example: I wanted to go to the park, but it started raining.\n\n**Key Rule**: Use a comma before the coordinating conjunction in a compound sentence.",
+                introduction: "A sentence is like a building—it needs a solid foundation (subject + verb) to stand. In Grade 6, you'll learn to construct different types of sentences and avoid common errors like fragments and run-ons. Mastering sentence structure is essential for clear, effective writing!",
+                explanation: "**🏗️ WHAT IS A COMPLETE SENTENCE?**\n\nA complete sentence must have TWO things:\n1. **A SUBJECT** (who or what)\n2. **A PREDICATE** (what the subject does or is)\n\n**Example**: **The dog** (subject) **barked loudly** (predicate).\n\n---\n\n**📝 TYPE 1: SIMPLE SENTENCES**\n\n**Definition**: A simple sentence contains ONE independent clause (one complete thought).\n\n**Structure**: Subject + Verb (+ other words)\n\n**Important**: 'Simple' doesn't mean 'short'! A simple sentence can be long, but it has only ONE subject-verb combination expressing ONE complete thought.\n\n**Examples:**\n\n**Short Simple Sentences:**\n- Birds fly.\n- She laughed.\n- The sun sets.\n\n**Longer Simple Sentences:**\n- The excited students cheered loudly for their team.\n- Maria and her brother walked to the library after school.\n- The old oak tree in our backyard provides shade during summer.\n\n**Types of Simple Sentences:**\n\n**1. Simple Subject + Simple Verb**\n- Dogs bark.\n- Rain falls.\n\n**2. Compound Subject (two subjects, one verb)**\n- **Sarah and Maria** went to the movies. (two subjects, one action)\n- **The cat and the dog** played together. (two subjects, one action)\n\n**3. Compound Verb (one subject, two verbs)**\n- The athlete **ran and jumped**. (one subject, two actions)\n- We **studied and reviewed** for the test. (one subject, two actions)\n\n**4. Compound Subject + Compound Verb**\n- **Sarah and I** **walked and talked** on the way home.\n\n**Note**: Even with compound subjects or verbs, if there's only ONE independent clause, it's still a SIMPLE sentence!\n\n---\n\n**🔗 TYPE 2: COMPOUND SENTENCES**\n\n**Definition**: A compound sentence contains TWO or more independent clauses (two complete thoughts) joined together.\n\n**Structure**: Independent Clause + **Comma + FANBOYS** + Independent Clause\n\n**The FANBOYS (Coordinating Conjunctions):**\n\n| Letter | Word | Meaning | Example |\n|--------|------|---------|----------|\n| **F** | For | because (reason) | I stayed home, **for** I was sick. |\n| **A** | And | plus/addition | She studied, **and** she passed. |\n| **N** | Nor | not this or that | He didn't call, **nor** did he text. |\n| **B** | But | however/contrast | I tried, **but** I failed. |\n| **O** | Or | choice/alternative | We can walk, **or** we can drive. |\n| **Y** | Yet | however/despite | It rained, **yet** we had fun. |\n| **S** | So | therefore/result | I was tired, **so** I went to bed. |\n\n**Compound Sentence Formula:**\n\n**Independent Clause , FANBOYS Independent Clause**\n\n**✓ Correct Examples:**\n- The sun was shining, **so** we went to the beach.\n- I wanted pizza, **but** my brother wanted tacos.\n- She could study now, **or** she could study later.\n- The test was difficult, **yet** most students passed.\n\n**Important Rules:**\n\n**Rule 1**: ALWAYS use a COMMA before the FANBOYS conjunction!\n- ❌ Wrong: \"I studied hard and I passed the test.\" (missing comma)\n- ✅ Right: \"I studied hard, and I passed the test.\"\n\n**Rule 2**: BOTH sides must be COMPLETE sentences (independent clauses)!\n- ❌ Wrong: \"The dog barked, and ran away.\" ('ran away' is not a complete sentence)\n- ✅ Right: \"The dog barked, and he ran away.\" (both sides complete)\n\n**Rule 3**: Don't confuse compound sentences with simple sentences that have compound verbs!\n- **Simple (compound verb)**: \"Sarah walked and talked.\" (one subject, two verbs - NO comma needed)\n- **Compound**: \"Sarah walked, and Maria talked.\" (two subjects, two verbs - COMMA needed)\n\n---\n\n**❌ ERROR 1: SENTENCE FRAGMENTS**\n\n**Definition**: A fragment is an INCOMPLETE sentence that's missing a subject, a verb, or doesn't express a complete thought.\n\n**Types of Fragments:**\n\n**1. Missing Subject**\n- ❌ Fragment: \"Ran to the store.\" (Who ran?)\n- ✅ Complete: \"**She** ran to the store.\"\n\n**2. Missing Verb**\n- ❌ Fragment: \"The tall building in the city.\" (What about it?)\n- ✅ Complete: \"The tall building in the city **collapsed**.\"\n\n**3. Dependent Clause Standing Alone**\n- ❌ Fragment: \"Because it was raining.\" (Incomplete thought - what happened?)\n- ✅ Complete: \"**We stayed inside** because it was raining.\"\n- ✅ Complete: \"Because it was raining, **we stayed inside**.\"\n\n**4. Phrase Fragments (missing both subject AND verb)**\n- ❌ Fragment: \"In the morning.\"\n- ✅ Complete: \"**We left** in the morning.\"\n\n**How to Fix Fragments:**\n1. **Add the missing subject or verb**\n2. **Attach the fragment to a nearby complete sentence**\n3. **Rewrite to create a complete thought**\n\n**Fragment Fix Examples:**\n\n**Example 1:**\n- ❌ \"Walking down the street. I saw my friend.\"\n- ✅ \"**While** walking down the street, I saw my friend.\" (attached)\n- ✅ \"**I was** walking down the street. I saw my friend.\" (added subject + verb)\n\n**Example 2:**\n- ❌ \"The book on the table. It belongs to Maria.\"\n- ✅ \"The book on the table belongs to Maria.\" (combined)\n\n---\n\n**❌ ERROR 2: RUN-ON SENTENCES**\n\n**Definition**: A run-on sentence incorrectly joins two or more independent clauses without proper punctuation or conjunctions.\n\n**Two Types of Run-Ons:**\n\n**1. Fused Sentence** (NO punctuation between independent clauses)\n- ❌ Run-on: \"I love reading **I read every day.**\"\n- ✅ Fixed: \"I love reading**. I** read every day.\" (period)\n- ✅ Fixed: \"I love reading**, and I** read every day.\" (comma + FANBOYS)\n- ✅ Fixed: \"I love reading**; I** read every day.\" (semicolon)\n\n**2. Comma Splice** (only a comma between independent clauses, NO conjunction)\n- ❌ Run-on: \"The movie was long**,** it was boring.\"\n- ✅ Fixed: \"The movie was long**. It** was boring.\" (period)\n- ✅ Fixed: \"The movie was long**, and it** was boring.\" (comma + FANBOYS)\n- ✅ Fixed: \"The movie was long**; it** was boring.\" (semicolon)\n\n**How to Fix Run-Ons (4 Methods):**\n\n**Method 1: Split into Two Sentences** (use a period)\n- \"I studied hard**.** I passed the test.\"\n\n**Method 2: Use Comma + FANBOYS**\n- \"I studied hard**, so** I passed the test.\"\n\n**Method 3: Use a Semicolon** (; )\n- \"I studied hard**;** I passed the test.\"\n\n**Method 4: Make One Clause Dependent**\n- \"**Because** I studied hard, I passed the test.\"\n\n---\n\n**🎯 IDENTIFICATION STRATEGIES**\n\n**To Identify a SIMPLE Sentence:**\n- Find the subject and verb\n- Check: Is there only ONE independent clause?\n- Even with compound subjects/verbs, if it's ONE thought, it's simple!\n\n**To Identify a COMPOUND Sentence:**\n- Look for FANBOYS conjunctions\n- Check BOTH sides: Are they BOTH complete sentences?\n- Is there a comma before the FANBOYS?\n\n**To Identify a FRAGMENT:**\n- Read it alone\n- Ask: \"Is this a complete thought?\"\n- Check: Does it have BOTH a subject AND a verb?\n- Ask: \"Am I left hanging, wanting more information?\"\n\n**To Identify a RUN-ON:**\n- Count the independent clauses (complete thoughts)\n- If there are 2+, check the punctuation\n- Is there proper punctuation OR a conjunction between them?\n- Comma alone = comma splice (a type of run-on!)\n\n---\n\n**💡 WHY THIS MATTERS**\n\n**For Writing:**\n- Clear sentences make your ideas easy to understand\n- Varying sentence types makes writing more interesting\n- Avoiding fragments and run-ons shows writing maturity\n\n**For Reading:**\n- Understanding sentence structure improves comprehension\n- Helps you analyze how authors construct complex ideas\n\n**For Tests:**\n- Identifying and correcting sentence errors is a common test question\n- Writing assessments penalize fragments and run-ons\n\n**For Speaking:**\n- Complete sentences make you sound educated and professional\n\n---\n\n**✨ GRADE 6 WRITING TIP**\n\n**Good writers use sentence VARIETY:**\n- Mix simple and compound sentences\n- Start sentences different ways\n- Vary sentence length\n\n**Example of Good Variety:**\n\"The storm approached quickly. Dark clouds covered the sky, and the wind began to howl. Everyone rushed inside. We were safe, but we were worried about the power going out.\"\n\n(Simple → Compound → Simple → Compound = Good variety!)",
                 examples: [
                   {
-                    text: "The sun was shining, so we went to the beach.",
-                    explanation: "Two complete thoughts joined by 'so' with a comma before it."
+                    text: "**Simple Sentence**: 'The excited students and their dedicated teacher prepared carefully for the important science fair.'",
+                    explanation: "This is a **simple sentence** even though it's long! Why? It has ONE subject (students and teacher) and ONE verb (prepared). It's one complete thought. Compound subject + one verb = still simple!"
+                  },
+                  {
+                    text: "**Compound Sentence**: 'The sun was shining brightly, so we decided to go to the beach for the afternoon.'",
+                    explanation: "This is a **compound sentence**: TWO complete thoughts joined by **comma + 'so'** (FANBOYS). Test: 'The sun was shining' = complete ✓ 'We decided to go to the beach' = complete ✓"
+                  },
+                  {
+                    text: "**Fragment → Fixed**: ❌ 'Because it was raining.' ✅ 'We stayed inside because it was raining.'",
+                    explanation: "**Fragment problem**: 'Because it was raining' leaves you hanging—what happened BECAUSE of the rain? **Fixed**: Added an independent clause 'We stayed inside' to complete the thought."
+                  },
+                  {
+                    text: "**Run-On → Fixed**: ❌ 'I love reading, I read every day.' ✅ 'I love reading, and I read every day.'",
+                    explanation: "**Run-on problem**: This is a **comma splice** (comma alone between two complete sentences). **Fixed**: Added FANBOYS conjunction 'and' after the comma. Could also use a period or semicolon."
+                  },
+                  {
+                    text: "**Tricky Example**: 'Maria studied hard and passed the test.' (Simple or Compound?)",
+                    explanation: "This is **SIMPLE**, not compound! Why? 'Passed the test' is NOT a complete sentence by itself (no subject). This is ONE subject (Maria) with TWO verbs (studied, passed). Compound verb ≠ compound sentence. NO comma needed!"
                   }
-                ]
+                ],
+                quickPractice: {
+                  question: "Fix this sentence and identify what's wrong:\n\n'My favorite sport is basketball, I play every weekend at the park.'\n\nWhat type of error is this, and how can you fix it?",
+                  hint: "Look carefully at the punctuation between the two complete thoughts...",
+                  answer: "**Error Type**: **Comma Splice** (a type of run-on). Two independent clauses are joined by only a comma with no conjunction. **Three Ways to Fix**: 1) **Period**: 'My favorite sport is basketball. I play every weekend.' 2) **Comma + FANBOYS**: 'My favorite sport is basketball, and I play every weekend.' 3) **Semicolon**: 'My favorite sport is basketball; I play every weekend.' All three are correct!"
+                }
               }
             },
             {
               id: "grammar-2-2",
-              title: "Practice: Sentence Structure",
+              title: "Practice: Sentence Structure, Fragments, and Run-Ons",
               type: "exercise",
               content: {
-                instructions: "Identify whether each sentence is simple or compound.",
+                instructions: "Identify the sentence type or error. Remember: Simple = one independent clause, Compound = two independent clauses joined properly, Fragment = incomplete, Run-on = improperly joined!",
                 questions: [
                   {
                     id: "q1",
-                    question: "The teacher explained the lesson, and the students took notes.",
-                    options: ["Simple sentence", "Compound sentence"],
+                    question: "The teacher explained the lesson clearly, and the students took detailed notes.",
+                    options: ["Simple sentence", "Compound sentence", "Fragment", "Run-on sentence"],
                     correctAnswer: 1,
-                    explanation: "This is a compound sentence with two independent clauses joined by 'and'."
+                    explanation: "This is a **compound sentence** with two independent clauses: 'The teacher explained the lesson' + 'the students took notes,' joined by **comma + 'and'** (FANBOYS)."
                   },
                   {
                     id: "q2",
-                    question: "My brother and I walked to the store.",
-                    options: ["Simple sentence", "Compound sentence"],
+                    question: "My brother and I walked to the store after dinner.",
+                    options: ["Simple sentence", "Compound sentence", "Fragment", "Run-on sentence"],
                     correctAnswer: 0,
-                    explanation: "This is a simple sentence with a compound subject but only one verb."
+                    explanation: "This is a **simple sentence** with a compound subject ('My brother and I') but only ONE verb ('walked'). Compound subject ≠ compound sentence!"
                   },
                   {
                     id: "q3",
-                    question: "I studied hard for the test, yet I still felt nervous.",
-                    options: ["Simple sentence", "Compound sentence"],
+                    question: "I studied hard for the test, yet I still felt nervous about it.",
+                    options: ["Simple sentence", "Compound sentence", "Fragment", "Run-on sentence"],
                     correctAnswer: 1,
-                    explanation: "This is a compound sentence with two independent clauses joined by 'yet'."
+                    explanation: "This is a **compound sentence** with two complete thoughts joined by **comma + 'yet'** (FANBOYS). Both sides are independent clauses."
+                  },
+                  {
+                    id: "q4",
+                    question: "Because it was raining heavily outside.",
+                    options: ["Simple sentence", "Compound sentence", "Fragment", "Run-on sentence"],
+                    correctAnswer: 2,
+                    explanation: "This is a **fragment**! It starts with 'Because' (makes it dependent) and doesn't have an independent clause. We're left hanging—what happened because it was raining? Incomplete thought!"
+                  },
+                  {
+                    id: "q5",
+                    question: "The movie was long, it was also very boring.",
+                    options: ["Simple sentence", "Compound sentence", "Fragment", "Run-on (comma splice)"],
+                    correctAnswer: 3,
+                    explanation: "This is a **comma splice** (type of run-on)! Two complete sentences joined by only a comma with NO conjunction. Fix: Add period, add FANBOYS after comma, or use semicolon."
+                  },
+                  {
+                    id: "q6",
+                    question: "Sarah ran quickly and jumped over the fence.",
+                    options: ["Simple sentence", "Compound sentence", "Fragment", "Run-on sentence"],
+                    correctAnswer: 0,
+                    explanation: "This is a **simple sentence** with a compound verb ('ran' and 'jumped'). One subject (Sarah), two verbs. NO comma needed before 'and' because this isn't a compound sentence!"
+                  },
+                  {
+                    id: "q7",
+                    question: "I love reading books I read every single day after school.",
+                    options: ["Simple sentence", "Compound sentence", "Fragment", "Run-on (fused sentence)"],
+                    correctAnswer: 3,
+                    explanation: "This is a **fused sentence** (run-on)! Two complete sentences ('I love reading books' + 'I read every day') with NO punctuation between them. Fix: Add period, comma + FANBOYS, or semicolon."
+                  },
+                  {
+                    id: "q8",
+                    question: "The tall building in downtown San Francisco.",
+                    options: ["Simple sentence", "Compound sentence", "Fragment", "Run-on sentence"],
+                    correctAnswer: 2,
+                    explanation: "This is a **fragment**! It has a subject ('building') but NO VERB. What about the building? Incomplete thought. Fix: 'The tall building in downtown San Francisco **collapsed**.'"
+                  },
+                  {
+                    id: "q9",
+                    question: "We could go to the movies, or we could stay home and watch a show.",
+                    options: ["Simple sentence", "Compound sentence", "Fragment", "Run-on sentence"],
+                    correctAnswer: 1,
+                    explanation: "This is a **compound sentence**. Two complete thoughts: 'We could go to the movies' + 'we could stay home,' joined by **comma + 'or'** (FANBOYS). Proper punctuation!"
+                  },
+                  {
+                    id: "q10",
+                    question: "The excited students prepared for the big game.",
+                    options: ["Simple sentence", "Compound sentence", "Fragment", "Run-on sentence"],
+                    correctAnswer: 0,
+                    explanation: "This is a **simple sentence**. ONE subject ('students'), ONE verb ('prepared'), ONE complete thought. Even though it has modifiers ('excited,' 'for the big game'), it's still just one independent clause."
                   }
                 ]
               }
@@ -1118,49 +1265,77 @@ export const courseData = {
               title: "Practice: Pronoun Case",
               type: "exercise",
               content: {
-                instructions: "Choose the correct pronoun for each sentence. Remember to use the 'remove the other person' trick!",
+                instructions: "Choose the correct pronoun for each sentence. Remember to use the 'remove the other person' trick for compound subjects/objects!",
                 questions: [
                   {
                     id: "q1",
-                    question: "_____ and Sarah went to the library to study.",
+                    question: "_____ and Sarah went to the library to study for the exam.",
                     options: ["Me", "I", "Myself", "Mine"],
                     correctAnswer: 1,
-                    explanation: "Use 'I' (subjective case) because the pronoun is the subject doing the action. Test: 'I went' sounds correct, 'Me went' does not."
+                    explanation: "Use '**I**' (subjective case) because the pronoun is the subject doing the action. Test: Remove 'and Sarah' → 'I went' sounds correct, 'Me went' does not."
                   },
                   {
                     id: "q2",
                     question: "The teacher gave the assignment to Carlos and _____.",
                     options: ["I", "me", "myself", "mine"],
                     correctAnswer: 1,
-                    explanation: "Use 'me' (objective case) after the preposition 'to.' Test: Would you say 'to I' or 'to me'? Always 'to me.'"
+                    explanation: "Use '**me**' (objective case) after the preposition 'to.' Test: Remove 'Carlos and' → Would you say 'to I' or 'to me'? Always 'to me.'"
                   },
                   {
                     id: "q3",
-                    question: "Between you and _____, I think this is a bad idea.",
+                    question: "Between you and _____, I think this plan won't work.",
                     options: ["I", "me", "myself", "my"],
                     correctAnswer: 1,
-                    explanation: "Use 'me' (objective case) after the preposition 'between.' This is a very common error!"
+                    explanation: "Use '**me**' (objective case) after the preposition 'between.' This is a VERY common error! Never say 'between you and I'—always 'between you and me.'"
                   },
                   {
                     id: "q4",
-                    question: "My sister and _____ finished our project early.",
+                    question: "My sister and _____ finished our science project early.",
                     options: ["me", "I", "myself", "mine"],
                     correctAnswer: 1,
-                    explanation: "Use 'I' (subjective case) because the pronoun is part of the subject. Test: 'I finished' is correct, 'me finished' is not."
+                    explanation: "Use '**I**' (subjective case) because the pronoun is part of the subject doing the action. Test: Remove 'My sister and' → 'I finished' is correct, 'me finished' is not."
                   },
                   {
                     id: "q5",
-                    question: "The coach asked Mike and _____ to lead warm-ups.",
+                    question: "The coach asked Mike and _____ to lead the team warm-ups.",
                     options: ["I", "me", "myself", "we"],
                     correctAnswer: 1,
-                    explanation: "Use 'me' (objective case) because the pronoun receives the action of being asked. Test: 'asked me' not 'asked I.'"
+                    explanation: "Use '**me**' (objective case) because the pronoun receives the action of being asked. Test: Remove 'Mike and' → 'asked me' not 'asked I.'"
                   },
                   {
                     id: "q6",
-                    question: "That backpack is _____, not yours.",
+                    question: "That colorful backpack on the floor is _____, not yours.",
                     options: ["my", "me", "mine", "I"],
                     correctAnswer: 2,
-                    explanation: "Use 'mine' (possessive pronoun) to show ownership. 'My' would need a noun after it (my backpack)."
+                    explanation: "Use '**mine**' (possessive pronoun) to show ownership standing alone. 'My' would need a noun after it (my backpack), but 'mine' can stand by itself."
+                  },
+                  {
+                    id: "q7",
+                    question: "The principal congratulated both the students and _____ on the successful event.",
+                    options: ["we", "us", "our", "ours"],
+                    correctAnswer: 1,
+                    explanation: "Use '**us**' (objective case) because the pronoun receives the action of being congratulated. Test: Remove 'the students and' → 'congratulated us' not 'congratulated we.'"
+                  },
+                  {
+                    id: "q8",
+                    question: "_____ students completed all the homework assignments on time.",
+                    options: ["Us", "We", "Our", "Ours"],
+                    correctAnswer: 1,
+                    explanation: "Use '**We**' (subjective case) because the pronoun is the subject doing the action (completing). Test: 'We completed' is correct. Note: This isn't 'we students' vs. 'us students'—the pronoun IS the subject here!"
+                  },
+                  {
+                    id: "q9",
+                    question: "The prize for best essay went to David and _____.",
+                    options: ["I", "me", "myself", "my"],
+                    correctAnswer: 1,
+                    explanation: "Use '**me**' (objective case) after the preposition 'to.' Test: Remove 'David and' → 'went to me' not 'went to I.' This is one of the most commonly tested pronoun errors!"
+                  },
+                  {
+                    id: "q10",
+                    question: "_____ and her brother practice piano together every afternoon.",
+                    options: ["Her", "She", "Hers", "Herself"],
+                    correctAnswer: 1,
+                    explanation: "Use '**She**' (subjective case) because the pronoun is part of the compound subject doing the action (practicing). Test: Remove 'and her brother' → 'She practices' is correct, 'Her practices' is not."
                   }
                 ]
               }
@@ -1196,10 +1371,10 @@ export const courseData = {
             },
             {
               id: "grammar-4-2",
-              title: "Practice: Intensive Pronouns and Antecedents",
+              title: "Practice: Intensive Pronouns and Clear Antecedents",
               type: "exercise",
               content: {
-                instructions: "Identify correct intensive pronoun use and fix vague pronoun references.",
+                instructions: "Identify correct intensive pronoun use and fix vague pronoun references. Remember: The Mirror Test—remove the intensive pronoun and the sentence should still work!",
                 questions: [
                   {
                     id: "q1",
@@ -1211,11 +1386,11 @@ export const courseData = {
                       "Me and myself completed it."
                     ],
                     correctAnswer: 1,
-                    explanation: "Correct! 'Myself' adds emphasis that I did it personally. Don't use 'myself' as the subject of a sentence."
+                    explanation: "Correct! '**Myself**' adds emphasis that I did it personally. Never use 'myself' as the subject! Test: Remove 'myself' → 'I completed the project' still works ✓"
                   },
                   {
                     id: "q2",
-                    question: "Identify the vague pronoun: 'Lisa called Maria, and she said she would come over later.'",
+                    question: "Identify the vague pronoun problem: 'Lisa called Maria, and she said she would come over later.'",
                     options: [
                       "No vague pronouns",
                       "Both 'she' pronouns are vague",
@@ -1223,7 +1398,7 @@ export const courseData = {
                       "Only the second 'she' is vague"
                     ],
                     correctAnswer: 1,
-                    explanation: "Both uses of 'she' are vague - we can't tell if Lisa or Maria is coming over, or who said it."
+                    explanation: "**Both** uses of 'she' are vague—we can't tell if Lisa or Maria is coming over, or who said it. Fix: 'Lisa called Maria and said, **\"I'll** come over later.\"'"
                   },
                   {
                     id: "q3",
@@ -1235,23 +1410,23 @@ export const courseData = {
                       "It chased it until it got tired."
                     ],
                     correctAnswer: 1,
-                    explanation: "Replacing 'it' with 'the dog' makes clear who got tired. We don't know if the dog or cat got tired in the original."
+                    explanation: "Replacing 'it' with '**the dog**' makes clear WHO got tired. In the original, we don't know if the dog or cat got tired!"
                   },
                   {
                     id: "q4",
                     question: "Which sentence uses an intensive pronoun correctly?",
                     options: [
-                      "The students themselves organized the event.",
+                      "The students themselves organized the entire event.",
                       "Themselves organized the event.",
                       "The event was organized by themselves.",
                       "Themselves and I organized it."
                     ],
                     correctAnswer: 0,
-                    explanation: "'Themselves' correctly emphasizes that the students (not teachers) organized the event."
+                    explanation: "'**Themselves**' correctly emphasizes that the students (not teachers or parents) organized the event. Test: Remove 'themselves' → still makes sense ✓"
                   },
                   {
                     id: "q5",
-                    question: "Fix the vague pronoun: 'In the news, they said it would rain tomorrow.' What is the problem?",
+                    question: "Fix the vague pronoun: 'In the news, they said it would rain tomorrow.' What is the main problem?",
                     options: [
                       "No problem",
                       "'They' has no clear antecedent",
@@ -1259,7 +1434,57 @@ export const courseData = {
                       "Both pronouns are wrong"
                     ],
                     correctAnswer: 1,
-                    explanation: "Who is 'they'? Better: 'The meteorologist said it would rain tomorrow' or 'The forecast predicts rain tomorrow.'"
+                    explanation: "Who is '**they**'? Better: '**The meteorologist** said it would rain' or '**The forecast** predicts rain.' Always identify WHO 'they' refers to!"
+                  },
+                  {
+                    id: "q6",
+                    question: "The President _____ delivered the important speech to the nation.",
+                    options: ["himself", "hisself", "themselves", "itself"],
+                    correctAnswer: 0,
+                    explanation: "Use '**himself**' (intensive pronoun) to emphasize the President personally delivered it. Note: 'hisself' is NOT a word—always use 'himself'!"
+                  },
+                  {
+                    id: "q7",
+                    question: "Which sentence has a vague pronoun that needs fixing?",
+                    options: [
+                      "Maria told her mom that she needed a break.",
+                      "The teacher herself graded all the tests.",
+                      "I finished my homework before dinner.",
+                      "They went to the movies together."
+                    ],
+                    correctAnswer: 0,
+                    explanation: "'**She**' is vague—who needs a break, Maria or her mom? Fix: 'Maria told her mom, **\"I need a break.\"**' or 'Maria said **she herself** needed a break.'"
+                  },
+                  {
+                    id: "q8",
+                    question: "Which is the correct use of an intensive pronoun?",
+                    options: [
+                      "Myself and Sarah went shopping.",
+                      "Sarah went shopping with myself.",
+                      "Sarah and I ourselves went shopping.",
+                      "Sarah herself went shopping without help."
+                    ],
+                    correctAnswer: 3,
+                    explanation: "'**Herself**' correctly emphasizes Sarah did it alone. Options A & B misuse 'myself' as subject/object. Option C is grammatically correct but awkward—better: 'Sarah and I went shopping ourselves.'"
+                  },
+                  {
+                    id: "q9",
+                    question: "Fix this vague pronoun: 'When I put the book on the shelf, it broke.' What's unclear?",
+                    options: [
+                      "Nothing is unclear",
+                      "Did the book or the shelf break?",
+                      "Who put the book there?",
+                      "When did this happen?"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "'**It**' is vague—did the book or shelf break? Fix: 'When I put the book on the shelf, **the shelf broke**' or '**the book's spine broke**.'"
+                  },
+                  {
+                    id: "q10",
+                    question: "The team members _____ raised all the money for the trip through hard work.",
+                    options: ["theirselves", "themselves", "themself", "theyselves"],
+                    correctAnswer: 1,
+                    explanation: "'**Themselves**' is correct (intensive pronoun emphasizing the team did it). Note: 'theirselves,' 'themself,' and 'theyselves' are NOT words!"
                   }
                 ]
               }
