@@ -1935,6 +1935,506 @@ export const courseData = {
               }
             }
           ]
+        },
+        {
+          id: "writing-3",
+          title: "Chapter 3: Argumentative Writing",
+          lessons: [
+            {
+              id: "writing-3-1",
+              title: "Building Strong Arguments with Evidence",
+              type: "lesson",
+              content: {
+                introduction: "Argumentative writing is different from a simple opinion. In 6th grade, you must support claims with clear reasons and relevant evidence while maintaining a formal tone. This is a key California Grade 6 writing standard.",
+                explanation: "**What is Argumentative Writing?**\n\nArgumentative writing takes a position on an issue and supports it with evidence and reasoning.\n\n**Structure of an Argument:**\n\n**1. Claim (Your Position)**\n- A clear statement of your position\n- Debatable (people can disagree)\n- Specific and focused\n- Example: \"Schools should require students to wear uniforms.\"\n\n**2. Reasons (Why You Believe This)**\n- Logical explanations for your claim\n- Each reason should be distinct\n- Examples:\n  - Reason 1: Uniforms reduce bullying\n  - Reason 2: Uniforms save families money\n  - Reason 3: Uniforms improve focus on learning\n\n**3. Evidence (Proof)**\n- Facts, statistics, examples, expert quotes\n- Must come from credible sources\n- Examples:\n  - \"According to a 2020 study, schools with uniforms saw 25% less bullying.\"\n  - \"Dr. Smith, an education researcher, states that...\"\n\n**4. Counterclaim (The Other Side)**\n- Acknowledge opposing viewpoints\n- Show you've considered other perspectives\n- Then refute (argue against) them\n- Example: \"Some argue uniforms limit self-expression. However...\"\n\n**5. Conclusion**\n- Restate your claim\n- Summarize main reasons\n- End with a call to action or final thought\n\n---\n\n**Formal Tone Requirements:**\n\n✓ **DO:**\n- Use third person (they, students, people)\n- Use formal vocabulary (\"demonstrate\" not \"show\")\n- Cite sources properly\n- Use transition words (Furthermore, Additionally, In conclusion)\n\n✗ **DON'T:**\n- Use first person (I think, I believe, In my opinion)\n- Use informal language (stuff, things, really, very)\n- Make claims without evidence\n- Use emotional manipulation\n\n---\n\n**Argument Structure Template:**\n\n**Introduction:**\n- Hook (interesting fact or question)\n- Background information\n- Clear claim statement\n\n**Body Paragraph 1:** Reason + Evidence\n**Body Paragraph 2:** Reason + Evidence  \n**Body Paragraph 3:** Counterclaim + Refutation\n\n**Conclusion:**\n- Restate claim\n- Summarize reasons\n- Call to action",
+                examples: [
+                  {
+                    text: "Weak Claim: 'I think homework is bad.'\n\nStrong Claim: 'Schools should limit homework to 30 minutes per night because excessive homework reduces family time, increases student stress, and does not improve academic performance.'",
+                    explanation: "The strong claim is specific, debatable, and includes preview of reasons."
+                  },
+                  {
+                    text: "Opinion (Not Argument): 'Recycling is good because it helps the environment.'\n\nArgument: 'Communities should implement mandatory recycling programs. According to the EPA, recycling reduces landfill waste by 30% and conserves natural resources. Furthermore, cities with mandatory recycling save an average of $50,000 annually in waste management costs.'",
+                    explanation: "The argument version includes specific evidence (statistics, sources) and formal tone."
+                  }
+                ]
+              }
+            },
+            {
+              id: "writing-3-2",
+              title: "Practice: Argumentative Writing",
+              type: "exercise",
+              content: {
+                instructions: "Identify strong arguments, evidence, and formal tone in the following scenarios.",
+                questions: [
+                  {
+                    id: "q1",
+                    question: "Which is a strong, debatable CLAIM?",
+                    options: [
+                      "Dogs are animals.",
+                      "I think dogs are cute.",
+                      "Schools should allow therapy dogs to help students manage stress and anxiety.",
+                      "Many people like dogs."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "This is specific, debatable, and takes a clear position. Options A and D are facts, and B is just an opinion without reasoning."
+                  },
+                  {
+                    id: "q2",
+                    question: "Which provides the BEST evidence for the claim 'Students should get more recess time'?",
+                    options: [
+                      "I feel like recess is fun.",
+                      "Everyone knows recess is important.",
+                      "Research from Stanford University shows that students who have 30-minute recess breaks score 10% higher on afternoon tests.",
+                      "Recess is the best part of school."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "This cites a credible source (Stanford University) and provides specific data (10% higher scores). The others are opinions or vague statements."
+                  },
+                  {
+                    id: "q3",
+                    question: "Which sentence uses the MOST formal tone?",
+                    options: [
+                      "I really think this is super important stuff.",
+                      "Implementing this policy would significantly benefit students.",
+                      "This thing is gonna help kids a lot.",
+                      "In my opinion, it's pretty obvious we should do this."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "Uses formal vocabulary ('implementing,' 'significantly benefit'), avoids 'I,' and maintains academic tone."
+                  },
+                  {
+                    id: "q4",
+                    question: "Identify the counterclaim: 'Schools should ban junk food. Some argue this limits student choice. However, student health is more important than snack preferences.'",
+                    options: [
+                      "Schools should ban junk food.",
+                      "Some argue this limits student choice.",
+                      "Student health is more important.",
+                      "Snack preferences."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "The counterclaim acknowledges the opposing viewpoint (limiting choice) before refuting it."
+                  },
+                  {
+                    id: "q5",
+                    question: "Which is an appropriate way to present evidence?",
+                    options: [
+                      "According to Dr. Martinez, a nutrition expert, 'School lunch programs that include fresh vegetables see a 40% increase in student vegetable consumption.'",
+                      "I heard somewhere that school lunches are healthier now.",
+                      "Everyone knows that vegetables are good.",
+                      "My mom says we should eat more vegetables."
+                    ],
+                    correctAnswer: 0,
+                    explanation: "This properly cites a credible source, includes a direct quote, and provides specific data."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          id: "writing-4",
+          title: "Chapter 4: Informative/Explanatory Writing",
+          lessons: [
+            {
+              id: "writing-4-1",
+              title: "Examining Topics and Conveying Information Clearly",
+              type: "lesson",
+              content: {
+                introduction: "Informative/explanatory writing examines a topic and conveys ideas or information clearly. Unlike argumentative writing, the goal is to inform, not persuade. This requires formatting, precise vocabulary, and clear organization.",
+                explanation: "**What is Informative/Explanatory Writing?**\n\nThis writing explains or teaches about a topic without trying to convince the reader of anything.\n\n**Purpose:**\n- Explain how something works\n- Describe what something is\n- Analyze why something happens\n- Compare and contrast topics\n\n---\n\n**Structure of Informative Writing:**\n\n**1. Introduction**\n- Hook: Interesting fact, question, or statement\n- Background: Context about the topic\n- Thesis: Clear statement of what you'll explain\n- Example: \"This essay will examine three major causes of climate change.\"\n\n**2. Body Paragraphs** (Usually 3-5)\n\nEach paragraph should:\n- Start with a topic sentence\n- Include facts, definitions, details, quotations, or examples\n- Use precise vocabulary\n- Connect back to the main topic\n\n**Structure:**\n- Topic Sentence\n- Evidence/Example 1\n- Evidence/Example 2\n- Concluding/transition sentence\n\n**3. Conclusion**\n- Restate the thesis in new words\n- Summarize main points\n- End with a final insight or broader implication\n\n---\n\n**Formatting and Features:**\n\n**Headings and Subheadings:**\nUse these to organize information clearly\n- Example: \"Causes of Climate Change\"\n  - Subheading: \"Fossil Fuel Emissions\"\n  - Subheading: \"Deforestation\"\n\n**Definitions:**\nDefine technical or important terms\n- \"Photosynthesis is the process by which plants convert sunlight into energy.\"\n\n**Examples and Illustrations:**\n- \"For instance, polar bears rely on sea ice for hunting.\"\n- Can include diagrams, charts, or tables\n\n**Precise Vocabulary:**\n- ✓ \"evaporate\" (not \"go away\")\n- ✓ \"accelerate\" (not \"speed up\")\n- ✓ \"habitat\" (not \"place where animals live\")\n\n---\n\n**Informative vs. Argumentative:**\n\n**Informative:**\n- Purpose: Explain/teach\n- Tone: Neutral, objective\n- Evidence: Facts and information\n- Example: \"Climate change causes sea levels to rise.\"\n\n**Argumentative:**\n- Purpose: Persuade\n- Tone: Takes a position\n- Evidence: Used to support claim\n- Example: \"Governments must act immediately to address climate change.\"\n\n---\n\n**Key Features for Success:**\n\n1. **Clear Organization:** Use logical order (chronological, cause-effect, compare-contrast)\n2. **Transition Words:** Connect ideas (Furthermore, In addition, Similarly, In contrast)\n3. **Domain-Specific Vocabulary:** Use precise terms related to the topic\n4. **Objective Tone:** No opinions, just facts\n5. **Multiple Sources:** Include information from various credible sources",
+                examples: [
+                  {
+                    text: "Topic Sentence: 'The water cycle consists of three main stages.'\n\nBody: 'First, evaporation occurs when the sun heats water, causing it to transform from liquid to gas. Next, condensation happens as water vapor cools and forms clouds. Finally, precipitation releases water back to Earth in the form of rain, snow, or hail.'",
+                    explanation: "Uses precise vocabulary (evaporation, condensation, precipitation), clear organization (First, Next, Finally), and objective tone."
+                  },
+                  {
+                    text: "Weak: 'Dolphins are really cool animals that do awesome things.'\n\nStrong: 'Dolphins are highly intelligent marine mammals. They demonstrate problem-solving abilities, use echolocation to navigate, and exhibit complex social behaviors within their pods.'",
+                    explanation: "Strong version uses precise vocabulary (marine mammals, echolocation, pods) and provides specific information instead of vague descriptions."
+                  }
+                ]
+              }
+            },
+            {
+              id: "writing-4-2",
+              title: "Practice: Informative Writing",
+              type: "exercise",
+              content: {
+                instructions: "Identify effective informative writing techniques and distinguish from argumentative writing.",
+                questions: [
+                  {
+                    id: "q1",
+                    question: "Which is an appropriate thesis statement for informative writing?",
+                    options: [
+                      "Everyone should learn about renewable energy because it's important.",
+                      "This essay will explain three types of renewable energy: solar, wind, and hydroelectric power.",
+                      "I think renewable energy is better than fossil fuels.",
+                      "You must support renewable energy initiatives."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "This clearly states what will be explained without taking a position or trying to persuade."
+                  },
+                  {
+                    id: "q2",
+                    question: "Which sentence uses the MOST precise vocabulary for informative writing?",
+                    options: [
+                      "The heart pumps blood around the body.",
+                      "The heart does stuff with blood.",
+                      "The heart moves blood to different places.",
+                      "The heart is really important for your body."
+                    ],
+                    correctAnswer: 0,
+                    explanation: "Uses precise terms (pumps, blood) and is clear and specific. The others are vague or informal."
+                  },
+                  {
+                    id: "q3",
+                    question: "Identify the INFORMATIVE passage (not argumentative):",
+                    options: [
+                      "Schools must extend lunch periods to improve student health.",
+                      "Extended lunch periods would benefit everyone.",
+                      "Lunch periods vary in length across U.S. schools, ranging from 20 to 45 minutes. Research indicates that longer periods allow students more time for socialization and eating.",
+                      "I believe all schools should have 45-minute lunches."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "This informs about lunch period lengths and research findings without taking a position or trying to persuade."
+                  },
+                  {
+                    id: "q4",
+                    question: "Which transition word would BEST show cause and effect in informative writing?",
+                    options: [
+                      "However",
+                      "Similarly",
+                      "Consequently",
+                      "First"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "'Consequently' shows cause and effect (this happened as a result). 'However' shows contrast, 'Similarly' shows comparison, 'First' shows sequence."
+                  },
+                  {
+                    id: "q5",
+                    question: "Which would be the BEST way to organize an essay about the life cycle of a butterfly?",
+                    options: [
+                      "Compare and contrast structure",
+                      "Problem and solution structure",
+                      "Chronological (time order) structure",
+                      "Most important to least important"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "A life cycle happens in stages over time, so chronological order (egg → caterpillar → chrysalis → butterfly) makes sense."
+                  },
+                  {
+                    id: "q6",
+                    question: "Which sentence maintains an OBJECTIVE tone for informative writing?",
+                    options: [
+                      "I think photosynthesis is the coolest process ever!",
+                      "Photosynthesis is obviously the most important biological process.",
+                      "Photosynthesis is the process by which plants convert light energy into chemical energy.",
+                      "Everyone should learn about photosynthesis because it's amazing."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "This presents factual information objectively without opinions, emotions, or attempts to persuade."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          id: "writing-5",
+          title: "Chapter 5: The Writing Process",
+          lessons: [
+            {
+              id: "writing-5-1",
+              title: "Planning, Drafting, Revising, and Editing",
+              type: "lesson",
+              content: {
+                introduction: "In California Grade 6 standards, writing is treated as a process, not a one-time task. Students must demonstrate the ability to plan, draft, revise, and edit their work based on feedback.",
+                explanation: "**THE WRITING PROCESS: 5 Stages**\n\n---\n\n**STAGE 1: PREWRITING (Planning)**\n\nBefore writing, organize your thoughts!\n\n**Strategies:**\n- **Brainstorming**: List all ideas (don't judge them yet)\n- **Graphic Organizers**:\n  - **Web/Cluster**: Main idea in center, details branching out\n  - **Venn Diagram**: For compare/contrast\n  - **Timeline**: For chronological/narrative\n  - **Outline**: Traditional format with Roman numerals\n  - **T-Chart**: Pros/cons, reasons/evidence\n\n**For Argument:** List claim, reasons, evidence, counterclaim\n**For Informative:** List main topic, subtopics, facts for each\n**For Narrative:** Map plot (exposition, rising action, climax, falling action, resolution)\n\n---\n\n**STAGE 2: DRAFTING**\n\nGet your ideas on paper - don't worry about perfection!\n\n**Goal:** Write a complete first draft following your plan\n\n**Tips:**\n- Focus on content, not perfection\n- Follow your outline/organizer\n- Don't stop to fix every error\n- Write in complete paragraphs\n- Leave space for revisions (skip lines or double-space)\n\n**Remember:** First drafts are supposed to be messy!\n\n---\n\n**STAGE 3: REVISING (Big Changes)**\n\nImprove the content and organization\n\n**Focus on:**\n- **Ideas**: Is my main point clear? Do I need more evidence?\n- **Organization**: Does the order make sense? Are paragraphs in logical order?\n- **Word Choice**: Can I use more precise or interesting words?\n- **Sentence Structure**: Can I combine choppy sentences? Break up long ones?\n- **Audience**: Will my reader understand this?\n\n**Revision Strategies:**\n- Add: More details, evidence, examples\n- Delete: Unnecessary information, repetition\n- Move: Rearrange sentences or paragraphs\n- Replace: Weak words with stronger ones\n\n**Peer Review:** Exchange papers and give feedback\n- What works well?\n- What's confusing?\n- What needs more explanation?\n\n---\n\n**STAGE 4: EDITING (Small Fixes)**\n\nCorrect grammar, spelling, and punctuation\n\n**Focus on CUPS:**\n- **C**apitalization (proper nouns, sentence starts)\n- **U**sage (word choice, subject-verb agreement)\n- **P**unctuation (commas, periods, quotation marks)\n- **S**pelling (especially commonly confused words)\n\n**Editing Checklist:**\n✓ Every sentence starts with capital and ends with punctuation\n✓ Proper nouns are capitalized\n✓ Pronouns are in correct case (I vs. me)\n✓ No run-on sentences or fragments\n✓ Spelling is correct\n✓ Commas used correctly\n\n**Tip:** Read your paper aloud - you'll catch errors you missed reading silently!\n\n---\n\n**STAGE 5: PUBLISHING**\n\nCreate a final, polished version\n\n**Technology Integration (Grade 6 Requirement):**\n- Type your final draft using word processing software (Google Docs, Microsoft Word)\n- **Typing Goal**: At least 3 pages in a single sitting\n- Use proper formatting (margins, spacing, font)\n- Include a title\n- Add your name, date, and class\n\n**Collaborative Tools:**\n- Share with teacher/peers for comments\n- Use track changes or suggestion mode\n- Respond to feedback digitally\n\n---\n\n**THE DIFFERENCE: Revising vs. Editing**\n\n**Revising = Big Picture**\n- Content and ideas\n- Organization\n- \"What I say and how I say it\"\n\n**Editing = Details**\n- Grammar and mechanics\n- Spelling\n- \"Correctness\"\n\n**Remember:** Always revise BEFORE editing! Don't waste time fixing grammar in a paragraph you might delete!",
+                examples: [
+                  {
+                    text: "Revision Example:\nDraft: 'The dog ran. It was fast. It caught the ball.'\n\nRevised: 'The golden retriever sprinted across the field and caught the tennis ball mid-air.'",
+                    explanation: "Revision combines choppy sentences, adds specific details (golden retriever, tennis ball), and uses more precise verb (sprinted)."
+                  },
+                  {
+                    text: "Editing Example:\nDraft: 'me and my friend went to the store we bought candy and soda'\n\nEdited: 'My friend and I went to the store. We bought candy and soda.'",
+                    explanation: "Editing fixes pronoun case (me → My friend and I), adds punctuation, and corrects capitalization."
+                  }
+                ]
+              }
+            },
+            {
+              id: "writing-5-2",
+              title: "Practice: The Writing Process",
+              type: "exercise",
+              content: {
+                instructions: "Identify the stages of the writing process and appropriate strategies for each.",
+                questions: [
+                  {
+                    id: "q1",
+                    question: "Which activity is part of the PREWRITING stage?",
+                    options: [
+                      "Typing the final draft",
+                      "Creating a graphic organizer to plan ideas",
+                      "Fixing spelling errors",
+                      "Sharing the finished paper"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "Prewriting involves planning and organizing ideas before writing. Graphic organizers help with this."
+                  },
+                  {
+                    id: "q2",
+                    question: "You notice your paper has three very short, choppy sentences in a row. What stage should you address this in?",
+                    options: [
+                      "Prewriting",
+                      "Drafting",
+                      "Revising (combining sentences for better flow)",
+                      "Editing (fixing grammar)"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "Sentence structure and flow are revised during the revising stage (big changes), not editing (small corrections)."
+                  },
+                  {
+                    id: "q3",
+                    question: "Which is the BEST order for the writing process?",
+                    options: [
+                      "Draft → Prewrite → Edit → Revise → Publish",
+                      "Prewrite → Draft → Edit → Revise → Publish",
+                      "Prewrite → Draft → Revise → Edit → Publish",
+                      "Revise → Draft → Prewrite → Edit → Publish"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "Correct order: Plan first, write draft, make big changes (revise), fix errors (edit), then create final version (publish)."
+                  },
+                  {
+                    id: "q4",
+                    question: "Which is an EDITING task (not revising)?",
+                    options: [
+                      "Adding more evidence to support your claim",
+                      "Moving a paragraph to a better location",
+                      "Replacing 'good' with 'beneficial'",
+                      "Correcting 'there' to 'their'"
+                    ],
+                    correctAnswer: 3,
+                    explanation: "Fixing spelling/grammar (their vs. there) is editing. The others are revising (content and organization changes)."
+                  },
+                  {
+                    id: "q5",
+                    question: "A peer reviewer says: 'I don't understand your second reason. Can you explain it better?' This feedback should be addressed during:",
+                    options: [
+                      "Prewriting",
+                      "Drafting",
+                      "Revising (adding clarity)",
+                      "Editing"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "Clarity and explanation are content issues addressed during revising. The peer is asking for better content, not grammar fixes."
+                  },
+                  {
+                    id: "q6",
+                    question: "Which graphic organizer would be BEST for planning a narrative story?",
+                    options: [
+                      "Venn diagram",
+                      "Plot diagram (exposition, rising action, climax, falling action, resolution)",
+                      "T-chart",
+                      "Web/cluster map"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "A plot diagram specifically organizes the stages of a story, making it perfect for narrative planning."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          id: "writing-6",
+          title: "Chapter 6: Research Skills",
+          lessons: [
+            {
+              id: "writing-6-1",
+              title: "Conducting Research and Evaluating Sources",
+              type: "lesson",
+              content: {
+                introduction: "Grade 6 research skills represent a major step up from 5th grade. Students must conduct short research projects, evaluate source credibility, avoid plagiarism, and provide basic bibliographies.",
+                explanation: "**CONDUCTING SHORT RESEARCH PROJECTS**\n\n**Step 1: Start with a Research Question**\n- Specific and focused (not too broad)\n- ✓ Good: \"How do dolphins communicate?\"\n- ✗ Too broad: \"What are dolphins?\"\n\n**Step 2: Use Multiple Sources**\n- Minimum 3-5 sources\n- Variety of types: books, articles, websites, videos\n- Different perspectives on the topic\n\n**Step 3: Take Notes**\n- Record information in your own words\n- Include source information (author, title, date)\n- Keep track of which facts come from which sources\n\n---\n\n**EVALUATING SOURCE CREDIBILITY**\n\nNot all sources are equally reliable!\n\n**RELIABLE SOURCES:**\n✓ Educational websites (.edu, .gov)\n✓ Library databases (EBSCOhost, Gale)\n✓ Peer-reviewed articles\n✓ Published books from reputable publishers\n✓ Established news organizations\n✓ Expert authors (professors, researchers)\n✓ Recent information (especially for science/tech)\n\n**UNRELIABLE SOURCES:**\n✗ Random personal blogs\n✗ Wikipedia (can be edited by anyone - use it for background only)\n✗ Websites with obvious bias\n✗ Sources with no author listed\n✗ Very old information (for current topics)\n✗ Websites trying to sell something\n\n**The CRAAP Test for Sources:**\n\n**C**urrency: Is it recent? When was it published?\n**R**elevance: Does it answer my question?\n**A**uthority: Who wrote it? Are they an expert?\n**A**ccuracy: Can the facts be verified? Is there evidence?\n**P**urpose: Why was this written? To inform? To sell?\n\n---\n\n**SUMMARIZING VS. PARAPHRASING**\n\nBoth put information in your own words, but differently:\n\n**Summarizing:**\n- Condenses the main ideas\n- Shorter than the original\n- Focuses on key points only\n- Used for: Overall understanding of a text\n\n**Example:**\nOriginal (100 words) → Summary (20 words)\n\"The article discusses climate change...\"\n\n**Paraphrasing:**\n- Restates specific information\n- About the same length as original\n- Changes sentence structure AND words\n- Used for: Including specific information in your writing\n\n**Example:**\nOriginal: \"Dolphins use echolocation to navigate in dark or murky water.\"\nParaphrase: \"In unclear or dark waters, dolphins rely on sound waves to find their way around.\"\n\n**AVOIDING PLAGIARISM:**\n\n❌ Plagiarism = Using someone else's words or ideas without giving credit\n\n**How to Avoid:**\n1. Always cite your sources\n2. Put exact words in quotation marks\n3. Paraphrase in your own words (don't just change a few words!)\n4. Give credit even when paraphrasing\n\n---\n\n**PROVIDING BASIC BIBLIOGRAPHIES**\n\nList all sources at the end of your paper.\n\n**Basic Format (MLA Style for Grade 6):**\n\n**Book:**\nAuthor Last Name, First Name. *Title of Book*. Publisher, Year.\n- Example: Smith, John. *Dolphins of the Pacific*. Ocean Press, 2020.\n\n**Website:**\nAuthor (if available). \"Title of Article.\" *Website Name*, Date, URL.\n- Example: Martinez, Lisa. \"How Dolphins Communicate.\" *Marine Biology Today*, 15 Jan. 2021, www.marinebio.com/dolphins.\n\n**Article:**\nAuthor. \"Article Title.\" *Magazine/Newspaper Name*, Date, pages.\n\n**Tips:**\n- Alphabetical order by author's last name\n- If no author, start with title\n- Use hanging indent (first line regular, rest indented)\n- Double-space the list",
+                examples: [
+                  {
+                    text: "Plagiarism Example:\nOriginal: 'Photosynthesis allows plants to convert sunlight into energy.'\n\n❌ Plagiarism: 'Photosynthesis lets plants turn sunlight into energy.'\n(Just changed a few words)\n\n✓ Proper Paraphrase: 'Through photosynthesis, plants transform light from the sun into usable chemical energy.'",
+                    explanation: "The paraphrase completely restructures the sentence and uses different vocabulary while maintaining the meaning."
+                  },
+                  {
+                    text: "Source Evaluation:\n\nSource A: Article from National Geographic by marine biologist Dr. Susan Chen, published 2022\n\nSource B: Blog post from 'JoesOpinions.com' by anonymous author, no date\n\nSource A is more reliable: established publication, expert author, recent date.",
+                    explanation: "Source A has authority (expert author, reputable publication), currency (recent), and credibility."
+                  }
+                ]
+              }
+            },
+            {
+              id: "writing-6-2",
+              title: "Practice: Research Skills",
+              type: "exercise",
+              content: {
+                instructions: "Evaluate sources, identify plagiarism, and demonstrate research skills.",
+                questions: [
+                  {
+                    id: "q1",
+                    question: "Which source is MOST credible for a research paper on ancient Egypt?",
+                    options: [
+                      "A Wikipedia article with no author listed",
+                      "A book by Dr. Sarah Ahmed, an Egyptologist at Harvard University, published in 2020",
+                      "A personal blog about someone's vacation to Egypt",
+                      "A social media post about pyramids"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "This has authority (expert author), currency (recent), accuracy (from a reputable institution), making it most credible."
+                  },
+                  {
+                    id: "q2",
+                    question: "Original: 'Bees play a crucial role in pollinating crops.' Which is proper paraphrasing?",
+                    options: [
+                      "Bees have a crucial role in pollinating crops.",
+                      "Pollinating crops is a crucial role that bees play.",
+                      "Bees are essential for crop pollination, transferring pollen between plants.",
+                      "Bees play an important role in crop pollination."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "This completely restructures the sentence and uses different words (essential, transferring pollen) while keeping the meaning."
+                  },
+                  {
+                    id: "q3",
+                    question: "Which research question is appropriately focused for a short research project?",
+                    options: [
+                      "What is science?",
+                      "Tell me about animals.",
+                      "How do monarch butterflies navigate during migration?",
+                      "What is everything about space?"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "This is specific and focused (one species, one behavior). The others are too broad for a short project."
+                  },
+                  {
+                    id: "q4",
+                    question: "You find a great article but there's no author name listed. According to the CRAAP test, this affects:",
+                    options: [
+                      "Currency",
+                      "Relevance",
+                      "Authority",
+                      "Purpose"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "Authority relates to who wrote it and their credentials. No author = questionable authority."
+                  },
+                  {
+                    id: "q5",
+                    question: "Which is an example of plagiarism?",
+                    options: [
+                      "Putting a direct quote in quotation marks and citing the source",
+                      "Paraphrasing an idea in your own words and citing the source",
+                      "Copying sentences from a website and changing a few words without citing",
+                      "Summarizing an article's main points in your own words with a citation"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "This is plagiarism - copying without proper citation and without truly paraphrasing (just changing a few words isn't enough)."
+                  },
+                  {
+                    id: "q6",
+                    question: "What is the difference between summarizing and paraphrasing?",
+                    options: [
+                      "There is no difference; they're the same thing.",
+                      "Summarizing is shorter and covers main ideas; paraphrasing restates specific information in detail.",
+                      "Summarizing requires citations; paraphrasing doesn't.",
+                      "Paraphrasing is easier than summarizing."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "Summarizing condenses to main ideas (shorter). Paraphrasing restates specific info in own words (similar length). Both need citations!"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          id: "writing-7",
+          title: "Chapter 7: Transition Words and Organization",
+          lessons: [
+            {
+              id: "writing-7-1",
+              title: "Making Writing Flow with Transitions",
+              type: "lesson",
+              content: {
+                introduction: "To make writing flow smoothly, 6th graders must use transition words to connect ideas. Different transitions serve different purposes - showing contrast, cause/effect, sequence, and more.",
+                explanation: "**WHAT ARE TRANSITION WORDS?**\n\nTransition words are bridges between ideas. They help readers follow your thinking and understand how ideas connect.\n\n**Without transitions:** Ideas feel choppy and disconnected\n**With transitions:** Writing flows smoothly and logically\n\n---\n\n**TYPES OF TRANSITIONS:**\n\n**1. TO SHOW SEQUENCE (Order/Time)**\nUse when showing steps, order, or time\n\n- First, Second, Third\n- Initially, Subsequently, Finally\n- Next, Then, After that\n- Before, During, After\n- Meanwhile, Eventually, Ultimately\n\n**Example:** \"**First**, preheat the oven. **Next**, mix the ingredients. **Finally**, bake for 30 minutes.\"\n\n---\n\n**2. TO SHOW ADDITION (Adding Ideas)**\nUse when adding more information\n\n- Additionally, Furthermore, Moreover\n- Also, In addition, Besides\n- As well as, Along with\n- Another, Similarly\n\n**Example:** \"Exercise improves physical health. **Additionally**, it reduces stress and improves mood.\"\n\n---\n\n**3. TO SHOW CONTRAST (Differences/Opposition)**\nUse when showing differences or opposite ideas\n\n- However, Nevertheless, Nonetheless\n- On the other hand, In contrast, Conversely\n- Although, Though, Even though\n- While, Whereas\n- Despite, In spite of\n- Yet, But, Still\n\n**Example:** \"Many students enjoy homework. **However**, research suggests excessive homework can increase stress.\"\n\n---\n\n**4. TO SHOW CAUSE AND EFFECT (Results)**\nUse when showing why something happened or what resulted\n\n- Therefore, Thus, Hence\n- Consequently, As a result, Accordingly\n- Because, Since, Due to\n- For this reason, As a consequence\n- This leads to, This results in\n\n**Example:** \"The temperature dropped below freezing. **Consequently**, the lake froze completely.\"\n\n---\n\n**5. TO SHOW EXAMPLES**\nUse when providing specific instances\n\n- For example, For instance, Such as\n- Including, Specifically, In particular\n- To illustrate, Namely\n\n**Example:** \"Many animals adapt to cold weather. **For instance**, polar bears have thick fur and layers of fat for insulation.\"\n\n---\n\n**6. TO SHOW COMPARISON (Similarities)**\nUse when showing how things are alike\n\n- Similarly, Likewise, In the same way\n- Just as, Equally, Comparable to\n\n**Example:** \"Dolphins are highly intelligent. **Similarly**, elephants demonstrate complex problem-solving abilities.\"\n\n---\n\n**7. TO EMPHASIZE**\nUse when highlighting importance\n\n- Indeed, In fact, Certainly\n- Undoubtedly, Clearly, Obviously\n- Most importantly, Above all, Especially\n\n**Example:** \"Regular practice improves skills. **In fact**, students who practice daily show 50% more improvement.\"\n\n---\n\n**8. TO CONCLUDE**\nUse when wrapping up\n\n- In conclusion, To sum up, In summary\n- Overall, Ultimately, In brief\n- As a result, Therefore, Thus\n\n**Example:** \"**In conclusion**, renewable energy sources offer significant environmental and economic benefits.\"\n\n---\n\n**PUNCTUATION WITH TRANSITIONS:**\n\n**At the beginning of a sentence:**\n\"**However**, the results were surprising.\" (comma after)\n\n**Between two sentences:**\n\"The experiment failed. **Nevertheless**, we learned valuable lessons.\" (period before, comma after)\n\n**Between two independent clauses:**\n\"The test was difficult**; however,** most students passed.\" (semicolon before, comma after)\n\n**In the middle:**\n\"The project, **in addition**, required extensive research.\" (commas before and after)",
+                examples: [
+                  {
+                    text: "Without Transitions:\n'I woke up late. I missed the bus. I had to walk. I was late to school.'\n\nWith Transitions:\n'I woke up late. **Consequently**, I missed the bus. **As a result**, I had to walk to school. **Ultimately**, I arrived late.'",
+                    explanation: "Transitions show cause and effect, making the connections between events clear and the writing flow better."
+                  },
+                  {
+                    text: "Showing Contrast:\n'Some students prefer online learning. **However**, others find in-person classes more effective. **On the other hand**, hybrid models offer benefits of both approaches.'",
+                    explanation: "Transitions (However, On the other hand) signal that different viewpoints are being presented."
+                  }
+                ]
+              }
+            },
+            {
+              id: "writing-7-2",
+              title: "Practice: Transition Words",
+              type: "exercise",
+              content: {
+                instructions: "Choose the best transition word for each sentence based on the relationship between ideas.",
+                questions: [
+                  {
+                    id: "q1",
+                    question: "The team practiced every day. _____, they won the championship.",
+                    options: ["However", "Consequently", "On the other hand", "Similarly"],
+                    correctAnswer: 1,
+                    explanation: "'Consequently' shows cause and effect - they won BECAUSE they practiced. 'However' would show contrast, which doesn't fit."
+                  },
+                  {
+                    id: "q2",
+                    question: "Smartphones are convenient. _____, they can be distracting in class.",
+                    options: ["Similarly", "Furthermore", "However", "Therefore"],
+                    correctAnswer: 2,
+                    explanation: "'However' shows contrast between the positive (convenient) and negative (distracting) aspects."
+                  },
+                  {
+                    id: "q3",
+                    question: "_____ preheating the oven, mix all the dry ingredients together.",
+                    options: ["Therefore", "However", "Initially", "Despite"],
+                    correctAnswer: 2,
+                    explanation: "'Initially' shows sequence - this is the first step in the process. It indicates the beginning."
+                  },
+                  {
+                    id: "q4",
+                    question: "Dogs require daily exercise. _____, cats also need regular physical activity.",
+                    options: ["However", "Similarly", "Consequently", "Nevertheless"],
+                    correctAnswer: 1,
+                    explanation: "'Similarly' shows comparison - both animals need exercise. This indicates a similarity between dogs and cats."
+                  },
+                  {
+                    id: "q5",
+                    question: "Many animals hibernate during winter. _____, bears sleep for months to conserve energy during food shortages.",
+                    options: ["However", "On the other hand", "For example", "Consequently"],
+                    correctAnswer: 2,
+                    explanation: "'For example' introduces a specific instance (bears) of the general statement (animals hibernate)."
+                  },
+                  {
+                    id: "q6",
+                    question: "The experiment failed twice. _____, the scientists didn't give up and tried a new approach.",
+                    options: ["Therefore", "Consequently", "Nevertheless", "Similarly"],
+                    correctAnswer: 2,
+                    explanation: "'Nevertheless' shows contrast - despite the failures (negative), they persisted (positive). It means 'in spite of that.'"
+                  },
+                  {
+                    id: "q7",
+                    question: "_____, renewable energy sources reduce pollution and decrease dependence on fossil fuels.",
+                    options: ["However", "In conclusion", "For instance", "On the other hand"],
+                    correctAnswer: 1,
+                    explanation: "'In conclusion' signals the end of an argument or essay, summarizing the main benefits."
+                  }
+                ]
+              }
+            }
+          ]
         }
       ]
     }
