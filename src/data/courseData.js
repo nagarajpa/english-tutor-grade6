@@ -1353,6 +1353,461 @@ export const courseData = {
               }
             }
           ]
+        },
+        {
+          id: "reading-3",
+          title: "Chapter 3: Citing Textual Evidence",
+          lessons: [
+            {
+              id: "reading-3-1",
+              title: "The Golden Rule: Prove Your Answers",
+              type: "lesson",
+              content: {
+                introduction: "This is the 'Golden Rule' of 6th-grade reading: You can no longer just give an answer; you must PROVE it with evidence from the text. This is the foundation of all California Grade 6 reading standards.",
+                explanation: "**Three Types of Textual Evidence:**\n\n**1. Explicit Evidence (Direct Quotes)**\nFinding exactly what the text says:\n- The author directly states the information\n- You can point to specific words or sentences\n- Example: \"The author states that 'the ocean covers 71% of Earth's surface.'\"\n\n**2. Inferences (Logical Conclusions)**\nDrawing conclusions based on:\n- Text clues + What you already know = Inference\n- The author suggests but doesn't directly state\n- Example: If a character is shivering and rubbing their hands, you can infer it's cold\n\n**3. Quote Integration (Smooth Citation)**\nLearning to smoothly incorporate quotes into your own sentences:\n\n**Poor Integration:**\n\"The story is about courage. 'He faced his fears.'\" (choppy)\n\n**Good Integration:**\nThe story demonstrates courage when the narrator explains that \"he faced his fears\" despite being terrified.\n\n---\n\n**How to Cite Evidence:**\n\n**Step 1: Make Your Point**\nState your answer or claim clearly.\n\n**Step 2: Introduce the Evidence**\nUse phrases like:\n- According to the text...\n- The author states that...\n- For example, the passage says...\n- As shown in paragraph 3...\n\n**Step 3: Provide the Quote**\nUse quotation marks around exact words.\n\n**Step 4: Explain the Connection**\nShow how the evidence supports your point.\n\n**Example:**\nThe main character shows bravery throughout the story. **According to the text**, when faced with danger, \"she stood her ground and refused to back down.\" **This demonstrates** that she chose courage over fear, even when it would have been easier to run away.",
+                examples: [
+                  {
+                    text: "Question: How does the author feel about recycling?\n\nWeak Answer: The author likes recycling.\n\nStrong Answer: The author strongly supports recycling. According to the text, \"Recycling is one of the most important actions individuals can take to protect the environment.\" This shows the author believes recycling is not just helpful, but essential.",
+                    explanation: "The strong answer makes a claim, provides a direct quote, and explains how the evidence supports the point."
+                  },
+                  {
+                    text: "Using Inference:\n\nPassage: 'Marcus slammed his locker and stormed down the hallway without saying goodbye to anyone.'\n\nInference: We can infer that Marcus is angry or upset. The text clues are 'slammed' and 'stormed,' which are actions associated with anger. Additionally, ignoring friends suggests he's too upset to be social.",
+                    explanation: "This combines text evidence (specific words) with logical reasoning to make an inference."
+                  }
+                ]
+              }
+            },
+            {
+              id: "reading-3-2",
+              title: "Practice: Citing Evidence",
+              type: "exercise",
+              content: {
+                instructions: "Read the passage and answer questions by citing textual evidence.",
+                passage: "The California redwood trees are the tallest living things on Earth, with some reaching heights of over 350 feet. These magnificent giants can live for more than 2,000 years. Redwoods thrive in the foggy coastal regions of Northern California, where the moisture from fog provides nearly 40% of their water needs. Sadly, only 5% of the original old-growth redwood forests remain today due to logging in the 1800s and 1900s. Conservation efforts are now working to protect these remaining ancient forests for future generations.",
+                questions: [
+                  {
+                    id: "q1",
+                    question: "Which quote provides explicit evidence that redwoods are extremely tall?",
+                    options: [
+                      "\"These magnificent giants can live for more than 2,000 years.\"",
+                      "\"...some reaching heights of over 350 feet.\"",
+                      "\"Redwoods thrive in the foggy coastal regions...\"",
+                      "\"Conservation efforts are now working...\""
+                    ],
+                    correctAnswer: 1,
+                    explanation: "This quote directly states their height (350 feet), providing explicit evidence of how tall they are."
+                  },
+                  {
+                    id: "q2",
+                    question: "Based on the passage, what can you INFER about why redwoods grow in foggy regions?",
+                    options: [
+                      "They like cold weather",
+                      "They need the moisture that fog provides",
+                      "Fog protects them from logging",
+                      "Other trees can't grow there"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "The text states fog provides 40% of their water needs, so we can infer they grow there because they need that moisture."
+                  },
+                  {
+                    id: "q3",
+                    question: "Which statement BEST integrates evidence about redwood conservation?",
+                    options: [
+                      "Conservation is important. 'Only 5% remain.'",
+                      "Conservation efforts are protecting redwoods because the passage says so.",
+                      "Due to extensive logging, 'only 5% of the original old-growth redwood forests remain today,' making conservation efforts critical.",
+                      "Redwoods need protection and conservation efforts are working."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "This option smoothly integrates the quote, provides context (logging), and explains why conservation is important."
+                  },
+                  {
+                    id: "q4",
+                    question: "What evidence supports the idea that redwoods are ancient trees?",
+                    options: [
+                      "They are the tallest living things",
+                      "They can live for more than 2,000 years",
+                      "They grow in Northern California",
+                      "Fog provides their water"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "Living for over 2,000 years is explicit evidence that makes them ancient. This directly supports the claim."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          id: "reading-4",
+          title: "Chapter 4: Theme vs. Central Idea",
+          lessons: [
+            {
+              id: "reading-4-1",
+              title: "Theme in Literature vs. Central Idea in Nonfiction",
+              type: "lesson",
+              content: {
+                introduction: "California standards distinguish between 'summary' and 'analysis.' Understanding theme (in literature) and central idea (in nonfiction) is crucial for Grade 6 reading success.",
+                explanation: "**Theme (For Literature/Fiction)**\n\nA theme is the underlying message, lesson, or moral of a story.\n\n**Key Points:**\n- Theme is NOT the topic (friendship, courage, family)\n- Theme is a complete statement about life or human nature\n- One story can have multiple themes\n- Theme is what the author wants you to learn or think about\n\n**How to Find Theme:**\n1. What does the main character learn?\n2. How do they change?\n3. What message is the author sending?\n4. What statement about life does this story make?\n\n**Examples:**\n- ❌ Topic: \"friendship\" (too simple)\n- ✓ Theme: \"True friendship requires sacrifice and loyalty.\"\n\n- ❌ Topic: \"courage\"\n- ✓ Theme: \"Courage means doing what's right even when you're afraid.\"\n\n---\n\n**Central Idea (For Informational/Nonfiction)**\n\nThe central idea is the main point the author is making about the topic.\n\n**Key Points:**\n- What is the author's main point?\n- What do all the details support?\n- Usually found in the introduction or conclusion\n- Supported by facts, examples, and evidence\n\n**How to Find Central Idea:**\n1. What is the topic?\n2. What is the author saying about that topic?\n3. What do most paragraphs discuss?\n4. What point do all the details support?\n\n**Example:**\n- ❌ Topic: \"Recycling\" (too simple)\n- ✓ Central Idea: \"Recycling is essential for reducing waste and protecting the environment for future generations.\"\n\n---\n\n**Objective Summary (Required for Both!)**\n\nAn objective summary recaps the text WITHOUT adding opinions.\n\n**Rules:**\n- ❌ No \"I think\" or \"I feel\"\n- ❌ No personal opinions\n- ✓ Only main points and key details\n- ✓ Keep it brief (3-5 sentences)\n- ✓ Use your own words (don't just copy)\n\n**Summary Structure:**\n1. State the title and author\n2. Identify the main topic/theme/central idea\n3. Include only the most important details\n4. Explain the outcome or conclusion\n\n**Weak Summary:**\n\"This story is really good. I liked when the character won. It was exciting.\"\n\n**Strong Summary:**\n\"In 'The Race,' by Maria Santos, a young runner overcomes self-doubt to compete in a championship. Through dedication and support from her coach, she learns that true victory comes from personal growth, not just winning.\"",
+                examples: [
+                  {
+                    text: "Story: A student struggles with math but refuses to give up. After months of extra practice and asking for help, she finally understands and passes the test.\n\nWeak Theme: 'math' or 'school'\nStrong Theme: 'Persistence and asking for help lead to success.'",
+                    explanation: "The theme is a complete statement about life (persistence pays off), not just the topic (math)."
+                  },
+                  {
+                    text: "Article: Discusses how bees pollinate flowers, how their populations are declining, and why this threatens food supplies.\n\nWeak Central Idea: 'bees'\nStrong Central Idea: 'Declining bee populations threaten our food supply because bees are essential pollinators.'",
+                    explanation: "The central idea states what the author is arguing about bees, not just the topic."
+                  }
+                ]
+              }
+            },
+            {
+              id: "reading-4-2",
+              title: "Practice: Theme and Central Idea",
+              type: "exercise",
+              content: {
+                instructions: "Identify themes, central ideas, and distinguish between objective and subjective statements.",
+                questions: [
+                  {
+                    id: "q1",
+                    question: "Which is a complete THEME statement (not just a topic)?",
+                    options: [
+                      "The story is about honesty.",
+                      "Honesty is important.",
+                      "Honesty, even when difficult, builds trust and strengthens relationships.",
+                      "The character learns about honesty."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "This is a complete theme statement - it expresses a full message about life and human nature, not just the topic."
+                  },
+                  {
+                    id: "q2",
+                    passage: "An article explains that exercising regularly improves heart health, boosts mood, reduces stress, and increases energy levels. The author emphasizes that just 30 minutes a day can make a significant difference.",
+                    question: "What is the CENTRAL IDEA of this article?",
+                    options: [
+                      "Exercise",
+                      "Regular exercise provides numerous health benefits and requires only 30 minutes daily.",
+                      "Exercise is fun.",
+                      "Heart health is important."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "This central idea states the main point about exercise (it's beneficial and manageable), not just the topic."
+                  },
+                  {
+                    id: "q3",
+                    question: "Which is an OBJECTIVE summary statement (no opinions)?",
+                    options: [
+                      "I think this story is really interesting and exciting.",
+                      "The best part was when the character won the race.",
+                      "The protagonist overcomes obstacles to achieve her goal.",
+                      "This story is better than the last one we read."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "This is objective - it states facts about the story without personal opinions or 'I think' statements."
+                  },
+                  {
+                    id: "q4",
+                    passage: "A short story follows a girl who moves to a new school. She feels lonely at first but decides to join the soccer team. By working together with her teammates and supporting each other, she makes lasting friendships.",
+                    question: "What is the THEME of this story?",
+                    options: [
+                      "Soccer",
+                      "Moving to a new school",
+                      "Taking risks and being open to new experiences can lead to meaningful connections.",
+                      "The girl joins a soccer team."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "This theme expresses the life lesson - that taking risks (joining the team) leads to connections (friendships)."
+                  },
+                  {
+                    id: "q5",
+                    question: "Which summary is OBJECTIVE (no opinions)?",
+                    options: [
+                      "The article was boring and too long.",
+                      "I feel like the author made good points about recycling.",
+                      "The author argues that recycling reduces waste and conserves natural resources.",
+                      "This is the most important article I've ever read."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "This states what the author argues without adding personal feelings or opinions."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          id: "reading-5",
+          title: "Chapter 5: Plot Structure and Text Organization",
+          lessons: [
+            {
+              id: "reading-5-1",
+              title: "Understanding How Stories and Texts Are Built",
+              type: "lesson",
+              content: {
+                introduction: "Students must understand how a story or article is 'built.' For fiction, this means understanding plot stages. For nonfiction, it means recognizing text structures.",
+                explanation: "**FICTION: Plot Structure**\n\nEvery story follows a pattern called the plot diagram:\n\n**1. Exposition (Beginning)**\n- Introduces characters, setting, and situation\n- Background information\n- Sets up the story\n- Example: \"Meet the main character in their normal world\"\n\n**2. Rising Action (Conflict Builds)**\n- Problems and challenges arise\n- Tension increases\n- Series of events that complicate the situation\n- Example: \"Character faces obstacles\"\n\n**3. Climax (Turning Point)**\n- The most intense moment\n- The peak of the action\n- Where the main conflict reaches its highest point\n- Usually the most exciting part\n- Example: \"The big showdown or decision\"\n\n**4. Falling Action (After the Climax)**\n- Events after the climax\n- Tension decreases\n- Loose ends start to tie up\n- Example: \"Consequences of the climax\"\n\n**5. Resolution (End)**\n- Conflicts are resolved\n- Story concludes\n- Shows the new normal\n- Example: \"How things turned out\"\n\n---\n\n**NONFICTION: Text Structures**\n\nNonfiction texts are organized in specific ways to present information:\n\n**1. Chronological Order (Time Order)**\n- Events in the order they happened\n- Uses time words: first, next, then, finally, before, after\n- Common in: biographies, history, process explanations\n- Example: \"First, mix the ingredients. Then, bake for 30 minutes.\"\n\n**2. Cause and Effect**\n- Shows why something happened (cause) and what happened as a result (effect)\n- Signal words: because, since, as a result, therefore, consequently, leads to\n- Common in: science, history, social studies\n- Example: \"Because it rained heavily, the game was postponed.\"\n\n**3. Compare and Contrast**\n- Shows similarities and differences\n- Signal words: similarly, however, on the other hand, both, unlike, while, whereas\n- Common in: articles comparing topics\n- Example: \"While both mammals, dolphins live in water whereas dogs live on land.\"\n\n**4. Problem and Solution**\n- Presents a problem and explains how it was or could be solved\n- Signal words: problem, solution, solve, challenge, resolve, address\n- Common in: persuasive texts, proposals\n- Example: \"The problem of littering can be solved through education and more trash cans.\"\n\n**5. Description (Main Idea and Details)**\n- Describes a topic with supporting details\n- Signal words: for example, such as, characteristics, features\n- Common in: encyclopedia entries, informational articles\n- Example: \"Dolphins are intelligent. For example, they can learn tricks and communicate.\"",
+                examples: [
+                  {
+                    text: "Plot Example:\nExposition: Sarah is nervous about her first day at a new school.\nRising Action: She can't find her classes, drops her lunch, and feels invisible.\nClimax: She decides to audition for the school play despite her fears.\nFalling Action: She makes the cast and starts making friends.\nResolution: Sarah realizes taking risks helped her find where she belongs.",
+                    explanation: "This shows all five plot stages in a simple story arc."
+                  },
+                  {
+                    text: "Text Structure Example:\n'Because plastic takes hundreds of years to decompose, it accumulates in oceans. As a result, marine animals often mistake it for food, which leads to injury or death.'\n\nStructure: Cause and Effect (plastic doesn't decompose → accumulates → animals harmed)",
+                    explanation: "The signal words 'because,' 'as a result,' and 'leads to' indicate cause and effect structure."
+                  }
+                ]
+              }
+            },
+            {
+              id: "reading-5-2",
+              title: "Practice: Plot and Text Structure",
+              type: "exercise",
+              content: {
+                instructions: "Identify plot stages and text structures in the following passages.",
+                questions: [
+                  {
+                    id: "q1",
+                    passage: "In a small village, a young inventor named Alex dreamed of creating a flying machine. Everyone said it was impossible.",
+                    question: "Which plot stage is this?",
+                    options: ["Exposition", "Rising Action", "Climax", "Resolution"],
+                    correctAnswer: 0,
+                    explanation: "This is exposition - it introduces the character (Alex), setting (small village), and situation (wants to build a flying machine)."
+                  },
+                  {
+                    id: "q2",
+                    passage: "Alex's machine crashed three times. The village council threatened to ban his experiments. His materials were running out, and time was running short.",
+                    question: "Which plot stage is this?",
+                    options: ["Exposition", "Rising Action", "Climax", "Falling Action"],
+                    correctAnswer: 1,
+                    explanation: "This is rising action - problems are building up (crashes, council opposition, running out of supplies), increasing tension."
+                  },
+                  {
+                    id: "q3",
+                    passage: "Global warming causes ice caps to melt. As a result, sea levels rise, which leads to coastal flooding. Therefore, many island nations face the threat of disappearing underwater.",
+                    question: "What text structure is used here?",
+                    options: ["Chronological Order", "Cause and Effect", "Compare and Contrast", "Problem and Solution"],
+                    correctAnswer: 1,
+                    explanation: "Signal words 'causes,' 'as a result,' 'leads to,' and 'therefore' indicate cause and effect structure."
+                  },
+                  {
+                    id: "q4",
+                    passage: "While both reptiles, snakes and lizards have some key differences. Snakes have no legs and move by slithering, whereas most lizards have four legs. However, both are cold-blooded and lay eggs.",
+                    question: "What text structure is used here?",
+                    options: ["Chronological Order", "Cause and Effect", "Compare and Contrast", "Description"],
+                    correctAnswer: 2,
+                    explanation: "Signal words 'both,' 'differences,' 'whereas,' and 'however' indicate compare and contrast structure."
+                  },
+                  {
+                    id: "q5",
+                    passage: "Standing at the edge of the cliff, Alex pushed the button. The machine sputtered, roared to life, and lifted off the ground. The crowd below gasped as he soared above the village square.",
+                    question: "Which plot stage is this?",
+                    options: ["Exposition", "Rising Action", "Climax", "Resolution"],
+                    correctAnswer: 2,
+                    explanation: "This is the climax - the most intense moment when the machine finally works and Alex achieves flight."
+                  },
+                  {
+                    id: "q6",
+                    passage: "Many schools struggle with food waste. One solution is to implement a share table where students can place unwanted items for others to take. Another approach is to teach students about portion sizes.",
+                    question: "What text structure is used here?",
+                    options: ["Chronological Order", "Cause and Effect", "Compare and Contrast", "Problem and Solution"],
+                    correctAnswer: 3,
+                    explanation: "The passage presents a problem (food waste) and offers solutions (share table, teaching), using problem-solution structure."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          id: "reading-6",
+          title: "Chapter 6: Point of View and Author's Purpose",
+          lessons: [
+            {
+              id: "reading-6-1",
+              title: "Understanding Perspective and Purpose",
+              type: "lesson",
+              content: {
+                introduction: "In 6th grade, focus shifts to understanding HOW the narrator's perspective shapes the story and WHY the author wrote the text. These are critical analytical skills.",
+                explanation: "**POINT OF VIEW (POV) - Who Tells the Story?**\n\n**1. First Person POV**\n- Narrator is a CHARACTER in the story\n- Uses pronouns: I, me, my, we, us, our\n- Readers only know what the narrator knows\n- We see their thoughts and feelings directly\n- Example: \"I walked into the classroom and saw my best friend.\"\n\n**Strengths:** Personal, intimate, emotional connection\n**Limitations:** Can only know one person's thoughts\n\n**2. Third Person Limited POV**\n- Narrator is OUTSIDE the story\n- Uses pronouns: he, she, it, they, them\n- Knows the thoughts and feelings of ONLY ONE character\n- Like a camera following one person\n- Example: \"Sarah walked into the classroom. She felt nervous.\"\n\n**Strengths:** More objective than first person, focuses on one character\n**Limitations:** Can't see into other characters' minds\n\n**3. Third Person Omniscient POV**\n- Narrator is OUTSIDE the story\n- Uses pronouns: he, she, it, they, them\n- Knows EVERYONE'S thoughts and feelings\n- Like an all-knowing observer\n- Can move between characters' perspectives\n- Example: \"Sarah felt nervous as she entered. Across the room, Marcus hoped she would sit next to him.\"\n\n**Strengths:** Can show multiple perspectives, full picture\n**Limitations:** Less intimate, more distant\n\n**Why POV Matters:**\n- POV shapes what information readers receive\n- It affects how we understand characters and events\n- Authors choose POV strategically to control what readers know\n\n---\n\n**AUTHOR'S PURPOSE - Why Did They Write This?**\n\nRemember P.I.E.:\n\n**P = Persuade**\n- Goal: Convince you to believe or do something\n- Techniques: Strong opinions, emotional language, arguments, evidence\n- Common in: Advertisements, opinion articles, speeches, reviews\n- Example: \"You should recycle to save the planet!\"\n- Signal words: should, must, best, important, believe\n\n**I = Inform**\n- Goal: Teach you facts or explain something\n- Techniques: Facts, definitions, explanations, examples\n- Common in: Textbooks, news articles, instructions, encyclopedias\n- Example: \"Recycling reduces waste by reusing materials.\"\n- Signal words: facts, research shows, according to, studies indicate\n\n**E = Entertain**\n- Goal: Engage you, make you enjoy reading\n- Techniques: Humor, suspense, interesting characters, dialogue\n- Common in: Stories, novels, poems, comics\n- Example: A funny story about a dog who thinks he's a cat\n- Signal words: Descriptive language, dialogue, action\n\n**Note:** Some texts have MULTIPLE purposes!\n- A story might entertain AND teach a lesson\n- An article might inform AND persuade\n\n**How POV and Purpose Work Together:**\nAuthors choose POV based on their purpose:\n- First person creates emotional connection (good for persuading)\n- Third person omniscient provides complete information (good for informing)\n- First person makes stories feel personal (good for entertaining)",
+                examples: [
+                  {
+                    text: "First Person: 'I couldn't believe what I was seeing. My heart raced as I opened the mysterious package.'\n\nvs.\n\nThird Person Omniscient: 'Sarah couldn't believe what she was seeing. Upstairs, her brother knew exactly what was in the package and waited nervously for her reaction.'",
+                    explanation: "First person limits us to Sarah's perspective. Omniscient lets us know what both characters think."
+                  },
+                  {
+                    text: "Persuade: 'Schools must ban junk food! Healthy students learn better, and it's our responsibility to make good choices for kids.'\n\nvs.\n\nInform: 'Studies show that students who eat nutritious lunches score 10% higher on afternoon tests than those who eat high-sugar foods.'",
+                    explanation: "Persuasive text uses strong opinions and 'must.' Informative text presents facts and research objectively."
+                  }
+                ]
+              }
+            },
+            {
+              id: "reading-6-2",
+              title: "Practice: POV and Author's Purpose",
+              type: "exercise",
+              content: {
+                instructions: "Identify the point of view and author's purpose in each passage.",
+                questions: [
+                  {
+                    id: "q1",
+                    passage: "I grabbed my backpack and ran out the door. Mom was calling my name, but I was already late for the bus. I couldn't believe I'd overslept again!",
+                    question: "What is the point of view?",
+                    options: ["First Person", "Third Person Limited", "Third Person Omniscient", "Second Person"],
+                    correctAnswer: 0,
+                    explanation: "Uses 'I,' 'my,' and 'me' - the narrator is a character in the story. This is first person POV."
+                  },
+                  {
+                    id: "q2",
+                    passage: "Marcus looked at the test nervously. Across the room, his teacher smiled, confident that her students were well-prepared. Meanwhile, Sarah in the back row felt completely ready.",
+                    question: "What is the point of view?",
+                    options: ["First Person", "Third Person Limited", "Third Person Omniscient", "Second Person"],
+                    correctAnswer: 2,
+                    explanation: "The narrator knows the thoughts of multiple characters (Marcus, teacher, Sarah). This is third person omniscient."
+                  },
+                  {
+                    id: "q3",
+                    passage: "You absolutely must try this new restaurant! The food is incredible, the service is perfect, and the prices can't be beat. Don't miss out - make a reservation today!",
+                    question: "What is the author's primary purpose?",
+                    options: ["To Persuade", "To Inform", "To Entertain", "To Describe"],
+                    correctAnswer: 0,
+                    explanation: "Strong language like 'must,' 'incredible,' 'can't be beat,' and 'don't miss out' show the author is trying to persuade you to visit."
+                  },
+                  {
+                    id: "q4",
+                    passage: "Photosynthesis is the process by which plants convert sunlight into energy. During this process, plants take in carbon dioxide and water, and produce oxygen and glucose. This occurs primarily in the leaves.",
+                    question: "What is the author's primary purpose?",
+                    options: ["To Persuade", "To Inform", "To Entertain", "To Criticize"],
+                    correctAnswer: 1,
+                    explanation: "The passage presents factual information about photosynthesis in an objective way. The purpose is to inform/teach."
+                  },
+                  {
+                    id: "q5",
+                    passage: "Emma walked slowly through the haunted house. She felt her hands trembling. Every creak made her jump. She wondered if coming here was a mistake.",
+                    question: "What is the point of view?",
+                    options: ["First Person", "Third Person Limited", "Third Person Omniscient", "Second Person"],
+                    correctAnswer: 1,
+                    explanation: "Uses 'she' and 'her,' and we only know Emma's thoughts and feelings - no one else's. This is third person limited."
+                  },
+                  {
+                    id: "q6",
+                    passage: "Once upon a time, in a kingdom far away, there lived a dragon who was afraid of heights. This made flying quite difficult, and it led to many hilarious adventures!",
+                    question: "What is the author's primary purpose?",
+                    options: ["To Persuade", "To Inform", "To Entertain", "To Warn"],
+                    correctAnswer: 2,
+                    explanation: "A funny story about a dragon afraid of heights is meant to entertain readers with humor and an amusing premise."
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          id: "reading-7",
+          title: "Chapter 7: Close Reading Strategy",
+          lessons: [
+            {
+              id: "reading-7-1",
+              title: "The Three-Pass Method for Difficult Texts",
+              type: "lesson",
+              content: {
+                introduction: "To master Grade 6 reading standards, use the 'Close Reading' method with three passes through difficult texts. Each read has a different focus, building deeper understanding.",
+                explanation: "**THE CLOSE READING METHOD: Three Passes**\n\nWhen facing a challenging text, don't try to understand everything at once. Read it THREE times, each with a different purpose:\n\n---\n\n**FIRST READ: What is the text saying?**\n\n**Goal:** Understand the basic plot or facts\n\n**Focus on:**\n- Who are the main people/characters?\n- What happens? (or What is this about?)\n- Where and when does it take place?\n- What is the basic sequence of events?\n\n**Strategy:**\n- Read at a normal pace\n- Don't stop for unknown words (yet)\n- Get the big picture first\n- Ask: \"What is this mostly about?\"\n\n**Mark:** Circle names, places, and unfamiliar words\n\n---\n\n**SECOND READ: How does the text work?**\n\n**Goal:** Analyze the author's craft and techniques\n\n**Focus on:**\n- Vocabulary: What do unfamiliar words mean? (Use context clues!)\n- Structure: How is it organized? (Plot stages or text structure)\n- Point of View: Who's telling the story? What perspective?\n- Author's choices: Why did they use this word? This order?\n\n**Strategy:**\n- Read more slowly\n- Look up or figure out unknown words\n- Notice how sentences connect\n- Identify text structure or plot stages\n- Ask: \"How did the author build this?\"\n\n**Mark:** Underline strong words, note structure, identify POV\n\n---\n\n**THIRD READ: What does the text mean?**\n\n**Goal:** Interpret deeper meaning and make connections\n\n**Focus on:**\n- Theme or Central Idea: What's the deeper message?\n- Author's Purpose: Why did they write this?\n- Connections: How does this relate to your life? Other texts? The world?\n- Inference: What is suggested but not directly stated?\n- Evidence: What quotes support your interpretation?\n\n**Strategy:**\n- Read thoughtfully, pausing to think\n- Ask \"why\" questions\n- Make connections beyond the text\n- Form opinions backed by evidence\n- Ask: \"What does this really mean?\"\n\n**Mark:** Highlight key passages, write connections in margins\n\n---\n\n**EXAMPLE: Three Passes in Action**\n\nPassage: \"The old lighthouse stood alone on the cliff, its light extinguished long ago. Emma climbed the crumbling stairs, each step echoing in the empty tower. At the top, she found her grandmother's journal, filled with stories of ships she'd guided safely to shore.\"\n\n**First Read:** Emma goes to an old lighthouse and finds her grandmother's journal.\n\n**Second Read:** \n- Vocabulary: 'extinguished' = put out; 'crumbling' = falling apart\n- Structure: Description → action → discovery\n- POV: Third person limited (Emma's perspective)\n- Word choice: 'alone,' 'empty,' 'old' create lonely atmosphere\n\n**Third Read:**\n- Theme: Connecting with the past through family history\n- Purpose: To evoke feeling of nostalgia and discovery\n- Connection: Like finding old family photos\n- Inference: Grandma was a lighthouse keeper; Emma is discovering her legacy\n- The lighthouse represents the past - once useful, now abandoned but still meaningful",
+                examples: [
+                  {
+                    text: "First Read: Just understand WHO, WHAT, WHERE, WHEN\nSecond Read: Analyze HOW the author tells it\nThird Read: Interpret WHY it matters and what it means",
+                    explanation: "Each read builds on the previous one, creating deeper understanding layer by layer."
+                  },
+                  {
+                    text: "DON'T do this: Try to answer all questions after one quick read\nDO this: Read three times, each with a specific purpose, then answer questions with full understanding",
+                    explanation: "Multiple focused reads lead to better comprehension than one rushed read."
+                  }
+                ]
+              }
+            },
+            {
+              id: "reading-7-2",
+              title: "Practice: Close Reading",
+              type: "exercise",
+              content: {
+                instructions: "Apply the three-pass method to answer questions about this passage at different levels.",
+                passage: "The library was Maria's sanctuary. While other students rushed through the doors eager to escape, she lingered among the shelves, running her fingers along worn spines. Each book held a universe waiting to be discovered. Her friends couldn't understand why she'd rather read than scroll through social media. But Maria knew something they didn't: between these pages, she could be anyone, go anywhere, and learn anything. The library wasn't just a building—it was freedom.",
+                questions: [
+                  {
+                    id: "q1",
+                    question: "FIRST READ: What is this passage basically about?",
+                    options: [
+                      "A school building",
+                      "Maria's love of reading and the library",
+                      "Social media",
+                      "Maria's friends"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "First read focuses on the basic plot/topic: Maria loves the library and reading. This is the 'what' of the text."
+                  },
+                  {
+                    id: "q2",
+                    question: "SECOND READ: What does 'sanctuary' mean in context? (Analyzing vocabulary)",
+                    options: [
+                      "A scary place",
+                      "A church",
+                      "A safe, peaceful refuge",
+                      "A prison"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "Context clues: she 'lingered' there, found it peaceful while others 'rushed to escape.' A sanctuary is a safe haven."
+                  },
+                  {
+                    id: "q3",
+                    question: "SECOND READ: What is the author's word choice doing? (Analyzing craft)",
+                    options: [
+                      "Creating a negative mood",
+                      "Making reading seem boring",
+                      "Creating contrast between Maria and other students",
+                      "Describing the library building"
+                    ],
+                    correctAnswer: 2,
+                    explanation: "Words like 'rushed/escape' vs. 'lingered/sanctuary' create contrast between Maria's view and others' views."
+                  },
+                  {
+                    id: "q4",
+                    question: "THIRD READ: What is the theme of this passage? (Deep meaning)",
+                    options: [
+                      "Libraries have books.",
+                      "Reading is boring.",
+                      "Books and reading provide escape, knowledge, and freedom.",
+                      "Maria doesn't have friends."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "The theme is the deeper message: reading offers freedom and possibilities ('be anyone, go anywhere, learn anything')."
+                  },
+                  {
+                    id: "q5",
+                    question: "THIRD READ: What can you INFER about Maria? (Making connections)",
+                    options: [
+                      "She has no friends.",
+                      "She doesn't like school.",
+                      "She values imagination and learning over superficial entertainment.",
+                      "She wants to be a librarian."
+                    ],
+                    correctAnswer: 2,
+                    explanation: "We can infer from her choices (books over social media, 'learn anything') that she values depth and imagination."
+                  },
+                  {
+                    id: "q6",
+                    question: "THIRD READ: The last sentence says 'it was freedom.' What does this metaphor mean?",
+                    options: [
+                      "The library has no rules.",
+                      "Books allow Maria to escape limitations and explore unlimited possibilities.",
+                      "Maria can leave whenever she wants.",
+                      "The library is outside."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "The metaphor connects to earlier ideas: 'be anyone, go anywhere, learn anything' - books free her from limitations."
+                  }
+                ]
+              }
+            }
+          ]
         }
       ]
     },
