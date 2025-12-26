@@ -1523,7 +1523,7 @@ export const courseData = {
               title: "Practice: Punctuation for Clarity",
               type: "exercise",
               content: {
-                instructions: "Choose the correctly punctuated sentence or identify whether commas are needed.",
+                instructions: "Choose the correctly punctuated sentence or identify whether commas are needed. Remember the And/Reverse Test for coordinate adjectives!",
                 questions: [
                   {
                     id: "q1",
@@ -1535,7 +1535,7 @@ export const courseData = {
                       "The principal Mr. Smith, gave a speech."
                     ],
                     correctAnswer: 2,
-                    explanation: "The appositive 'Mr. Smith' renames the principal and should be set off with commas on both sides."
+                    explanation: "The appositive '**Mr. Smith**' renames 'the principal' and must be set off with commas on **both sides**. Test: Remove 'Mr. Smith' → sentence still works!"
                   },
                   {
                     id: "q2",
@@ -1547,7 +1547,7 @@ export const courseData = {
                       "Use a dash instead"
                     ],
                     correctAnswer: 0,
-                    explanation: "Yes! Test: 'long and exhausting journey' ✓ | 'exhausting, long journey' ✓. Both work, so use a comma."
+                    explanation: "**Yes!** And Test: 'long **and** exhausting' ✓ | Reverse Test: 'exhausting, long' ✓. Both work, so they're coordinate. Correct: 'It was a long**,** exhausting journey.'"
                   },
                   {
                     id: "q3",
@@ -1559,7 +1559,7 @@ export const courseData = {
                       "The movie which, won five awards, was amazing."
                     ],
                     correctAnswer: 2,
-                    explanation: "The clause 'which won five awards' is non-essential information and should be set off with commas on both sides."
+                    explanation: "The clause '**which won five awards**' is non-essential (parenthetical) and must have commas on **both sides**. Test: Remove it → 'The movie was amazing' still works!"
                   },
                   {
                     id: "q4",
@@ -1571,7 +1571,7 @@ export const courseData = {
                       "Use dashes instead"
                     ],
                     correctAnswer: 1,
-                    explanation: "No comma. Test: 'beautiful and silver bracelet' sounds awkward. 'Beautiful' modifies 'silver bracelet' as a unit."
+                    explanation: "**No comma needed.** And Test: 'beautiful **and** silver' sounds awkward ✗ | 'Beautiful' describes 'silver bracelet' as a **unit**, not silver by itself. Not coordinate!"
                   },
                   {
                     id: "q5",
@@ -1583,7 +1583,7 @@ export const courseData = {
                       "No punctuation needed"
                     ],
                     correctAnswer: 2,
-                    explanation: "Dashes create the most emphasis. All three could work, but dashes highlight that your best friend won!"
+                    explanation: "**Dashes** create the most emphasis and excitement! All three *could* work, but dashes dramatically highlight that YOUR BEST FRIEND won!"
                   },
                   {
                     id: "q6",
@@ -1595,7 +1595,55 @@ export const courseData = {
                       "It was a bright sunny day."
                     ],
                     correctAnswer: 0,
-                    explanation: "Correct! Test: 'bright and sunny day' ✓ | 'sunny, bright day' ✓. They're coordinate, so comma goes between them."
+                    explanation: "Correct! And Test: 'bright **and** sunny day' ✓ | Reverse Test: 'sunny, bright day' ✓. They're coordinate, so comma goes **between** them."
+                  },
+                  {
+                    id: "q7",
+                    question: "Which sentence correctly punctuates the parenthetical element?",
+                    options: [
+                      "My sister who lives in New York visits often.",
+                      "My sister, who lives in New York, visits often.",
+                      "My sister who, lives in New York visits often.",
+                      "My sister, who lives in New York visits often."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "'**Who lives in New York**' is extra information (parenthetical). Commas on **both sides**! Test: 'My sister visits often' → still makes sense without the extra info."
+                  },
+                  {
+                    id: "q8",
+                    question: "Do these adjectives need a comma? 'The old stone bridge collapsed.'",
+                    options: [
+                      "Yes - coordinate adjectives need a comma",
+                      "No - these are not coordinate adjectives",
+                      "Use a dash instead",
+                      "Use parentheses instead"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**No comma.** And Test: 'old **and** stone bridge' sounds wrong ✗ | 'Old' modifies 'stone bridge' as a unit. Not coordinate! 'Stone' is part of what makes it a bridge."
+                  },
+                  {
+                    id: "q9",
+                    question: "Which punctuation mark should be used? 'My favorite book ___ the one with the blue cover ___ is missing.'",
+                    options: [
+                      "Commas on both sides",
+                      "Parentheses on both sides",
+                      "Dashes on both sides",
+                      "All three could work depending on emphasis"
+                    ],
+                    correctAnswer: 3,
+                    explanation: "**All three work!** Commas (neutral), Parentheses (extra aside), or Dashes (emphasis). Choose based on how much attention you want to draw to 'the one with the blue cover.'"
+                  },
+                  {
+                    id: "q10",
+                    question: "Do these adjectives need a comma? 'She wore a warm fuzzy sweater.'",
+                    options: [
+                      "Yes - they are coordinate adjectives",
+                      "No - they are not coordinate adjectives",
+                      "Sometimes yes, sometimes no",
+                      "Use a semicolon"
+                    ],
+                    correctAnswer: 0,
+                    explanation: "**Yes!** And Test: 'warm **and** fuzzy sweater' ✓ (common phrase!) | Reverse Test: 'fuzzy, warm sweater' ✓. Both work, so they're coordinate. Correct: 'warm**,** fuzzy sweater.'"
                   }
                 ]
               }
@@ -1691,7 +1739,45 @@ export const courseData = {
                       "The sun set, the temperature dropped."
                     ],
                     correctAnswer: 1,
-                    explanation: "Adding 'When' creates a dependent clause, making it a complex sentence. Option A is compound."
+                    explanation: "Adding '**When**' creates a dependent clause, making it a complex sentence. Option A is compound (two independent clauses)."
+                  },
+                  {
+                    id: "q7",
+                    question: "What type of sentence is this? 'Although she was tired, Maria finished her homework.'",
+                    options: ["Simple", "Compound", "Complex", "Fragment"],
+                    correctAnswer: 2,
+                    explanation: "This is **complex**. Dependent clause '**Although** she was tired' + independent clause 'Maria finished her homework.' 'Although' is an AAAWWUBBIS word!"
+                  },
+                  {
+                    id: "q8",
+                    question: "Which sentence combines these correctly as a complex sentence? 'The movie started. We arrived.'",
+                    options: [
+                      "The movie started, and we arrived.",
+                      "Before we arrived, the movie started.",
+                      "The movie started; we arrived.",
+                      "The movie started we arrived."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "'**Before** we arrived' creates a dependent clause (AAAWWUBBIS!), making it complex. Option A is compound, Option C uses a semicolon (compound), Option D is a run-on."
+                  },
+                  {
+                    id: "q9",
+                    question: "What type of sentence is this? 'The students studied hard, yet some still failed the test.'",
+                    options: ["Simple", "Compound", "Complex", "Run-on"],
+                    correctAnswer: 1,
+                    explanation: "This is **compound**. Two independent clauses: 'The students studied hard' + 'some still failed the test,' joined by comma + '**yet**' (FANBOYS)."
+                  },
+                  {
+                    id: "q10",
+                    question: "Which sentence needs a comma? Select the correctly punctuated version.",
+                    options: [
+                      "After the game ended we went home.",
+                      "After the game ended, we went home.",
+                      "After, the game ended we went home.",
+                      "After the game, ended we went home."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "When a dependent clause (starting with **After**, an AAAWWUBBIS word) comes FIRST, put a comma after it! '**After the game ended,** we went home.'"
                   }
                 ]
               }
@@ -1802,7 +1888,55 @@ export const courseData = {
                       "My keys looking under the couch I found."
                     ],
                     correctAnswer: 1,
-                    explanation: "Correct! 'Looking under the couch' clearly modifies 'I' and is properly placed at the beginning."
+                    explanation: "Correct! '**Looking under the couch**' clearly modifies 'I' and is properly placed at the beginning of the sentence."
+                  },
+                  {
+                    id: "q7",
+                    question: "Which sentence avoids a pronoun shift?",
+                    options: [
+                      "If one wants success, you must work hard.",
+                      "If one wants success, one must work hard.",
+                      "If one wants success, they must work hard.",
+                      "If one wants success, we must work hard."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "Correct! Stays consistent with '**one**' throughout. Don't mix 'one' with 'you,' 'they,' or 'we.'"
+                  },
+                  {
+                    id: "q8",
+                    question: "Which sentence fixes the misplaced modifier? 'Running late, the bus had already left.'",
+                    options: [
+                      "The bus running late had already left.",
+                      "Running late, I missed the bus.",
+                      "The bus had already left running late.",
+                      "Already left the bus running late."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**I** was running late, not the bus! The modifier 'Running late' should be next to who was late. Fixed: '**Running late, I** missed the bus.'"
+                  },
+                  {
+                    id: "q9",
+                    question: "Identify the error: 'When we practice daily, you will see improvement.'",
+                    options: [
+                      "No error",
+                      "Pronoun shift from 'we' (first person plural) to 'you' (second person)",
+                      "Misplaced modifier",
+                      "Missing comma"
+                    ],
+                    correctAnswer: 1,
+                    explanation: "**Pronoun shift!** Shifts from '**we**' (first person) to '**you**' (second person). Fix: 'When we practice daily, **we** will see improvement.'"
+                  },
+                  {
+                    id: "q10",
+                    question: "Which sentence has NO misplaced modifier?",
+                    options: [
+                      "Covered in mud, I hosed off the dog.",
+                      "I hosed off the dog covered in mud.",
+                      "The dog I hosed off covered in mud.",
+                      "Covered in mud hosed off the dog I."
+                    ],
+                    correctAnswer: 1,
+                    explanation: "Correct! '**The dog**' was covered in mud, and 'covered in mud' is placed right next to 'dog.' Option A makes it sound like **I** was covered in mud!"
                   }
                 ]
               }
