@@ -25,7 +25,7 @@ function App() {
   }
 
   return (
-    <Router>
+    <Router basename="/english-tutor-grade6">
       <div className="app">
         <Header courseTitle={courseData.courseTitle} />
         <main className="main-content">
