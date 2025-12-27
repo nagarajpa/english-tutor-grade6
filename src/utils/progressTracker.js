@@ -58,6 +58,19 @@ export const progressTracker = {
     return progress.exerciseScores[exerciseId] || null;
   },
 
+  // Clear exercise score (for retrying)
+  clearExerciseScore(exerciseId) {
+    const progress = this.getProgress() || this.initProgress();
+    if (progress.exerciseScores[exerciseId]) {
+      delete progress.exerciseScores[exerciseId];
+      // Also remove from completed lessons to allow retaking
+      progress.completedLessons = progress.completedLessons.filter(
+        id => id !== exerciseId
+      );
+      localStorage.setItem(PROGRESS_KEY, JSON.stringify(progress));
+    }
+  },
+
   // Set current lesson
   setCurrentLesson(lessonId) {
     const progress = this.getProgress() || this.initProgress();

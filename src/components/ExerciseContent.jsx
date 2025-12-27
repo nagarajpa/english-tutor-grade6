@@ -48,10 +48,17 @@ function ExerciseContent({ lessonId, content, onComplete, refreshProgress }) {
   };
 
   const handleRetry = () => {
+    // Clear saved progress for this exercise
+    progressTracker.clearExerciseScore(lessonId);
+    
+    // Reset local state
     setSelectedAnswers({});
     setShowResults(false);
     setScore(0);
     setCurrentQuestion(0);
+    
+    // Refresh progress in parent component
+    refreshProgress();
   };
 
   const isAnswered = (questionId) => {
