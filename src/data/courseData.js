@@ -3727,83 +3727,62 @@ export const courseData = {
             },
             {
               id: "writing-5-2",
-              title: "Practice: The Writing Process",
-              type: "exercise",
+              title: "Revision Assignment: A.R.M.S. Strategy Practice",
+              type: "writing_exercise",
               content: {
-                instructions: "Identify the stages of the writing process and appropriate strategies for each.",
-                questions: [
-                  {
-                    id: "q1",
-                    question: "Which activity is part of the PREWRITING stage?",
-                    options: [
-                      "Typing the final draft",
-                      "Creating a graphic organizer to plan ideas",
-                      "Fixing spelling errors",
-                      "Sharing the finished paper"
-                    ],
-                    correctAnswer: 1,
-                    explanation: "Prewriting involves planning and organizing ideas before writing. Graphic organizers help with this."
-                  },
-                  {
-                    id: "q2",
-                    question: "You notice your paper has three very short, choppy sentences in a row. What stage should you address this in?",
-                    options: [
-                      "Prewriting",
-                      "Drafting",
-                      "Revising (combining sentences for better flow)",
-                      "Editing (fixing grammar)"
-                    ],
-                    correctAnswer: 2,
-                    explanation: "Sentence structure and flow are revised during the revising stage (big changes), not editing (small corrections)."
-                  },
-                  {
-                    id: "q3",
-                    question: "Which is the BEST order for the writing process?",
-                    options: [
-                      "Draft → Prewrite → Edit → Revise → Publish",
-                      "Prewrite → Draft → Edit → Revise → Publish",
-                      "Prewrite → Draft → Revise → Edit → Publish",
-                      "Revise → Draft → Prewrite → Edit → Publish"
-                    ],
-                    correctAnswer: 2,
-                    explanation: "Correct order: Plan first, write draft, make big changes (revise), fix errors (edit), then create final version (publish)."
-                  },
-                  {
-                    id: "q4",
-                    question: "Which is an EDITING task (not revising)?",
-                    options: [
-                      "Adding more evidence to support your claim",
-                      "Moving a paragraph to a better location",
-                      "Replacing 'good' with 'beneficial'",
-                      "Correcting 'there' to 'their'"
-                    ],
-                    correctAnswer: 3,
-                    explanation: "Fixing spelling/grammar (their vs. there) is editing. The others are revising (content and organization changes)."
-                  },
-                  {
-                    id: "q5",
-                    question: "A peer reviewer says: 'I don't understand your second reason. Can you explain it better?' This feedback should be addressed during:",
-                    options: [
-                      "Prewriting",
-                      "Drafting",
-                      "Revising (adding clarity)",
-                      "Editing"
-                    ],
-                    correctAnswer: 2,
-                    explanation: "Clarity and explanation are content issues addressed during revising. The peer is asking for better content, not grammar fixes."
-                  },
-                  {
-                    id: "q6",
-                    question: "Which graphic organizer would be BEST for planning a narrative story?",
-                    options: [
-                      "Venn diagram",
-                      "Plot diagram (exposition, rising action, climax, falling action, resolution)",
-                      "T-chart",
-                      "Web/cluster map"
-                    ],
-                    correctAnswer: 1,
-                    explanation: "A plot diagram specifically organizes the stages of a story, making it perfect for narrative planning."
-                  }
+                assignmentType: "revision",
+                prompt: "**✏️ REVISION ASSIGNMENT: The A.R.M.S. Strategy**\n\n**Your Task:**\nYou'll revise a weak paragraph using the **A.R.M.S.** strategy (Add, Remove, Move, Substitute). Submit BOTH versions: the original \"Before\" paragraph AND your revised \"After\" paragraph.\n\n**The Weak \"Before\" Paragraph:**\n\n\"Dogs make good pets. They are nice. Dogs can do tricks. You can teach them to sit and roll over. My dog is really cool. A lot of people have dogs. Dogs need food and water. They also need to go outside. Dogs are fun to play with.\"\n\n**Your Assignment:**\n1. **Copy the \"Before\" paragraph exactly as written** (so we can see what you started with)\n2. **Apply A.R.M.S. to create an \"After\" paragraph:**\n   - **A**dd specific details, examples, better evidence\n   - **R**emove repetition, unnecessary sentences, weak words\n   - **M**ove sentences to improve logical flow\n   - **S**ubstitute weak words with stronger vocabulary\n\n**Requirements:**\n✅ Submit BOTH \"Before\" (original) and \"After\" (revised) versions\n✅ Use at least **3 of the 4 A.R.M.S. strategies**\n✅ Improve word choice (replace \"good,\" \"nice,\" \"really,\" \"a lot,\" \"fun\")\n✅ Combine choppy sentences for better flow\n✅ Add specific details or examples\n✅ \"After\" paragraph should be 80-120 words",
+                instructions: "**STEP-BY-STEP GUIDE TO A.R.M.S.:**\n\n**🅰️ ADD (Add Details, Examples, Evidence)**\n\nLook for vague statements and add specifics:\n\n❌ Vague: \"Dogs make good pets.\"\n✅ Specific: \"Dogs make excellent companions for families because they provide loyalty, protection, and emotional support.\"\n\n❌ Vague: \"Dogs can do tricks.\"\n✅ Specific: \"Dogs can be trained to perform commands such as sit, stay, fetch, and roll over.\"\n\n**What to ADD:**\n- Specific examples instead of generic statements\n- Descriptive details (what kind? how? why?)\n- Evidence or reasons to support claims\n\n---\n\n**🆁 REMOVE (Delete Unnecessary/Repetitive Content)**\n\nCut out:\n- Repetition (saying the same thing twice)\n- Irrelevant information that doesn't support the main idea\n- Obvious statements that don't add value\n\n**In the \"Before\" paragraph:**\n- \"They are nice\" → Too vague, doesn't add information\n- \"My dog is really cool\" → Personal opinion, off-topic if writing informatively\n- \"A lot of people have dogs\" → Irrelevant to why dogs are good pets\n\n---\n\n**Ⓜ️ MOVE (Rearrange for Better Flow)**\n\nGroup related ideas together:\n\n**Before (random order):**\n1. Dogs make good pets\n2. They are nice\n3. Dogs can do tricks\n4. You can teach them\n5. Dogs need food and water\n6. They need to go outside\n7. Dogs are fun\n\n**After (logical groups):**\n1. **Introduction:** What makes dogs good pets (traits)\n2. **Abilities:** What dogs can do (training, tricks)\n3. **Care requirements:** What dogs need\n4. **Conclusion:** Summary or final thought\n\n---\n\n**🆂 SUBSTITUTE (Replace Weak Words with Strong Vocabulary)**\n\n**Replace these weak words:**\n\n❌ \"good\" → ✅ excellent, ideal, loyal, devoted, reliable\n❌ \"nice\" → ✅ friendly, affectionate, gentle, companionable\n❌ \"really\" → ✅ DELETE or use: extremely, particularly, remarkably\n❌ \"a lot\" → ✅ many, numerous, countless\n❌ \"fun\" → ✅ entertaining, engaging, enjoyable\n❌ \"cool\" → ✅ fascinating, impressive, remarkable\n\n**Also improve verbs:**\n❌ \"make\" → ✅ provide, serve as, offer\n❌ \"do tricks\" → ✅ perform commands, execute tasks\n\n---\n\n**📝 REVISION PROCESS:**\n\n**STEP 1:** Copy the \"Before\" paragraph exactly\nType: **\"BEFORE:\"** then paste the original weak paragraph\n\n**STEP 2:** Start your revision by typing **\"AFTER:\"**\n\n**STEP 3:** Apply A.R.M.S.\n- **ADD:** Specific details about dog traits, training examples, care details\n- **REMOVE:** \"nice,\" \"cool,\" \"a lot of people have dogs,\" \"my dog\"\n- **MOVE:** Group training info together, care requirements together\n- **SUBSTITUTE:** Replace all weak words listed above\n\n**STEP 4:** Combine choppy sentences\n❌ \"Dogs can do tricks. You can teach them to sit and roll over.\"\n✅ \"Dogs can be trained to perform various commands, including sit, stay, and roll over.\"\n\n**STEP 5:** Ensure logical flow\nUse transitions: Additionally, Furthermore, For example, Because of this\n\n---\n\n**📋 FORMAT YOUR SUBMISSION:**\n\n**BEFORE:**\n[Paste the original weak paragraph here exactly as written]\n\n**AFTER:**\n[Your revised paragraph using A.R.M.S. strategy]\n\n**CHANGES I MADE:**\n- **Added:** [List what you added]\n- **Removed:** [List what you deleted]\n- **Moved:** [Describe any rearrangement]\n- **Substituted:** [List weak words you replaced]",
+                rubric: {
+                  title: "Grading Rubric (Total: 25 points)",
+                  criteria: [
+                    {
+                      name: "Includes Both Versions",
+                      points: 3,
+                      description: "Submission includes both the original \"Before\" paragraph and the revised \"After\" paragraph clearly labeled."
+                    },
+                    {
+                      name: "ADD - Added Specific Details",
+                      points: 6,
+                      description: "Added specific examples, details, or evidence. Replaced vague statements with concrete information. Significantly improved content depth."
+                    },
+                    {
+                      name: "REMOVE - Deleted Unnecessary Content",
+                      points: 4,
+                      description: "Removed repetitive, irrelevant, or weak sentences. Eliminated filler words and obvious statements."
+                    },
+                    {
+                      name: "MOVE - Improved Organization",
+                      points: 4,
+                      description: "Rearranged sentences for better logical flow. Grouped related ideas together. Used transitions to connect ideas."
+                    },
+                    {
+                      name: "SUBSTITUTE - Stronger Vocabulary",
+                      points: 5,
+                      description: "Replaced weak words (good, nice, really, a lot, fun, cool) with precise, academic vocabulary. Improved verbs and adjectives."
+                    },
+                    {
+                      name: "Sentence Fluency & Mechanics",
+                      points: 3,
+                      description: "Combined choppy sentences. Varied sentence structure. Correct grammar, spelling, punctuation. 80-120 words."
+                    }
+                  ]
+                },
+                exampleResponse: "**EXAMPLE REVISION (This would earn full points):**\n\n**BEFORE:**\nDogs make good pets. They are nice. Dogs can do tricks. You can teach them to sit and roll over. My dog is really cool. A lot of people have dogs. Dogs need food and water. They also need to go outside. Dogs are fun to play with.\n\n**AFTER:**\nDogs serve as excellent companions for families due to their loyalty, trainability, and affectionate nature. These intelligent animals can be taught to perform various commands, including sit, stay, fetch, and roll over, making them both entertaining and responsive to their owners. Additionally, dogs provide emotional support and can even be trained as service animals for individuals with disabilities. However, responsible ownership requires commitment: dogs need nutritious food, fresh water, daily exercise, and regular veterinary care. Furthermore, they thrive on social interaction and outdoor activities, which strengthens the bond between dog and owner. For these reasons, dogs remain one of the most popular and rewarding pets worldwide.\n\n**(Word Count: 108)**\n\n---\n\n**CHANGES I MADE:**\n\n✅ **ADDED:**\n- Specific traits: loyalty, trainability, affectionate nature\n- Specific commands: sit, stay, fetch, roll over\n- New detail: service animals for disabilities\n- Specific care needs: nutritious food, veterinary care, social interaction\n- Reason for popularity (conclusion)\n\n✅ **REMOVED:**\n- \"They are nice\" (vague, no information)\n- \"My dog is really cool\" (personal, off-topic)\n- \"A lot of people have dogs\" (irrelevant to quality as pets)\n\n✅ **MOVED:**\n- Grouped all training/abilities together (commands)\n- Grouped all care requirements together\n- Created logical flow: traits → abilities → care → conclusion\n\n✅ **SUBSTITUTED:**\n- \"make good pets\" → \"serve as excellent companions\"\n- \"nice\" → \"loyal, affectionate\"\n- \"can do tricks\" → \"can be taught to perform commands\"\n- \"need food and water\" → \"need nutritious food, fresh water\"\n- \"fun to play with\" → \"entertaining,\" \"social interaction\"\n- \"really cool\" → REMOVED\n- \"a lot of people\" → \"most popular\"\n\n✅ **SENTENCE FLUENCY:**\n- Combined choppy sentences into complex sentences\n- Added transitions: \"Additionally,\" \"However,\" \"Furthermore,\" \"For these reasons\"\n- Varied sentence structure and length",
+                writingSpace: {
+                  placeholder: "Submit your revision here...\n\nFormat:\n\nBEFORE:\n[Paste the original paragraph]\n\nAFTER:\n[Your revised paragraph]\n\nCHANGES I MADE:\n- Added: [list]\n- Removed: [list]\n- Moved: [describe]\n- Substituted: [list]\n\nShow your revision skills!",
+                  minWords: 150,
+                  suggestedWords: "200-250 words (includes both versions + explanation)"
+                },
+                helpfulHints: [
+                  "📋 MUST INCLUDE BOTH: Copy the \"Before\" paragraph, then write your \"After\" paragraph below it",
+                  "🅰️ ADD SPECIFICS: Replace \"Dogs can do tricks\" with \"Dogs can be trained to perform commands such as sit, stay, and fetch\"",
+                  "🗑️ REMOVE WEAK: Delete \"nice,\" \"cool,\" \"really,\" \"a lot of people have dogs,\" \"my dog\"",
+                  "🔀 MOVE for LOGIC: Group training info together, then care requirements, then conclusion",
+                  "💪 SUBSTITUTE POWER WORDS: good→excellent, nice→loyal/affectionate, fun→entertaining/engaging",
+                  "🔗 ADD TRANSITIONS: Use \"Additionally,\" \"Furthermore,\" \"However,\" \"For example\" to connect ideas",
+                  "✂️ COMBINE SENTENCES: Merge 2-3 choppy sentences into one flowing sentence with commas/conjunctions",
+                  "📝 EXPLAIN YOUR WORK: The \"Changes I Made\" section shows you understand A.R.M.S.—be specific!"
                 ]
               }
             }
@@ -3834,83 +3813,57 @@ export const courseData = {
             },
             {
               id: "writing-6-2",
-              title: "Practice: Research Skills",
-              type: "exercise",
+              title: "Research Assignment: Paraphrasing Practice",
+              type: "writing_exercise",
               content: {
-                instructions: "Evaluate sources, identify plagiarism, and demonstrate research skills.",
-                questions: [
-                  {
-                    id: "q1",
-                    question: "Which source is MOST credible for a research paper on ancient Egypt?",
-                    options: [
-                      "A Wikipedia article with no author listed",
-                      "A book by Dr. Sarah Ahmed, an Egyptologist at Harvard University, published in 2020",
-                      "A personal blog about someone's vacation to Egypt",
-                      "A social media post about pyramids"
-                    ],
-                    correctAnswer: 1,
-                    explanation: "This has authority (expert author), currency (recent), accuracy (from a reputable institution), making it most credible."
-                  },
-                  {
-                    id: "q2",
-                    question: "Original: 'Bees play a crucial role in pollinating crops.' Which is proper paraphrasing?",
-                    options: [
-                      "Bees have a crucial role in pollinating crops.",
-                      "Pollinating crops is a crucial role that bees play.",
-                      "Bees are essential for crop pollination, transferring pollen between plants.",
-                      "Bees play an important role in crop pollination."
-                    ],
-                    correctAnswer: 2,
-                    explanation: "This completely restructures the sentence and uses different words (essential, transferring pollen) while keeping the meaning."
-                  },
-                  {
-                    id: "q3",
-                    question: "Which research question is appropriately focused for a short research project?",
-                    options: [
-                      "What is science?",
-                      "Tell me about animals.",
-                      "How do monarch butterflies navigate during migration?",
-                      "What is everything about space?"
-                    ],
-                    correctAnswer: 2,
-                    explanation: "This is specific and focused (one species, one behavior). The others are too broad for a short project."
-                  },
-                  {
-                    id: "q4",
-                    question: "You find a great article but there's no author name listed. According to the CRAAP test, this affects:",
-                    options: [
-                      "Currency",
-                      "Relevance",
-                      "Authority",
-                      "Purpose"
-                    ],
-                    correctAnswer: 2,
-                    explanation: "Authority relates to who wrote it and their credentials. No author = questionable authority."
-                  },
-                  {
-                    id: "q5",
-                    question: "Which is an example of plagiarism?",
-                    options: [
-                      "Putting a direct quote in quotation marks and citing the source",
-                      "Paraphrasing an idea in your own words and citing the source",
-                      "Copying sentences from a website and changing a few words without citing",
-                      "Summarizing an article's main points in your own words with a citation"
-                    ],
-                    correctAnswer: 2,
-                    explanation: "This is plagiarism - copying without proper citation and without truly paraphrasing (just changing a few words isn't enough)."
-                  },
-                  {
-                    id: "q6",
-                    question: "What is the difference between summarizing and paraphrasing?",
-                    options: [
-                      "There is no difference; they're the same thing.",
-                      "Summarizing is shorter and covers main ideas; paraphrasing restates specific information in detail.",
-                      "Summarizing requires citations; paraphrasing doesn't.",
-                      "Paraphrasing is easier than summarizing."
-                    ],
-                    correctAnswer: 1,
-                    explanation: "Summarizing condenses to main ideas (shorter). Paraphrasing restates specific info in own words (similar length). Both need citations!"
-                  }
+                assignmentType: "research",
+                prompt: "**📚 RESEARCH SKILLS ASSIGNMENT: Paraphrasing Without Plagiarism**\n\n**Your Task:**\nRead the short article passage below and write a 3-sentence summary that demonstrates proper paraphrasing skills. Your summary MUST be in your own words—you cannot use more than 3 words in a row from the original text.\n\n**ARTICLE PASSAGE:**\n\n**\"The Benefits of Reading for Pleasure\"**\n\nReading for pleasure offers numerous cognitive and emotional benefits for middle school students. Research conducted by the National Literacy Trust found that students who read for enjoyment at least 30 minutes per day scored significantly higher on standardized tests across all subjects compared to their peers who rarely read outside of school assignments. Furthermore, regular recreational reading improves vocabulary acquisition, enhances critical thinking skills, and strengthens neural pathways in the brain associated with comprehension and analysis. Beyond academic advantages, reading fiction cultivates empathy by allowing readers to experience diverse perspectives and emotional situations through characters' experiences. Psychologists also note that reading before bedtime reduces stress and improves sleep quality, making it a beneficial habit for adolescents navigating the pressures of middle school.\n\n---\n\n**Your Assignment:**\nWrite a **3-sentence summary** (approximately 60-80 words total) that:\n\n✅ Captures the main ideas from the passage\n✅ Uses your OWN words (no more than 3 consecutive words from original)\n✅ Changes sentence structure completely\n✅ Includes a proper citation at the end\n✅ Does NOT include your personal opinions\n\n**Citation Format:** (Source: \"The Benefits of Reading for Pleasure\")",
+                instructions: "**STEP-BY-STEP PARAPHRASING GUIDE:**\n\n**STEP 1: Read and Identify Main Ideas**\n\nRead the passage and list the KEY POINTS (not every detail!):\n\n1. Reading for pleasure has cognitive and emotional benefits\n2. Students who read 30+ min/day score higher on tests\n3. Reading improves vocabulary, thinking, brain pathways\n4. Fiction builds empathy through character experiences\n5. Reading before bed reduces stress and improves sleep\n\n---\n\n**STEP 2: Put the Article AWAY**\n\nDon't look at it while you write! This prevents copying.\n\n---\n\n**STEP 3: Write in YOUR Words**\n\n**❌ BAD PARAPHRASING (Too Similar - This is PLAGIARISM!):**\n\"Reading for pleasure offers many cognitive and emotional benefits. Students who read for enjoyment 30 minutes daily scored higher on tests. Reading improves vocabulary, thinking skills, and brain pathways.\"\n\n**Problem:** Uses same phrases, same structure, too many identical words!\n\n**✅ GOOD PARAPHRASING:**\n\"Recreational reading provides significant advantages for adolescent development, including improved academic performance and mental well-being. Daily reading habits correlate with enhanced test results, expanded vocabulary, and stronger analytical abilities. Additionally, engaging with fictional narratives helps young people develop greater emotional understanding while promoting relaxation and better rest patterns.\"\n\n**Why it works:**\n- Different sentence structure\n- Synonyms used (recreational vs. pleasure, adolescent vs. middle school)\n- Combined/reorganized ideas\n- No more than 2-3 words in a row from original\n\n---\n\n**STEP 4: Use the 3-WORD RULE**\n\nYou can use UP TO 3 consecutive words from the original IF they're common phrases or unavoidable technical terms.\n\n**Acceptable:**\n- \"middle school students\" (common phrase)\n- \"vocabulary acquisition\" (technical term)\n- \"standardized tests\" (specific term)\n\n**NOT Acceptable:**\n- \"reading for pleasure offers numerous cognitive and emotional benefits\" (9 words!)\n- \"improves vocabulary acquisition, enhances critical thinking skills\" (6 words)\n\n---\n\n**STEP 5: Change Sentence Structure**\n\n**Original Structure:**\n\"Research conducted by the National Literacy Trust found that students who read for enjoyment at least 30 minutes per day scored significantly higher...\"\n\n**Paraphrased Structures:**\n\nOption 1 (Passive → Active):\n\"Studies demonstrate that daily reading correlates with improved academic performance.\"\n\nOption 2 (Subordinate → Main Clause):\n\"Students who dedicate time to reading each day achieve better test results.\"\n\nOption 3 (Split/Combine):\n\"Regular reading habits benefit students academically. Research shows higher test scores among daily readers.\"\n\n---\n\n**STEP 6: Use SYNONYMS**\n\n**Word Bank for This Passage:**\n\n| Original | Synonyms |\n|----------|----------|\n| reading for pleasure | recreational reading, voluntary reading, leisure reading |\n| benefits | advantages, positive effects, improvements |\n| middle school students | adolescents, young people, youth |\n| cognitive | mental, intellectual, thinking-related |\n| scored higher | achieved better results, performed better, excelled |\n| vocabulary | word knowledge, lexicon, language skills |\n| enhances | improves, strengthens, boosts, develops |\n| empathy | emotional understanding, compassion, perspective-taking |\n| stress | anxiety, pressure, tension |\n| beneficial | helpful, advantageous, positive |\n\n---\n\n**STEP 7: Summarize (Don't Include Everything!)**\n\n**A summary is SHORTER than the original.**\n- Original passage: ~120 words\n- Your summary: 60-80 words (3 sentences)\n\n**Focus on MAIN IDEAS ONLY:**\n✅ Include: Overall benefits, academic improvements, emotional/empathy development\n❌ Skip: Specific researcher names, exact statistics, minor details\n\n---\n\n**STEP 8: Add Citation**\n\nEven though you paraphrased, you MUST cite the source!\n\nEnd your summary with:\n**(Source: \"The Benefits of Reading for Pleasure\")**\n\n---\n\n**📋 CHECKLIST BEFORE SUBMITTING:**\n\n✅ I wrote 3 sentences (60-80 words total)\n✅ I covered the MAIN ideas from the passage\n✅ I used my OWN sentence structures\n✅ I used SYNONYMS for key terms\n✅ I checked: no more than 3 words in a row from original\n✅ I did NOT include my personal opinion\n✅ I added the citation at the end\n✅ My grammar, spelling, and punctuation are correct",
+                rubric: {
+                  title: "Grading Rubric (Total: 25 points)",
+                  criteria: [
+                    {
+                      name: "Paraphrasing (Original Wording)",
+                      points: 10,
+                      description: "MOST IMPORTANT: Text is in student's own words. No more than 3 consecutive words from the original (except unavoidable common phrases). Demonstrates true understanding by restructuring ideas."
+                    },
+                    {
+                      name: "Main Ideas Captured",
+                      points: 6,
+                      description: "Summary includes the key points from the passage: reading benefits (academic AND emotional/empathy), without including every minor detail."
+                    },
+                    {
+                      name: "Sentence Structure Changed",
+                      points: 4,
+                      description: "Does not copy the original sentence patterns. Uses different grammatical structures to present the same information."
+                    },
+                    {
+                      name: "Citation Included",
+                      points: 2,
+                      description: "Proper citation included at the end: (Source: \"The Benefits of Reading for Pleasure\")"
+                    },
+                    {
+                      name: "Summary Length & Mechanics",
+                      points: 3,
+                      description: "Exactly 3 sentences, approximately 60-80 words total. Correct grammar, spelling, and punctuation. Objective tone (no personal opinions)."
+                    }
+                  ]
+                },
+                exampleResponse: "**EXAMPLE SUMMARY (This would earn full points):**\n\nRecreational reading provides significant advantages for adolescent development, including enhanced academic performance and emotional intelligence. Daily reading habits correlate with improved test results and stronger language abilities, as regular engagement with text strengthens mental processes related to comprehension and analysis. Additionally, immersing oneself in fictional narratives helps young people develop greater empathy and understanding of diverse perspectives, while bedtime reading promotes relaxation and quality sleep. (Source: \"The Benefits of Reading for Pleasure\")\n\n**(Word Count: 70 words, 3 sentences)**\n\n---\n\n**WHY THIS EARNS FULL POINTS:**\n\n✅ **Paraphrasing (10/10):**\n- \"Recreational reading\" instead of \"Reading for pleasure\"\n- \"Enhanced academic performance\" instead of \"scored significantly higher on tests\"\n- \"Emotional intelligence\" instead of \"emotional benefits\"\n- \"Correlate with\" instead of \"found that\"\n- \"Mental processes\" instead of \"neural pathways in the brain\"\n- \"Immersing oneself in fictional narratives\" instead of \"reading fiction\"\n- \"Quality sleep\" instead of \"improves sleep quality\"\n- No phrases longer than 3 words from original\n\n✅ **Main Ideas (6/6):**\n1. Academic benefits (test scores, language/vocabulary)\n2. Cognitive benefits (comprehension, analysis)\n3. Emotional benefits (empathy, perspectives)\n4. Physical/wellness benefits (sleep, relaxation)\n\n✅ **Sentence Structure Changed (4/4):**\n- Original uses complex subordinate clauses; summary uses simpler declarative sentences\n- Reorganized information into different groupings\n- Combined multiple ideas from different parts of passage\n\n✅ **Citation (2/2):**\n- Proper format at the end\n\n✅ **Length & Mechanics (3/3):**\n- Exactly 3 sentences\n- 70 words (within 60-80 range)\n- Perfect grammar, spelling, punctuation\n- Objective tone (no \"I think\" or opinions)",
+                writingSpace: {
+                  placeholder: "Write your 3-sentence paraphrased summary here...\n\nRemember:\n📝 3 sentences (60-80 words total)\n🔄 Use YOUR OWN WORDS and sentence structures\n🚫 No more than 3 consecutive words from original\n📚 Include citation at the end\n🎯 Main ideas only (no minor details)\n💭 No personal opinions\n\nShow your paraphrasing skills!",
+                  minWords: 50,
+                  suggestedWords: "60-80 words"
+                },
+                helpfulHints: [
+                  "📖 READ FIRST, WRITE LATER: Read the passage, close it, then write from memory of the main ideas",
+                  "🔍 3-WORD RULE: Count words! \"reading for pleasure offers numerous\" = 5 words = TOO MANY from original",
+                  "🔄 CHANGE STRUCTURE: If original says \"Research found that X,\" try \"Studies demonstrate X\" or \"Evidence shows X\"",
+                  "💬 USE SYNONYMS: pleasure→recreational, benefits→advantages, students→adolescents, scored higher→performed better",
+                  "✂️ SUMMARIZE = SHORTEN: You don't need EVERY detail. Focus on: 1) Academic benefits 2) Empathy 3) Sleep/stress",
+                  "📚 CITE IT: Even paraphrased info needs citation! Add (Source: \"The Benefits of Reading for Pleasure\") at the end",
+                  "🚫 AVOID COPYING: If you find yourself using the same words, STOP and think: \"How would I explain this to a friend?\"",
+                  "✅ CHECK YOUR WORK: After writing, compare to original. Highlight any matching 4+ word phrases and revise them!"
                 ]
               }
             }
@@ -3941,60 +3894,57 @@ export const courseData = {
             },
             {
               id: "writing-7-2",
-              title: "Practice: Transition Words",
-              type: "exercise",
+              title: "Transition Words Assignment: Camping Trip Narrative",
+              type: "writing_exercise",
               content: {
-                instructions: "Choose the best transition word for each sentence based on the relationship between ideas.",
-                questions: [
-                  {
-                    id: "q1",
-                    question: "The team practiced every day. _____, they won the championship.",
-                    options: ["However", "Consequently", "On the other hand", "Similarly"],
-                    correctAnswer: 1,
-                    explanation: "'Consequently' shows cause and effect - they won BECAUSE they practiced. 'However' would show contrast, which doesn't fit."
-                  },
-                  {
-                    id: "q2",
-                    question: "Smartphones are convenient. _____, they can be distracting in class.",
-                    options: ["Similarly", "Furthermore", "However", "Therefore"],
-                    correctAnswer: 2,
-                    explanation: "'However' shows contrast between the positive (convenient) and negative (distracting) aspects."
-                  },
-                  {
-                    id: "q3",
-                    question: "_____ preheating the oven, mix all the dry ingredients together.",
-                    options: ["Therefore", "However", "Initially", "Despite"],
-                    correctAnswer: 2,
-                    explanation: "'Initially' shows sequence - this is the first step in the process. It indicates the beginning."
-                  },
-                  {
-                    id: "q4",
-                    question: "Dogs require daily exercise. _____, cats also need regular physical activity.",
-                    options: ["However", "Similarly", "Consequently", "Nevertheless"],
-                    correctAnswer: 1,
-                    explanation: "'Similarly' shows comparison - both animals need exercise. This indicates a similarity between dogs and cats."
-                  },
-                  {
-                    id: "q5",
-                    question: "Many animals hibernate during winter. _____, bears sleep for months to conserve energy during food shortages.",
-                    options: ["However", "On the other hand", "For example", "Consequently"],
-                    correctAnswer: 2,
-                    explanation: "'For example' introduces a specific instance (bears) of the general statement (animals hibernate)."
-                  },
-                  {
-                    id: "q6",
-                    question: "The experiment failed twice. _____, the scientists didn't give up and tried a new approach.",
-                    options: ["Therefore", "Consequently", "Nevertheless", "Similarly"],
-                    correctAnswer: 2,
-                    explanation: "'Nevertheless' shows contrast - despite the failures (negative), they persisted (positive). It means 'in spite of that.'"
-                  },
-                  {
-                    id: "q7",
-                    question: "_____, renewable energy sources reduce pollution and decrease dependence on fossil fuels.",
-                    options: ["However", "In conclusion", "For instance", "On the other hand"],
-                    correctAnswer: 1,
-                    explanation: "'In conclusion' signals the end of an argument or essay, summarizing the main benefits."
-                  }
+                assignmentType: "transition",
+                prompt: "**🔗 TRANSITION WORDS ASSIGNMENT: Make It Flow!**\n\n**Your Task:**\nRewrite FIVE unconnected sentences about a camping trip into ONE flowing paragraph using at least **FOUR different transition words** to show the relationships between ideas.\n\n**THE FIVE SENTENCES (No transitions, choppy flow):**\n\n1. We arrived at the campsite and set up our tent.\n2. We gathered firewood from the surrounding forest.\n3. The sun began to set behind the mountains.\n4. We roasted marshmallows over the campfire.\n5. We crawled into our sleeping bags and fell asleep under the stars.\n\n---\n\n**Your Assignment:**\nRewrite these 5 sentences into a cohesive paragraph (80-120 words) by:\n\n✅ **Adding at least 4 transition words** from different categories\n✅ **Combining some sentences** (don't just add transitions between every sentence!)\n✅ **Adding a few details** to make it more interesting (sounds, sights, feelings)\n✅ **Creating smooth, logical flow** from one idea to the next\n\n**Transition Categories to Use:**\n- **Sequence:** First, Initially, Next, Then, Subsequently, Finally\n- **Addition:** Additionally, Furthermore, Moreover, Also\n- **Contrast:** However, Nevertheless, Despite, Although\n- **Time:** Meanwhile, Afterwards, Eventually, Soon\n- **Example/Emphasis:** In fact, Specifically, Particularly",
+                instructions: "**STEP-BY-STEP GUIDE:**\n\n**STEP 1: Identify Relationships Between Sentences**\n\nLook at how ideas connect:\n\n1. \"We arrived\" → 2. \"We gathered firewood\" = **SEQUENCE** (First this, then that)\n2. \"Gathered firewood\" → 3. \"Sun began to set\" = **TIME SHIFT** (While doing this, something else happened)\n3. \"Sun set\" → 4. \"Roasted marshmallows\" = **SEQUENCE** (Next step)\n4. \"Roasted marshmallows\" → 5. \"Fell asleep\" = **SEQUENCE/TIME** (After that, finally)\n\n---\n\n**STEP 2: Choose Appropriate Transitions**\n\n**For Sentence 1→2 (Sequence):**\n- First... Next...\n- Upon arrival... Subsequently...\n- After...\n\n**For Sentence 2→3 (Simultaneous Time):**\n- Meanwhile... (shows things happening at same time)\n- As... (while)\n- During this time...\n\n**For Sentence 3→4 (Sequence continues):**\n- Once... (after sun set)\n- Then...\n- Afterwards...\n\n**For Sentence 4→5 (Final sequence):**\n- Finally...\n- Eventually...\n- Later that night...\n\n---\n\n**STEP 3: Combine Sentences (Don't Just Add Transitions!)**\n\n**❌ WEAK (Just adding transitions between choppy sentences):**\n\"First, we arrived at the campsite and set up our tent. Next, we gathered firewood from the surrounding forest. Then, the sun began to set behind the mountains. After that, we roasted marshmallows over the campfire. Finally, we crawled into our sleeping bags and fell asleep under the stars.\"\n\n**Problem:** Still choppy! Every sentence starts with a transition. Mechanical.\n\n**✅ STRONG (Combining + Varying structure):**\n\"Upon arriving at the campsite, we immediately set up our tent and began gathering firewood from the surrounding forest. **Meanwhile**, the sun gradually descended behind the mountains, painting the sky in shades of orange and pink. **Once darkness fell**, we lit our campfire and roasted marshmallows, sharing stories and laughter. **Eventually**, exhausted from the day's adventures, we crawled into our sleeping bags. **Finally**, we drifted off to sleep under a canopy of glittering stars.\"\n\n**Why it's better:**\n- Combines related actions (arrived + set up + gathered)\n- Varies where transitions appear (not just at start)\n- Adds sensory details (orange/pink sky, glittering stars)\n- Creates natural flow\n\n---\n\n**STEP 4: Add Details (Make It Interesting!)**\n\n**Add sensory details:**\n- **Sight:** \"orange and pink sky,\" \"glittering stars,\" \"crackling flames\"\n- **Sound:** \"crackling fire,\" \"rustling leaves,\" \"chirping crickets\"\n- **Smell:** \"smoky scent,\" \"pine-scented air\"\n- **Touch:** \"cool mountain breeze,\" \"warm sleeping bag\"\n- **Taste:** \"sweet marshmallows,\" \"crispy edges\"\n\n**Add emotions/reactions:**\n- \"excited to begin our adventure\"\n- \"exhausted but content\"\n- \"peaceful silence\"\n\n---\n\n**STEP 5: Vary Transition Placement**\n\n**Don't always put transitions at the START of sentences!**\n\n**Beginning:** \"**Meanwhile**, the sun began to set.\"\n**Middle:** \"The sun, **meanwhile**, began to set behind the mountains.\"\n**Between clauses:** \"We gathered firewood, and **meanwhile**, the sun began its descent.\"\n\n---\n\n**STEP 6: Use AT LEAST 4 Different Transitions from Different Categories**\n\n**Example Mix:**\n1. **Sequence:** \"Upon arriving\" (shows first action)\n2. **Time:** \"Meanwhile\" (shows simultaneous action)\n3. **Sequence:** \"Once darkness fell\" (shows next stage)\n4. **Conclusion:** \"Finally\" (shows end)\n\n**Check that you used DIFFERENT types!**\n❌ Don't use: First, Then, Next, Finally (all sequence - too repetitive!)\n✅ Do use: Initially, Meanwhile, Afterwards, In fact (varied categories)\n\n---\n\n**TRANSITION WORD BANK (Choose 4+ from different categories):**\n\n**SEQUENCE/ORDER:**\n- First, Initially, To begin with\n- Next, Then, Subsequently, Afterwards\n- Finally, Ultimately, In the end\n\n**TIME:**\n- Meanwhile, Simultaneously, At the same time\n- Soon, Shortly, Eventually\n- Once, After, Before, During\n\n**ADDITION:**\n- Additionally, Furthermore, Moreover\n- Also, In addition, Besides\n\n**EMPHASIS:**\n- In fact, Indeed, Particularly\n- Especially, Specifically\n\n**CONTRAST (if you add contrast):**\n- However, Although, Despite\n- Nevertheless, On the other hand\n\n---\n\n**📋 CHECKLIST:**\n\n✅ I rewrote all 5 original ideas\n✅ I used at least 4 DIFFERENT transition words\n✅ My transitions come from DIFFERENT categories (not all \"First/Next/Then/Finally\")\n✅ I combined some sentences (not 5 separate short sentences)\n✅ I added at least 2-3 sensory details or emotions\n✅ I varied where transitions appear (not all at sentence beginnings)\n✅ My paragraph flows smoothly when read aloud\n✅ 80-120 words\n✅ Correct grammar, spelling, punctuation",
+                rubric: {
+                  title: "Grading Rubric (Total: 25 points)",
+                  criteria: [
+                    {
+                      name: "Transition Words (Quantity & Variety)",
+                      points: 8,
+                      description: "MOST IMPORTANT: Uses at least 4 different transition words from at least 3 different categories (sequence, time, addition, emphasis). Transitions are varied, not repetitive."
+                    },
+                    {
+                      name: "Logical Flow & Cohesion",
+                      points: 6,
+                      description: "Transitions connect ideas logically. Paragraph flows smoothly from one idea to the next. Reads naturally, not choppy or mechanical."
+                    },
+                    {
+                      name: "Sentence Combining",
+                      points: 4,
+                      description: "Combined related sentences effectively. Not just 5 short sentences with transitions between them. Shows variety in sentence structure."
+                    },
+                    {
+                      name: "Added Details",
+                      points: 4,
+                      description: "Added sensory details, emotions, or descriptive language to enhance the narrative beyond the basic 5 sentences."
+                    },
+                    {
+                      name: "Mechanics & Word Count",
+                      points: 3,
+                      description: "Correct grammar, spelling, punctuation. All 5 original ideas included. 80-120 words."
+                    }
+                  ]
+                },
+                exampleResponse: "**EXAMPLE PARAGRAPH (This would earn full points):**\n\nUpon arriving at the secluded mountain campsite late in the afternoon, we immediately unpacked our gear and set up our tent beneath towering pine trees. **Subsequently**, we ventured into the surrounding forest to gather firewood for the evening, our arms soon filled with dry branches and kindling. **Meanwhile**, the sun gradually descended behind the jagged mountain peaks, transforming the sky into a breathtaking canvas of orange, pink, and purple hues. **Once darkness enveloped the campsite**, we lit our campfire and roasted golden marshmallows over the crackling flames, their sweet aroma filling the cool night air. **Finally**, exhausted but deeply content after our day's adventure, we crawled into our warm sleeping bags and drifted off to sleep beneath a magnificent canopy of glittering stars.\n\n**(Word Count: 119)**\n\n---\n\n**WHY THIS EARNS FULL POINTS:**\n\n✅ **Transition Words (8/8):**\n\n4+ transitions from DIFFERENT categories:\n1. **\"Upon arriving\"** - TIME/SEQUENCE (shows initial action)\n2. **\"Subsequently\"** - SEQUENCE (shows next step)\n3. **\"Meanwhile\"** - TIME (shows simultaneous action)\n4. **\"Once darkness enveloped\"** - TIME/SEQUENCE (shows transition to next phase)\n5. **\"Finally\"** - CONCLUSION (shows end of sequence)\n\n**Categories used:** Time (3), Sequence (2), Conclusion (1) = Excellent variety!\n\n✅ **Logical Flow (6/6):**\n- Transitions perfectly match relationships (Meanwhile for simultaneous sun setting, Once for trigger event)\n- Smooth progression: Arrival → Setup → Gather wood → (Sun sets) → Campfire → Sleep\n- Natural, not forced\n\n✅ **Sentence Combining (4/4):**\n- Sentence 1 (arrived + set up) = Combined with \"Upon arriving... immediately\"\n- Sentences 2 & 3 (gathering wood + sun setting) = Connected with \"Meanwhile\" to show simultaneous actions\n- Sentence 4 = Expanded with \"Once darkness\" trigger\n- Sentence 5 = Enhanced with \"exhausted but content\"\n- Varied structures: participial phrases, compound verbs, descriptive clauses\n\n✅ **Added Details (4/4):**\n- **Sensory:** \"towering pine trees,\" \"crackling flames,\" \"sweet aroma,\" \"glittering stars\"\n- **Visual:** \"orange, pink, purple hues,\" \"jagged mountain peaks,\" \"golden marshmallows\"\n- **Emotional:** \"exhausted but deeply content,\" \"magnificent\"\n- **Descriptive:** \"secluded mountain campsite,\" \"warm sleeping bags\"\n\n✅ **Mechanics (3/3):**\n- Perfect grammar, spelling, punctuation\n- All 5 original ideas present\n- 119 words (within 80-120 range)",
+                writingSpace: {
+                  placeholder: "Rewrite the camping trip paragraph here...\n\nRemember to:\n🔗 Use 4+ transition words from DIFFERENT categories\n📝 Combine sentences (don't keep all 5 separate!)\n🎨 Add sensory details and descriptions\n✨ Make it flow smoothly\n📏 80-120 words\n\nCreate a cohesive narrative!",
+                  minWords: 70,
+                  suggestedWords: "80-120 words"
+                },
+                helpfulHints: [
+                  "🔗 VARY YOUR TRANSITIONS: Don't use First/Then/Next/Finally (too repetitive!). Mix it up: Initially/Meanwhile/Once/Finally",
+                  "🎯 MATCH TRANSITIONS TO MEANING: Use 'Meanwhile' for simultaneous actions, 'Once' for triggered events, 'Subsequently' for sequence",
+                  "✂️ COMBINE RELATED IDEAS: Merge \"arrived\" + \"set up tent\" into one sentence, they're closely related actions",
+                  "🎨 ADD SENSORY DETAILS: Don't just say \"sun set\"—say \"sun descended, painting the sky orange and pink\"",
+                  "📍 VARY PLACEMENT: Not every transition needs to start a sentence! Try middle: \"The sun, meanwhile, began to set\"",
+                  "🔊 READ ALOUD: Does it flow naturally? If it sounds choppy or mechanical, revise!",
+                  "💡 USE TIME SHIFTS: 'Meanwhile' is perfect for the sun setting WHILE you're gathering wood (simultaneous!)",
+                  "🏁 STRONG ENDING: Use 'Finally' or 'Eventually' for the sleep sentence to signal conclusion"
                 ]
               }
             }
